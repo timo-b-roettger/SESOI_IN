@@ -1,0 +1,33 @@
+publication	stimuli	pair	elicitation_method	material	prosodic_position	acoustic_cue	dur	sd	voicing	note	N
+Greisbach_2001	Bund	1	read contrastive	embedded	mixed	preceding vowel duration in ms	122	37	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Bund	1	read contrastive	embedded	mixed	closure voicing in ms	40	23	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Bund	1	read contrastive	embedded	mixed	aspiration in ms	53	32	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Bund	1	read contrastive	embedded	mixed	relative intensity of aspiration (compared to intensity of vowel) in dB	7.5	5.9	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	bunt	1	read contrastive	embedded	mixed	preceding vowel duration in ms	105	22	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	bunt	1	read contrastive	embedded	mixed	closure voicing in ms	42	24	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	bunt	1	read contrastive	embedded	mixed	aspiration in ms	88	32	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	bunt	1	read contrastive	embedded	mixed	relative intensity of aspiration (compared to intensity of vowel) in dB	2.1	6.3	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grad	2	read list	embedded	word-final	preceding vowel duration in ms	209	48	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grad	2	read list	embedded	word-final	closure voicing in ms	44	16	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grad	2	read list	embedded	word-final	aspiration in ms	22	13	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grad	2	read list	embedded	word-final	relative intensity of aspiration (compared to intensity of vowel) in dB	14.5	6.7	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grad	2	read contrastive	embedded	mixed	preceding vowel duration in ms	198	41	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grad	2	read contrastive	embedded	mixed	closure voicing in ms	71	21	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grad	2	read contrastive	embedded	mixed	aspiration in ms	41	28	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grad	2	read contrastive	embedded	mixed	relative intensity of aspiration (compared to intensity of vowel) in dB	11.4	7.7	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grat	2	read list	embedded	word-final	preceding vowel duration in ms	225	54	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grat	2	read list	embedded	word-final	closure voicing in ms	47	15	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grat	2	read list	embedded	word-final	aspiration in ms	40	40	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grat	2	read list	embedded	word-final	relative intensity of aspiration (compared to intensity of vowel) in dB	11.6	7.3	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grat	2	read contrastive	embedded	mixed	preceding vowel duration in ms	181	27	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grat	2	read contrastive	embedded	mixed	closure voicing in ms	77	20	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grat	2	read contrastive	embedded	mixed	aspiration in ms	88	42	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	Grat	2	read contrastive	embedded	mixed	relative intensity of aspiration (compared to intensity of vowel) in dB	6.6	8.2	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	Lied	3	read list	embedded	word-final	preceding vowel duration in ms	79	15	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Lied	3	read list	embedded	word-final	closure voicing in ms	50	14	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Lied	3	read list	embedded	word-final	aspiration in ms	30	9	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	Lied	3	read list	embedded	word-final	relative intensity of aspiration (compared to intensity of vowel) in dB	6.6	6.4	voiced	averaged over 12 speakers and two productions	24
+Greisbach_2001	lieht	3	read list	embedded	word-final	preceding vowel duration in ms	92	28	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	lieht	3	read list	embedded	word-final	closure voicing in ms	56	15	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	lieht	3	read list	embedded	word-final	aspiration in ms	36	18	voiceless	averaged over 12 speakers and two productions	24
+Greisbach_2001	lieht	3	read list	embedded	word-final	relative intensity of aspiration (compared to intensity of vowel) in dB	3.5	4.6	voiceless	averaged over 12 speakers and two productions	24

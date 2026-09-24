@@ -1,0 +1,131 @@
+publication	condition	elicitation_method	material	prosodic_position	stimuli	pair	voicing	acoustic_cue	dur	sd	note	N
+Port_Crawford_1989	1A	read list	embedded	word-final	Bund 	1	voiced	burst duration in ms	7.07	14.35	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Bund 	1	voiced	burst duration in ms	4.73	6.38	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Bund 	1	voiced	burst duration in ms	36.22	17.4	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Bund 	1	voiced	burst duration in ms	45.28	39.61	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Bund 	1	voiced	burst duration in ms	48.62	34.54	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Bund 	1	voiced	closure voicing in pulses	1.9	1.29	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Bund 	1	voiced	closure voicing in pulses	3	1.15	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Bund 	1	voiced	closure voicing in pulses	1.6	0.75	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Bund 	1	voiced	closure voicing in pulses	1.3	0.57	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Bund 	1	voiced	closure voicing in pulses	1.35	0.59	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Bund 	1	voiced	clusure duration in ms	18.5	12.46	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Bund 	1	voiced	clusure duration in ms	20.46	10.95	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Bund 	1	voiced	clusure duration in ms	32.28	18.14	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Bund 	1	voiced	clusure duration in ms	40.74	21.12	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Bund 	1	voiced	clusure duration in ms	54.33	20.34	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Bund 	1	voiced	nasal duration in ms	60.23	14.5	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Bund 	1	voiced	nasal duration in ms	59.84	11.41	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Bund 	1	voiced	nasal duration in ms	98.43	15.49	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Bund 	1	voiced	nasal duration in ms	139.17	31.61	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Bund 	1	voiced	nasal duration in ms	129.96	40.37	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Bund 	1	voiced	preceding vowel duration in ms	72.44	12.2	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Bund 	1	voiced	preceding vowel duration in ms	71.25	8.6	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Bund 	1	voiced	preceding vowel duration in ms	97.63	14.08	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Bund 	1	voiced	preceding vowel duration in ms	112.8	14.66	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Bund 	1	voiced	preceding vowel duration in ms	131.5	28.69	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	bunt	1	voiceless	burst duration in ms	2.76	3.24	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	bunt	1	voiceless	burst duration in ms	6.3	7.92	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	bunt	1	voiceless	burst duration in ms	48.43	23	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	bunt	1	voiceless	burst duration in ms	82.68	40.67	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	bunt	1	voiceless	burst duration in ms	89.17	39.08	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	bunt	1	voiceless	closure voicing in pulses	2.6	1.17	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	bunt	1	voiceless	closure voicing in pulses	2.6	1.08	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	bunt	1	voiceless	closure voicing in pulses	1.8	0.89	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	bunt	1	voiceless	closure voicing in pulses	1.4	0.6	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	bunt	1	voiceless	closure voicing in pulses	1.7	0.8	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	bunt	1	voiceless	clusure duration in ms	12.2	8.79	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	bunt	1	voiceless	clusure duration in ms	32.28	16.47	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	bunt	1	voiceless	clusure duration in ms	31.3	15.03	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	bunt	1	voiceless	clusure duration in ms	49.01	21.77	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	bunt	1	voiceless	clusure duration in ms	57.09	26.41	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	bunt	1	voiceless	nasal duration in ms	70.47	18.6	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	bunt	1	voiceless	nasal duration in ms	66.54	14.19	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	bunt	1	voiceless	nasal duration in ms	89.96	22.86	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	bunt	1	voiceless	nasal duration in ms	117.52	26.22	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	bunt	1	voiceless	nasal duration in ms	130.91	21.9	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	bunt	1	voiceless	preceding vowel duration in ms	73.23	13.54	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	bunt	1	voiceless	preceding vowel duration in ms	69.29	4.23	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	bunt	1	voiceless	preceding vowel duration in ms	98.03	16	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	bunt	1	voiceless	preceding vowel duration in ms	112.01	18	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	bunt	1	voiceless	preceding vowel duration in ms	127.36	18.65	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Rad	2	voiced	burst duration in ms	20.08	9.54	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Rad	2	voiced	burst duration in ms	16.54	7.61	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Rad	2	voiced	burst duration in ms	32.87	23.46	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Rad	2	voiced	burst duration in ms	25.2	19.89	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Rad	2	voiced	burst duration in ms	59.06	40.51	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Rad	2	voiced	closure voicing in pulses	2.4	1.26	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Rad	2	voiced	closure voicing in pulses	2.8	1.14	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Rad	2	voiced	closure voicing in pulses	2.8	1.01	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Rad	2	voiced	closure voicing in pulses	2.15	1.04	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Rad	2	voiced	closure voicing in pulses	2.2	0.62	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Rad	2	voiced	clusure duration in ms	54.72	15.35	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Rad	2	voiced	clusure duration in ms	50	12.03	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Rad	2	voiced	clusure duration in ms	68.89	17.54	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Rad	2	voiced	clusure duration in ms	86.22	20.71	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Rad	2	voiced	clusure duration in ms	88.98	33.37	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Rad	2	voiced	preceding vowel duration in ms	138.19	32.06	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Rad	2	voiced	preceding vowel duration in ms	145.03	19.47	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Rad	2	voiced	preceding vowel duration in ms	178.14	25.7	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Rad	2	voiced	preceding vowel duration in ms	203.34	26.6	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Rad	2	voiced	preceding vowel duration in ms	235.83	23.55	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Rat	2	voiceless	burst duration in ms	25.59	5.94	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Rat	2	voiceless	burst duration in ms	28.35	12.42	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Rat	2	voiceless	burst duration in ms	39.37	22.2	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Rat	2	voiceless	burst duration in ms	85.63	36.75	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Rat	2	voiceless	burst duration in ms	66.51	34.07	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Rat	2	voiceless	closure voicing in pulses	2.3	1.16	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Rat	2	voiceless	closure voicing in pulses	2.8	1.03	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Rat	2	voiceless	closure voicing in pulses	2.8	0.77	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Rat	2	voiceless	closure voicing in pulses	2.3	0.98	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Rat	2	voiceless	closure voicing in pulses	2.58	0.84	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Rat	2	voiceless	clusure duration in ms	59.84	10.3	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Rat	2	voiceless	clusure duration in ms	54.72	8.6	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Rat	2	voiceless	clusure duration in ms	67.52	20.18	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Rat	2	voiceless	clusure duration in ms	83.46	22.18	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Rat	2	voiceless	clusure duration in ms	89.93	22.82	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	Rat	2	voiceless	preceding vowel duration in ms	145.67	22.27	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	Rat	2	voiceless	preceding vowel duration in ms	140.94	17.09	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	Rat	2	voiceless	preceding vowel duration in ms	174.8	41.67	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	Rat	2	voiceless	preceding vowel duration in ms	203.57	30.32	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	Rat	2	voiceless	preceding vowel duration in ms	243.06	20.83	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	seid 	3	voiced	burst duration in ms	0	0	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	seid 	3	voiced	burst duration in ms	0	0	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	seid 	3	voiced	burst duration in ms	44.69	41.4	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	seid 	3	voiced	burst duration in ms	33.46	28.92	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	seid 	3	voiced	burst duration in ms	36.61	28.71	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	seid 	3	voiced	closure voicing in pulses	2.5	1.18	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	seid 	3	voiced	closure voicing in pulses	1.8	1.14	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	seid 	3	voiced	closure voicing in pulses	1.8	0.77	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	seid 	3	voiced	closure voicing in pulses	1.65	1.04	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	seid 	3	voiced	closure voicing in pulses	1.7	0.66	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	seid 	3	voiced	clusure duration in ms	69.29	14.4	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	seid 	3	voiced	clusure duration in ms	59.06	6.69	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	seid 	3	voiced	clusure duration in ms	70.28	32.04	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	seid 	3	voiced	clusure duration in ms	87.4	22.48	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	seid 	3	voiced	clusure duration in ms	92.32	20.58	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	seid 	3	voiced	preceding vowel duration in ms	97.64	12.42	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	seid 	3	voiced	preceding vowel duration in ms	76.77	10.54	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	seid 	3	voiced	preceding vowel duration in ms	186.22	31.73	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	seid 	3	voiced	preceding vowel duration in ms	221.85	28.14	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	seid 	3	voiced	preceding vowel duration in ms	237.4	29.46	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	seit	3	voiceless	burst duration in ms	0	0	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	seit	3	voiceless	burst duration in ms	0.39	1.25	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	seit	3	voiceless	burst duration in ms	64.29	31.01	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	seit	3	voiceless	burst duration in ms	81.89	32.33	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	seit	3	voiceless	burst duration in ms	72.83	37.19	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	seit	3	voiceless	closure voicing in pulses	1.2	0.42	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	seit	3	voiceless	closure voicing in pulses	1.4	0.7	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	seit	3	voiceless	closure voicing in pulses	2.05	0.76	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	seit	3	voiceless	closure voicing in pulses	1.6	0.88	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	seit	3	voiceless	closure voicing in pulses	1.9	0.97	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	seit	3	voiceless	clusure duration in ms	59.84	11.26	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	seit	3	voiceless	clusure duration in ms	60.24	13.39	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	seit	3	voiceless	clusure duration in ms	68.11	15.33	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	seit	3	voiceless	clusure duration in ms	87.01	13.45	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	seit	3	voiceless	clusure duration in ms	85.24	22.24	pooled across speakers	5
+Port_Crawford_1989	1A	read list	embedded	word-final	seit	3	voiceless	preceding vowel duration in ms	81.89	24.89	pooled across speakers	5
+Port_Crawford_1989	1B	repeat	embedded	word-final	seit	3	voiceless	preceding vowel duration in ms	69.29	11.47	pooled across speakers	5
+Port_Crawford_1989	2	read contrastive	embedded	phrase-final	seit	3	voiceless	preceding vowel duration in ms	180.51	21.19	pooled across speakers	5
+Port_Crawford_1989	3	dictate contrastive	embedded	mixed	seit	3	voiceless	preceding vowel duration in ms	203.74	20.35	pooled across speakers	5
+Port_Crawford_1989	4	read list	isolated words	phrase-final	seit	3	voiceless	preceding vowel duration in ms	227.56	26.72	pooled across speakers	5

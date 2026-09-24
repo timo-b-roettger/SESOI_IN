@@ -1,0 +1,751 @@
+publication	study	subject	item	voicing	usable	vowel_dur	comment
+Roettger_etal_2014	1	15	staug	voiced	usable	175.348118	
+Roettger_etal_2014	1	15	rok	voiceless	usable	142.93876	
+Roettger_etal_2014	1	15	schuk	voiceless	usable	103.278765	
+Roettger_etal_2014	1	15	quad	voiced	not_usable	198.189655	[kw] nicht nativer kluster
+Roettger_etal_2014	1	15	jiet	voiceless	usable	134.959224	
+Roettger_etal_2014	1	15	gaud	voiced	usable	200.714031	
+Roettger_etal_2014	1	15	flap	voiceless	usable	170.130933	
+Roettger_etal_2014	1	15	quop	voiceless	usable	146.76317	
+Roettger_etal_2014	1	15	prieg	voiced	not_usable	151.648318	VQ e; deaccented?
+Roettger_etal_2014	1	15	mub	voiced	usable	107.40031	
+Roettger_etal_2014	1	15	pruk	voiceless	usable	100.458557	
+Roettger_etal_2014	1	15	frub	voiced	usable	117.057011	
+Roettger_etal_2014	1	15	wieb	voiced	usable	136.206486	
+Roettger_etal_2014	1	15	gag	voiced	usable	228.448597	
+Roettger_etal_2014	1	15	klap	voiceless	usable	156.441999	
+Roettger_etal_2014	1	15	naug	voiced	usable	157.125253	
+Roettger_etal_2014	1	15	schriek	voiceless	usable	105.487716	
+Roettger_etal_2014	1	15	drut	voiceless	usable	148.074257	
+Roettger_etal_2014	1	15	blot	voiceless	usable	141.7069	
+Roettger_etal_2014	1	15	frad	voiced	usable	211.652844	
+Roettger_etal_2014	1	15	gob	voiced	usable	135.252969	
+Roettger_etal_2014	1	15	gried	voiced	usable	155.555983	
+Roettger_etal_2014	1	15	schmaup	voiceless	usable	138.796941	
+Roettger_etal_2014	1	15	frok	voiceless	usable	155.498907	
+Roettger_etal_2014	1	15	prug	voiced	not_usable	147.518519	VQ o
+Roettger_etal_2014	1	15	stauk	voiceless	usable	171.062534	
+Roettger_etal_2014	1	15	quat	voiceless	not_usable	219.898867	[kw] nicht nativer Kluster wie in Quad, also ok (?)
+Roettger_etal_2014	1	15	schug	voiced	usable	167.973673	
+Roettger_etal_2014	1	15	gaut	voiceless	usable	187.405014	
+Roettger_etal_2014	1	15	mup	voiceless	usable	146.314622	
+Roettger_etal_2014	1	15	frup	voiceless	usable	106.084614	
+Roettger_etal_2014	1	15	flab	voiced	usable	129.194826	
+Roettger_etal_2014	1	15	quob	voiced	usable	178.12078	
+Roettger_etal_2014	1	15	jied	voiced	usable	167.128283	VQ e
+Roettger_etal_2014	1	15	rog	voiced	usable	153.487563	
+Roettger_etal_2014	1	15	priek	voiceless	not_usable	108.600143	VQ e + hesitation befor target
+Roettger_etal_2014	1	15	wiep	voiceless	usable	104.455177	
+Roettger_etal_2014	1	15	gop	voiceless	usable	148.72101	
+Roettger_etal_2014	1	15	griet	voiceless	usable	146.059932	
+Roettger_etal_2014	1	15	nauk	voiceless	usable	137.654356	
+Roettger_etal_2014	1	15	schrieg	voiced	usable	125.161569	
+Roettger_etal_2014	1	15	frog	voiced	usable	140.695857	
+Roettger_etal_2014	1	15	schmaub	voiced	usable	128.149771	
+Roettger_etal_2014	1	15	blod	voiced	usable	163.672235	
+Roettger_etal_2014	1	15	gak	voiceless	usable	206.035576	
+Roettger_etal_2014	1	15	drud	voiced	usable	141.823447	
+Roettger_etal_2014	1	15	frat	voiceless	usable	168.989158	
+Roettger_etal_2014	1	15	klab	voiced	usable	161.983401	
+Roettger_etal_2014	1	6	prug	voiced	not_usable	91.014535	Prok
+Roettger_etal_2014	1	6	rog	voiced	usable	106.513483	
+Roettger_etal_2014	1	6	quob	voiced	usable	102.215491	cant detect bo
+Roettger_etal_2014	1	6	priek	voiceless	usable	107.153578	
+Roettger_etal_2014	1	6	stauk	voiceless	usable	147.079199	
+Roettger_etal_2014	1	6	quat	voiceless	usable	160.884608	
+Roettger_etal_2014	1	6	frup	voiceless	usable	60.366425	cant detect burst
+Roettger_etal_2014	1	6	flab	voiced	usable	129.185354	
+Roettger_etal_2014	1	6	jied	voiced	not_usable	98.269101	VQ e
+Roettger_etal_2014	1	6	schug	voiced	usable	83.59683	
+Roettger_etal_2014	1	6	mup	voiceless	usable	81.437965	
+Roettger_etal_2014	1	6	gaut	voiceless	usable	175.505628	
+Roettger_etal_2014	1	6	gak	voiceless	usable	147.930989	Rauschen
+Roettger_etal_2014	1	6	griet	voiceless	usable	109.27734	
+Roettger_etal_2014	1	6	klab	voiced	usable	132.735688	cant detect bo
+Roettger_etal_2014	1	6	wiep	voiceless	usable	96.192238	
+Roettger_etal_2014	1	6	frog	voiced	usable	109.959781	
+Roettger_etal_2014	1	6	gop	voiceless	usable	116.572164	
+Roettger_etal_2014	1	6	frat	voiceless	usable	154.961257	
+Roettger_etal_2014	1	6	blod	voiced	usable	137.701213	
+Roettger_etal_2014	1	6	schrieg	voiced	usable	104.810023	
+Roettger_etal_2014	1	6	nauk	voiceless	usable	147.386048	
+Roettger_etal_2014	1	6	drud	voiced	not_usable	130.042039	VQ o ~ u
+Roettger_etal_2014	1	6	schmaub	voiced	usable	122.20974	
+Roettger_etal_2014	1	6	quad	voiced	usable	152.983431	
+Roettger_etal_2014	1	6	frub	voiced	usable	94.677588	
+Roettger_etal_2014	1	6	quop	voiceless	usable	122.106124	bw_release
+Roettger_etal_2014	1	6	staug	voiced	usable	162.746401	
+Roettger_etal_2014	1	6	pruk	voiceless	usable	76.9024	
+Roettger_etal_2014	1	6	prieg	voiced	usable	98.061049	
+Roettger_etal_2014	1	6	mub	voiced	usable	110.731443	NO RELEASE?
+Roettger_etal_2014	1	6	flap	voiceless	not_usable	137.714946	q
+Roettger_etal_2014	1	6	schuk	voiceless	usable	87.1483	
+Roettger_etal_2014	1	6	rok	voiceless	usable	108.546424	
+Roettger_etal_2014	1	6	gaud	voiced	usable	192.044382	
+Roettger_etal_2014	1	6	jiet	voiceless	usable	87.240181	
+Roettger_etal_2014	1	6	wieb	voiced	usable	95.284917	
+Roettger_etal_2014	1	6	gried	voiced	not_usable	133.457649	VQ e
+Roettger_etal_2014	1	6	drut	voiceless	usable	133.479885	
+Roettger_etal_2014	1	6	frad	voiced	usable	158.20243	
+Roettger_etal_2014	1	6	blot	voiceless	usable	153.90014	
+Roettger_etal_2014	1	6	gob	voiced	usable	130.65892	creaky voice
+Roettger_etal_2014	1	6	schmaup	voiceless	usable	134.124316	
+Roettger_etal_2014	1	6	schriek	voiceless	not_usable	114.44152	VQ i  ~ e
+Roettger_etal_2014	1	6	naug	voiced	usable	183.975564	
+Roettger_etal_2014	1	6	frok	voiceless	usable	120.407071	
+Roettger_etal_2014	1	6	gag	voiced	usable	194.276682	
+Roettger_etal_2014	1	6	klap	voiceless	usable	142.268259	cant detect bo; set sg
+Roettger_etal_2014	1	11	wiep	voiceless	usable	123.028322	
+Roettger_etal_2014	1	11	griet	voiceless	usable	135.936703	
+Roettger_etal_2014	1	11	schrieg	voiced	usable	117.728517	
+Roettger_etal_2014	1	11	nauk	voiceless	usable	209.665562	
+Roettger_etal_2014	1	11	klab	voiced	usable	151.226259	
+Roettger_etal_2014	1	11	drud	voiced	usable	115.178414	
+Roettger_etal_2014	1	11	blod	voiced	usable	144.545726	
+Roettger_etal_2014	1	11	frog	voiced	usable	127.609191	
+Roettger_etal_2014	1	11	frat	voiceless	usable	135.611439	
+Roettger_etal_2014	1	11	schmaub	voiced	usable	129.539211	NO RELEASE
+Roettger_etal_2014	1	11	gop	voiceless	usable	114.739251	NO RELEASE
+Roettger_etal_2014	1	11	gak	voiceless	usable	201.44192	
+Roettger_etal_2014	1	11	staug	voiced	usable	147.951661	
+Roettger_etal_2014	1	11	schuk	voiceless	usable	90.390766	
+Roettger_etal_2014	1	11	pruk	voiceless	usable	121.889552	
+Roettger_etal_2014	1	11	quad	voiced	usable	167.85545	
+Roettger_etal_2014	1	11	gaud	voiced	usable	171.905893	
+Roettger_etal_2014	1	11	mub	voiced	usable	100.006447	NO RELEASE
+Roettger_etal_2014	1	11	jiet	voiceless	usable	73.806037	
+Roettger_etal_2014	1	11	flap	voiceless	usable	124.337986	NO RELEASE
+Roettger_etal_2014	1	11	rok	voiceless	usable	108.168238	
+Roettger_etal_2014	1	11	quop	voiceless	usable	100.422462	NO RELEASE
+Roettger_etal_2014	1	11	frub	voiced	usable	83.235853	NO RELEASE
+Roettger_etal_2014	1	11	prieg	voiced	usable	86.689929	
+Roettger_etal_2014	1	11	wieb	voiced	usable	131.700098	
+Roettger_etal_2014	1	11	gob	voiced	usable	121.941065	NO RELEASE
+Roettger_etal_2014	1	11	frok	voiceless	usable	96.396883	
+Roettger_etal_2014	1	11	schriek	voiceless	usable	108.687378	
+Roettger_etal_2014	1	11	naug	voiced	usable	172.065858	
+Roettger_etal_2014	1	11	klap	voiceless	usable	140.420104	NO RELEASE
+Roettger_etal_2014	1	11	drut	voiceless	usable	127.631687	
+Roettger_etal_2014	1	11	gried	voiced	usable	130.720963	
+Roettger_etal_2014	1	11	schmaup	voiceless	not_usable	149.999686	WRONG CONSONANT
+Roettger_etal_2014	1	11	blot	voiceless	usable	154.267705	
+Roettger_etal_2014	1	11	gag	voiced	usable	199.398241	
+Roettger_etal_2014	1	11	frad	voiced	usable	163.255797	
+Roettger_etal_2014	1	11	stauk	voiceless	usable	157.02873	
+Roettger_etal_2014	1	11	quat	voiceless	usable	179.827633	
+Roettger_etal_2014	1	11	schug	voiced	usable	113.090398	
+Roettger_etal_2014	1	11	priek	voiceless	usable	118.579747	
+Roettger_etal_2014	1	11	rog	voiced	usable	136.614809	
+Roettger_etal_2014	1	11	gaut	voiceless	usable	198.777661	
+Roettger_etal_2014	1	11	prug	voiced	usable	112.036681	
+Roettger_etal_2014	1	11	frup	voiceless	usable	110.257591	NO RELEASE
+Roettger_etal_2014	1	11	flab	voiced	usable	147.027017	NO RELEASE
+Roettger_etal_2014	1	11	quob	voiced	usable	120.065977	NO RELEASE
+Roettger_etal_2014	1	11	jied	voiced	not_usable	113.118281	VQ e
+Roettger_etal_2014	1	11	mup	voiceless	usable	137.011564	
+Roettger_etal_2014	1	7	quob	voiced	usable	129.620307	NO RELEASE?; set sg
+Roettger_etal_2014	1	7	frup	voiceless	usable	71.492519	
+Roettger_etal_2014	1	7	gaut	voiceless	usable	198.919071	
+Roettger_etal_2014	1	7	stauk	voiceless	usable	169.305541	
+Roettger_etal_2014	1	7	mup	voiceless	usable	102.676595	
+Roettger_etal_2014	1	7	prug	voiced	usable	129.949985	
+Roettger_etal_2014	1	7	rog	voiced	usable	161.868311	
+Roettger_etal_2014	1	7	flab	voiced	usable	152.482991	NO RELEASE?
+Roettger_etal_2014	1	7	schug	voiced	usable	128.33501	
+Roettger_etal_2014	1	7	jied	voiced	not_usable	129.583059	VQ e
+Roettger_etal_2014	1	7	quat	voiceless	usable	191.29576	
+Roettger_etal_2014	1	7	priek	voiceless	not_usable	167.800723	VQ e
+Roettger_etal_2014	1	7	gob	voiced	usable	179.730667	
+Roettger_etal_2014	1	7	wieb	voiced	usable	121.010349	
+Roettger_etal_2014	1	7	schmaup	voiceless	usable	163.018373	NO RELEASE?; cant detect bo
+Roettger_etal_2014	1	7	drut	voiceless	usable	121.180532	
+Roettger_etal_2014	1	7	gag	voiced	usable	182.065133	
+Roettger_etal_2014	1	7	naug	voiced	usable	177.440603	
+Roettger_etal_2014	1	7	gried	voiced	not_usable	129.608928	VQ e ~ i
+Roettger_etal_2014	1	7	frok	voiceless	usable	135.443947	
+Roettger_etal_2014	1	7	frad	voiced	usable	169.009378	NO RELEASE?
+Roettger_etal_2014	1	7	blot	voiceless	usable	154.686864	
+Roettger_etal_2014	1	7	schriek	voiceless	usable	127.910996	
+Roettger_etal_2014	1	7	klap	voiceless	usable	162.272803	
+Roettger_etal_2014	1	7	quop	voiceless	usable	150.987	
+Roettger_etal_2014	1	7	staug	voiced	usable	193.674351	
+Roettger_etal_2014	1	7	rok	voiceless	usable	128.65546	
+Roettger_etal_2014	1	7	gaud	voiced	usable	214.729966	
+Roettger_etal_2014	1	7	prieg	voiced	usable	133.020088	
+Roettger_etal_2014	1	7	jiet	voiceless	usable	129.833851	
+Roettger_etal_2014	1	7	pruk	voiceless	usable	131.547316	
+Roettger_etal_2014	1	7	frub	voiced	usable	109.580386	NO RELEASE?; whisper sound in /v/
+Roettger_etal_2014	1	7	quad	voiced	usable	181.508176	
+Roettger_etal_2014	1	7	mub	voiced	usable	108.388222	NO RELEASE?
+Roettger_etal_2014	1	7	schuk	voiceless	usable	110.066147	
+Roettger_etal_2014	1	7	flap	voiceless	usable	140.870678	POPPING IN CLOSURE
+Roettger_etal_2014	1	7	drud	voiced	usable	146.95947	
+Roettger_etal_2014	1	7	gak	voiceless	usable	188.032782	
+Roettger_etal_2014	1	7	wiep	voiceless	usable	114.190106	POPPING IN CLOSURE; NO RELEASE?
+Roettger_etal_2014	1	7	gop	voiceless	usable	142.628435	
+Roettger_etal_2014	1	7	nauk	voiceless	usable	189.351663	
+Roettger_etal_2014	1	7	klab	voiced	usable	143.934866	
+Roettger_etal_2014	1	7	frat	voiceless	usable	158.513228	
+Roettger_etal_2014	1	7	griet	voiceless	usable	133.63173	
+Roettger_etal_2014	1	7	schrieg	voiced	usable	148.955188	
+Roettger_etal_2014	1	7	blod	voiced	usable	154.881859	
+Roettger_etal_2014	1	7	schmaub	voiced	usable	171.950339	
+Roettger_etal_2014	1	7	frog	voiced	usable	150.758144	
+Roettger_etal_2014	1	10	klab	voiced	usable	180.552746	
+Roettger_etal_2014	1	10	drud	voiced	usable	164.071801	ambigue nucleus
+Roettger_etal_2014	1	10	schmaub	voiced	usable	194.137391	NO RELEASE?
+Roettger_etal_2014	1	10	frat	voiceless	usable	168.699	
+Roettger_etal_2014	1	10	wiep	voiceless	usable	130.813055	ambigue nucleus
+Roettger_etal_2014	1	10	gak	voiceless	usable	242.176535	ambigue nucleus
+Roettger_etal_2014	1	10	gop	voiceless	usable	145.836332	v elided; ambigue nucleus
+Roettger_etal_2014	1	10	frog	voiced	usable	173.3235	ambigue nucleus
+Roettger_etal_2014	1	10	blod	voiced	usable	168.070396	ambigue nucleus
+Roettger_etal_2014	1	10	griet	voiceless	usable	129.943453	
+Roettger_etal_2014	1	10	schrieg	voiced	usable	113.850677	
+Roettger_etal_2014	1	10	rog	voiced	usable	203.261833	ambigue nucleus
+Roettger_etal_2014	1	10	frup	voiceless	usable	127.629755	
+Roettger_etal_2014	1	10	quob	voiced	usable	127.290284	NO RELEASE?; kop; ambigue nucleus
+Roettger_etal_2014	1	10	stauk	voiceless	usable	209.111571	
+Roettger_etal_2014	1	10	flab	voiced	usable	156.287715	
+Roettger_etal_2014	1	10	priek	voiceless	usable	140.331142	
+Roettger_etal_2014	1	10	prug	voiced	usable	120.284935	ambigue nucleus
+Roettger_etal_2014	1	10	mup	voiceless	usable	87.051807	ambigue nucleus
+Roettger_etal_2014	1	10	gaut	voiceless	usable	197.775833	
+Roettger_etal_2014	1	10	schug	voiced	usable	108.983436	ambigue nucleus
+Roettger_etal_2014	1	10	quat	voiceless	usable	178.014425	
+Roettger_etal_2014	1	10	naug	voiced	usable	219.173407	
+Roettger_etal_2014	1	10	frok	voiceless	usable	136.353786	
+Roettger_etal_2014	1	10	gag	voiced	usable	214.228138	
+Roettger_etal_2014	1	10	frad	voiced	usable	195.617113	ambigue nucleus
+Roettger_etal_2014	1	10	wieb	voiced	usable	129.224458	
+Roettger_etal_2014	1	10	blot	voiceless	usable	175.648972	
+Roettger_etal_2014	1	10	gob	voiced	usable	132.398297	ambigue nucleus
+Roettger_etal_2014	1	10	schmaup	voiceless	usable	156.060799	NO RELEASE?;pf ; ambigue nucleus
+Roettger_etal_2014	1	10	drut	voiceless	usable	131.897321	
+Roettger_etal_2014	1	10	gried	voiced	usable	136.886682	ambigue nucleus
+Roettger_etal_2014	1	10	klap	voiceless	usable	176.486448	ambigue nucleus
+Roettger_etal_2014	1	10	schriek	voiceless	usable	167.934359	ambigue nucleus
+Roettger_etal_2014	1	10	frub	voiced	usable	104.59556	whisper sound; ambigue nucleus
+Roettger_etal_2014	1	10	mub	voiced	usable	125.785211	ambigue nucleus
+Roettger_etal_2014	1	10	quop	voiceless	usable	83.208083	NO RELEASE?; kop
+Roettger_etal_2014	1	10	staug	voiced	usable	203.616188	
+Roettger_etal_2014	1	10	rok	voiceless	usable	147.558958	ambigue nucleus
+Roettger_etal_2014	1	10	flap	voiceless	usable	151.556746	NO RELEASE?; whisper sound
+Roettger_etal_2014	1	10	jiet	voiceless	usable	109.212545	ambigue nucleus
+Roettger_etal_2014	1	10	quad	voiced	usable	176.405044	
+Roettger_etal_2014	1	10	prieg	voiced	usable	96.991365	ambigue nucleus
+Roettger_etal_2014	1	10	schuk	voiceless	usable	93.395775	wollt' nicht mehr; ambigue nucleus
+Roettger_etal_2014	1	10	pruk	voiceless	usable	98.356515	ambigue nucleus
+Roettger_etal_2014	1	10	gaud	voiced	usable	217.382674	
+Roettger_etal_2014	1	16	gaut	voiceless	usable	180.159941	
+Roettger_etal_2014	1	16	rog	voiced	usable	159.268637	
+Roettger_etal_2014	1	16	schug	voiced	usable	126.514904	
+Roettger_etal_2014	1	16	stauk	voiceless	usable	167.865264	
+Roettger_etal_2014	1	16	priek	voiceless	not_usable	127.498262	[briek]
+Roettger_etal_2014	1	16	mup	voiceless	usable	88.729322	focus on \ein\\\
+Roettger_etal_2014	1	16	prug	voiced	usable	113.276932	
+Roettger_etal_2014	1	16	flab	voiced	usable	120.603749	focus on \ein\\; NO RELEASE!!!\
+Roettger_etal_2014	1	16	jied	voiced	not_usable	140.476421	VQ e + focus on \ein\\\
+Roettger_etal_2014	1	16	klap	voiceless	usable	106.376347	NO RELEASE
+Roettger_etal_2014	1	16	schriek	voiceless	usable	106.937024	focus on \ein\\\
+Roettger_etal_2014	1	16	wieb	voiced	usable	125.122374	focus on \ein\\\
+Roettger_etal_2014	1	16	drut	voiceless	usable	99.954044	focus on \ein\\\
+Roettger_etal_2014	1	16	frad	voiced	usable	172.717923	focus on \ein\\\
+Roettger_etal_2014	1	16	frok	voiceless	usable	108.196998	focus on \ein\\\
+Roettger_etal_2014	1	16	gob	voiced	usable	125.652278	focus on \ein\\; NO RELEASE\
+Roettger_etal_2014	1	16	naug	voiced	usable	188.762411	focus on \ein\\\
+Roettger_etal_2014	1	16	gried	voiced	usable	116.698791	focus on \ein\\\
+Roettger_etal_2014	1	16	blot	voiceless	usable	141.44473	focus on \ein\\\
+Roettger_etal_2014	1	16	gag	voiced	usable	195.51039	focus on \ein\\\
+Roettger_etal_2014	1	16	schmaup	voiceless	usable	141.458045	focus on \ein\\\
+Roettger_etal_2014	1	16	schuk	voiceless	usable	99.886649	focus on \ein\\\
+Roettger_etal_2014	1	16	gaud	voiced	usable	199.464533	focus on \ein\\\
+Roettger_etal_2014	1	16	mub	voiced	usable	118.232291	focus on \ein\\\
+Roettger_etal_2014	1	16	quop	voiceless	usable	116.22619	focus on \ein\\\
+Roettger_etal_2014	1	16	staug	voiced	usable	168.896244	focus on \ein\\\
+Roettger_etal_2014	1	16	jiet	voiceless	usable	93.548799	
+Roettger_etal_2014	1	16	rok	voiceless	usable	125.813924	
+Roettger_etal_2014	1	16	prieg	voiced	usable	108.758164	focus on \ein\\\
+Roettger_etal_2014	1	16	frub	voiced	usable	107.608323	focus on \ein\\; NO RELEASE\
+Roettger_etal_2014	1	16	flap	voiceless	usable	139.624107	focus on \ein\\\
+Roettger_etal_2014	1	16	pruk	voiceless	usable	108.56115	focus on \ein\\\
+Roettger_etal_2014	1	16	quad	voiced	usable	139.614717	
+Roettger_etal_2014	1	16	griet	voiceless	usable	109.967341	focus on \ein\\; [krit] like the other one\
+Roettger_etal_2014	1	16	frog	voiced	usable	155.888639	
+Roettger_etal_2014	1	16	schrieg	voiced	usable	131.43419	
+Roettger_etal_2014	1	16	drud	voiced	usable	115.488258	
+Roettger_etal_2014	1	16	wiep	voiceless	usable	123.097678	
+Roettger_etal_2014	1	16	gak	voiceless	usable	161.528447	target deaccented? 
+Roettger_etal_2014	1	16	schmaub	voiced	not_usable	129.749367	transition vocoid after burst
+Roettger_etal_2014	1	16	frat	voiceless	usable	129.652877	
+Roettger_etal_2014	1	16	nauk	voiceless	usable	163.1093	
+Roettger_etal_2014	1	16	blod	voiced	usable	135.363049	
+Roettger_etal_2014	1	16	gop	voiceless	usable	133.891183	
+Roettger_etal_2014	1	16	klab	voiced	usable	141.956993	NO RELEASE
+Roettger_etal_2014	1	5	pruk	voiceless	usable	133.23925	
+Roettger_etal_2014	1	5	jiet	voiceless	usable	152.410529	POPPING SHORTLY AFTER RELEASE
+Roettger_etal_2014	1	5	flap	voiceless	usable	163.40138	
+Roettger_etal_2014	1	5	staug	voiced	usable	169.811892	
+Roettger_etal_2014	1	5	frub	voiced	not_usable	126.58493	VQ o
+Roettger_etal_2014	1	5	quop	voiceless	usable	153.851274	
+Roettger_etal_2014	1	5	gaud	voiced	usable	197.496132	
+Roettger_etal_2014	1	5	mub	voiced	not_usable	123.464286	mbub?
+Roettger_etal_2014	1	5	schuk	voiceless	usable	131.629617	
+Roettger_etal_2014	1	5	rok	voiceless	usable	155.789436	
+Roettger_etal_2014	1	5	quad	voiced	usable	217.967186	
+Roettger_etal_2014	1	5	prieg	voiced	usable	142.649968	
+Roettger_etal_2014	1	5	gop	voiceless	usable	155.306236	Rauschen
+Roettger_etal_2014	1	5	griet	voiceless	usable	162.566749	Rauschen
+Roettger_etal_2014	1	5	nauk	voiceless	usable	167.888535	Rauschen
+Roettger_etal_2014	1	5	blod	voiced	usable	161.981901	
+Roettger_etal_2014	1	5	frat	voiceless	usable	169.174351	
+Roettger_etal_2014	1	5	wiep	voiceless	usable	140.138034	
+Roettger_etal_2014	1	5	schmaub	voiced	usable	170.388129	
+Roettger_etal_2014	1	5	schrieg	voiced	usable	144.518755	
+Roettger_etal_2014	1	5	klab	voiced	not_usable	189.454977	no stop 
+Roettger_etal_2014	1	5	frog	voiced	usable	171.069289	
+Roettger_etal_2014	1	5	drud	voiced	usable	161.622183	
+Roettger_etal_2014	1	5	gak	voiceless	usable	197.290145	
+Roettger_etal_2014	1	5	priek	voiceless	usable	88.662389	
+Roettger_etal_2014	1	5	flab	voiced	usable	187.343036	
+Roettger_etal_2014	1	5	prug	voiced	not_usable	170.744262	hesitation onset
+Roettger_etal_2014	1	5	frup	voiceless	usable	142.894963	
+Roettger_etal_2014	1	5	mup	voiceless	not_usable	111.096907	wup ?
+Roettger_etal_2014	1	5	stauk	voiceless	usable	159.386338	
+Roettger_etal_2014	1	5	rog	voiced	usable	192.67421	
+Roettger_etal_2014	1	5	jied	voiced	usable	131.018858	
+Roettger_etal_2014	1	5	quob	voiced	usable	143.695975	
+Roettger_etal_2014	1	5	schug	voiced	usable	152.583703	
+Roettger_etal_2014	1	5	quat	voiceless	usable	172.93788	
+Roettger_etal_2014	1	5	gaut	voiceless	usable	198.654251	
+Roettger_etal_2014	1	5	naug	voiced	usable	214.720881	
+Roettger_etal_2014	1	5	blot	voiceless	usable	150.811735	
+Roettger_etal_2014	1	5	gob	voiced	usable	202.975057	
+Roettger_etal_2014	1	5	schmaup	voiceless	usable	138.576568	
+Roettger_etal_2014	1	5	frad	voiced	usable	211.318516	
+Roettger_etal_2014	1	5	gried	voiced	usable	166.318041	
+Roettger_etal_2014	1	5	frok	voiceless	usable	137.51392	
+Roettger_etal_2014	1	5	wieb	voiced	usable	144.377254	
+Roettger_etal_2014	1	5	klap	voiceless	usable	170.046721	
+Roettger_etal_2014	1	5	gag	voiced	usable	257.583253	
+Roettger_etal_2014	1	5	schriek	voiceless	usable	148.944548	
+Roettger_etal_2014	1	14	flab	voiced	usable	264.27027	lengthened?
+Roettger_etal_2014	1	14	rog	voiced	usable	204.170843	
+Roettger_etal_2014	1	14	priek	voiceless	not_usable	184.888352	VQ e
+Roettger_etal_2014	1	14	quob	voiced	usable	175.204535	NO RELEASE; PF-RELEASE
+Roettger_etal_2014	1	14	jied	voiced	not_usable	191.536099	VQ
+Roettger_etal_2014	1	14	stauk	voiceless	usable	242.100585	
+Roettger_etal_2014	1	14	gaut	voiceless	usable	232.224657	
+Roettger_etal_2014	1	14	schug	voiced	usable	157.538287	
+Roettger_etal_2014	1	14	prug	voiced	not_usable	197.00428	VQ? o or u
+Roettger_etal_2014	1	14	quat	voiceless	usable	274.521695	
+Roettger_etal_2014	1	14	mup	voiceless	usable	111.547484	
+Roettger_etal_2014	1	14	frup	voiceless	usable	154.951996	
+Roettger_etal_2014	1	14	blod	voiced	usable	229.469302	
+Roettger_etal_2014	1	14	frog	voiced	usable	220.74891	
+Roettger_etal_2014	1	14	gak	voiceless	usable	279.247999	
+Roettger_etal_2014	1	14	drud	voiced	usable	189.377937	
+Roettger_etal_2014	1	14	wiep	voiceless	usable	149.838789	
+Roettger_etal_2014	1	14	gop	voiceless	usable	201.863246	
+Roettger_etal_2014	1	14	schrieg	voiced	usable	179.755811	
+Roettger_etal_2014	1	14	klab	voiced	usable	291.797928	
+Roettger_etal_2014	1	14	griet	voiceless	usable	153.252379	
+Roettger_etal_2014	1	14	nauk	voiceless	usable	253.952053	
+Roettger_etal_2014	1	14	schmaub	voiced	usable	215.572291	
+Roettger_etal_2014	1	14	frat	voiceless	usable	283.050546	
+Roettger_etal_2014	1	14	flap	voiceless	usable	244.362042	
+Roettger_etal_2014	1	14	quop	voiceless	usable	206.159448	
+Roettger_etal_2014	1	14	staug	voiced	usable	252.819315	
+Roettger_etal_2014	1	14	schuk	voiceless	usable	151.363905	
+Roettger_etal_2014	1	14	mub	voiced	not_usable	182.019705	VQ o
+Roettger_etal_2014	1	14	prieg	voiced	not_usable	197.837253	VQ e
+Roettger_etal_2014	1	14	frub	voiced	usable	200.72192	
+Roettger_etal_2014	1	14	gaud	voiced	usable	261.110527	
+Roettger_etal_2014	1	14	quad	voiced	usable	306.015581	
+Roettger_etal_2014	1	14	rok	voiceless	usable	229.866032	
+Roettger_etal_2014	1	14	jiet	voiceless	not_usable	105.135083	VQ e
+Roettger_etal_2014	1	14	pruk	voiceless	usable	145.993554	
+Roettger_etal_2014	1	14	blot	voiceless	usable	213.781734	
+Roettger_etal_2014	1	14	frad	voiced	usable	262.397521	
+Roettger_etal_2014	1	14	wieb	voiced	usable	155.841384	
+Roettger_etal_2014	1	14	schriek	voiceless	usable	166.942802	
+Roettger_etal_2014	1	14	klap	voiceless	usable	278.544185	
+Roettger_etal_2014	1	14	schmaup	voiceless	usable	222.372642	
+Roettger_etal_2014	1	14	frok	voiceless	usable	197.766117	
+Roettger_etal_2014	1	14	gob	voiced	usable	208.553802	
+Roettger_etal_2014	1	14	gag	voiced	usable	256.46498	
+Roettger_etal_2014	1	14	naug	voiced	usable	243.549892	
+Roettger_etal_2014	1	14	drut	voiceless	usable	189.804625	
+Roettger_etal_2014	1	14	gried	voiced	usable	212.064727	
+Roettger_etal_2014	1	3	nauk	voiceless	usable	152.960008	
+Roettger_etal_2014	1	3	frat	voiceless	usable	136.245721	
+Roettger_etal_2014	1	3	blod	voiced	usable	102.895193	
+Roettger_etal_2014	1	3	griet	voiceless	usable	125.452813	
+Roettger_etal_2014	1	3	schmaub	voiced	usable	152.309747	NO RELEASE?
+Roettger_etal_2014	1	3	klab	voiced	usable	166.837472	whisper sound
+Roettger_etal_2014	1	3	gop	voiceless	usable	119.572564	
+Roettger_etal_2014	1	3	drud	voiced	usable	77.44771	
+Roettger_etal_2014	1	3	frog	voiced	usable	99.487148	
+Roettger_etal_2014	1	3	gak	voiceless	usable	149.912861	
+Roettger_etal_2014	1	3	wiep	voiceless	usable	109.019652	NO RELEASE?
+Roettger_etal_2014	1	3	schrieg	voiced	usable	85.498523	
+Roettger_etal_2014	1	3	frup	voiceless	usable	88.019346	Rauschen
+Roettger_etal_2014	1	3	mup	voiceless	usable	108.67453	NO RELEASE?
+Roettger_etal_2014	1	3	flab	voiced	usable	92.555273	
+Roettger_etal_2014	1	3	rog	voiced	usable	145.824556	
+Roettger_etal_2014	1	3	prug	voiced	usable	70.567328	
+Roettger_etal_2014	1	3	quat	voiceless	usable	165.259083	
+Roettger_etal_2014	1	3	jied	voiced	usable	54.911583	
+Roettger_etal_2014	1	3	quob	voiced	usable	121.125848	
+Roettger_etal_2014	1	3	gaut	voiceless	usable	160.594147	
+Roettger_etal_2014	1	3	priek	voiceless	usable	83.30999	
+Roettger_etal_2014	1	3	schug	voiced	usable	78.995211	
+Roettger_etal_2014	1	3	stauk	voiceless	usable	152.607916	
+Roettger_etal_2014	1	3	schmaup	voiceless	usable	126.767898	NO RELEASE?
+Roettger_etal_2014	1	3	naug	voiced	usable	181.860652	
+Roettger_etal_2014	1	3	blot	voiceless	usable	114.601885	
+Roettger_etal_2014	1	3	frok	voiceless	usable	112.799877	
+Roettger_etal_2014	1	3	frad	voiced	usable	183.46961	
+Roettger_etal_2014	1	3	drut	voiceless	usable	120.777139	
+Roettger_etal_2014	1	3	klap	voiceless	usable	157.343608	NO RELEASE?
+Roettger_etal_2014	1	3	gag	voiced	usable	169.154856	
+Roettger_etal_2014	1	3	gried	voiced	usable	92.173449	
+Roettger_etal_2014	1	3	schriek	voiceless	usable	120.964881	
+Roettger_etal_2014	1	3	wieb	voiced	usable	108.096761	NO RELEASE?
+Roettger_etal_2014	1	3	gob	voiced	usable	124.256401	NO RELEASE?
+Roettger_etal_2014	1	3	jiet	voiceless	usable	143.292841	
+Roettger_etal_2014	1	3	prieg	voiced	usable	103.175136	
+Roettger_etal_2014	1	3	flap	voiceless	usable	134.170964	NO RELEASE?
+Roettger_etal_2014	1	3	quad	voiced	usable	71.772598	
+Roettger_etal_2014	1	3	pruk	voiceless	usable	82.02988	
+Roettger_etal_2014	1	3	quop	voiceless	usable	111.381475	
+Roettger_etal_2014	1	3	frub	voiced	usable	102.982642	
+Roettger_etal_2014	1	3	mub	voiced	usable	135.227015	
+Roettger_etal_2014	1	3	gaud	voiced	usable	157.047706	
+Roettger_etal_2014	1	3	schuk	voiceless	usable	97.776905	
+Roettger_etal_2014	1	3	staug	voiced	usable	162.184892	
+Roettger_etal_2014	1	3	rok	voiceless	usable	102.235514	
+Roettger_etal_2014	1	4	frog	voiced	usable	159.616489	
+Roettger_etal_2014	1	4	frat	voiceless	usable	180.574304	
+Roettger_etal_2014	1	4	wiep	voiceless	usable	141.49473	
+Roettger_etal_2014	1	4	nauk	voiceless	usable	198.191498	
+Roettger_etal_2014	1	4	gak	voiceless	not_usable	188.534967	EJECTIVE?
+Roettger_etal_2014	1	4	schmaub	voiced	usable	146.018732	cant detect bo; NO RELEASE?
+Roettger_etal_2014	1	4	blod	voiced	usable	167.963425	
+Roettger_etal_2014	1	4	schrieg	voiced	usable	156.112958	
+Roettger_etal_2014	1	4	gop	voiceless	usable	135.953478	NO RELEASE?
+Roettger_etal_2014	1	4	griet	voiceless	usable	126.474589	
+Roettger_etal_2014	1	4	quad	voiced	usable	167.284083	
+Roettger_etal_2014	1	4	gaud	voiced	usable	172.736705	
+Roettger_etal_2014	1	4	pruk	voiceless	usable	114.58948	
+Roettger_etal_2014	1	4	staug	voiced	usable	175.384257	
+Roettger_etal_2014	1	4	quop	voiceless	usable	124.952751	
+Roettger_etal_2014	1	4	rok	voiceless	usable	175.973482	
+Roettger_etal_2014	1	4	jiet	voiceless	usable	80.385361	
+Roettger_etal_2014	1	4	schuk	voiceless	usable	111.818614	
+Roettger_etal_2014	1	4	prieg	voiced	usable	120.438062	
+Roettger_etal_2014	1	4	frub	voiced	usable	127.292998	VQ o; GET RID OF THIS
+Roettger_etal_2014	1	4	mub	voiced	usable	119.236462	whisper sound in /v/
+Roettger_etal_2014	1	4	flap	voiceless	usable	158.927287	whisper sound in /v/
+Roettger_etal_2014	1	4	drut	voiceless	usable	121.143524	
+Roettger_etal_2014	1	4	gag	voiced	usable	180.380092	
+Roettger_etal_2014	1	4	klap	voiceless	usable	188.084064	whisper sound in /v/
+Roettger_etal_2014	1	4	schmaup	voiceless	usable	154.370621	wrong stop k; GET RID OF THIS
+Roettger_etal_2014	1	4	wieb	voiced	usable	125.316705	whisper sound in /v/; NO RELEASE?
+Roettger_etal_2014	1	4	gried	voiced	usable	113.283907	
+Roettger_etal_2014	1	4	schriek	voiceless	usable	159.620869	
+Roettger_etal_2014	1	4	gob	voiced	usable	149.240509	NO RELEASE?
+Roettger_etal_2014	1	4	blot	voiceless	usable	161.02467	
+Roettger_etal_2014	1	4	frad	voiced	usable	165.641172	
+Roettger_etal_2014	1	4	naug	voiced	usable	189.408363	
+Roettger_etal_2014	1	4	jied	voiced	not_usable	126.654559	VQ e
+Roettger_etal_2014	1	4	rog	voiced	usable	158.329105	
+Roettger_etal_2014	1	4	frup	voiceless	usable	132.599335	whisper sound in /v/
+Roettger_etal_2014	1	4	mup	voiceless	usable	134.901268	cant detect bo; NO RELEASE?
+Roettger_etal_2014	1	4	gaut	voiceless	usable	177.932793	
+Roettger_etal_2014	1	4	stauk	voiceless	usable	175.026213	
+Roettger_etal_2014	1	4	quob	voiced	not_usable	148.397359	DELAYED RELEASE?; GET RID OF THIS
+Roettger_etal_2014	1	4	prug	voiced	not_usable	107.096156	VQ o; RELEASE IS NOT AUDIBLE AT ALL
+Roettger_etal_2014	1	4	schug	voiced	usable	119.057229	
+Roettger_etal_2014	1	4	flab	voiced	usable	155.158806	
+Roettger_etal_2014	1	4	priek	voiceless	usable	113.146614	
+Roettger_etal_2014	1	4	quat	voiceless	usable	161.938193	
+Roettger_etal_2014	1	9	schriek	voiceless	not_usable	106.332939	EJECTIVE?
+Roettger_etal_2014	1	9	blot	voiceless	usable	173.052262	hesitation
+Roettger_etal_2014	1	9	frok	voiceless	not_usable	146.755707	hesitation
+Roettger_etal_2014	1	9	gob	voiced	usable	135.307747	NO RELEASE?
+Roettger_etal_2014	1	9	klap	voiceless	not_usable	138.513782	hesitation; NO RELEASE
+Roettger_etal_2014	1	9	naug	voiced	not_usable	195.53318	hesitation
+Roettger_etal_2014	1	9	drut	voiceless	not_usable	162.427626	hesitation
+Roettger_etal_2014	1	9	gried	voiced	usable	127.994846	
+Roettger_etal_2014	1	9	wieb	voiced	usable	117.293931	PFOLLTE NICHT MEHR
+Roettger_etal_2014	1	9	schmaup	voiceless	not_usable	135.440679	hesitation; GET RID OF THIS; SOMETHING STRANGE HAPPENED HERE
+Roettger_etal_2014	1	9	frad	voiced	usable	192.483858	
+Roettger_etal_2014	1	9	gag	voiced	usable	203.539798	
+Roettger_etal_2014	1	9	quob	voiced	usable	126.40764	NO RELEASE?
+Roettger_etal_2014	1	9	jied	voiced	not_usable	187.416902	VQ e; hesitation
+Roettger_etal_2014	1	9	mup	voiceless	usable	117.854507	hesitation; STRANGE GLOTTAL ACTIVITY AFTER RELEASE
+Roettger_etal_2014	1	9	flab	voiced	not_usable	176.428558	NO RELEASE?; hesitation
+Roettger_etal_2014	1	9	gaut	voiceless	usable	199.621224	
+Roettger_etal_2014	1	9	quat	voiceless	usable	168.520751	
+Roettger_etal_2014	1	9	rog	voiced	usable	149.586644	
+Roettger_etal_2014	1	9	priek	voiceless	usable	119.418613	
+Roettger_etal_2014	1	9	stauk	voiceless	usable	145.383307	
+Roettger_etal_2014	1	9	prug	voiced	not_usable	122.810269	VQ o
+Roettger_etal_2014	1	9	frup	voiceless	usable	105.319185	NO RELEASE?
+Roettger_etal_2014	1	9	schrieg	voiced	usable	141.646259	
+Roettger_etal_2014	1	9	drud	voiced	usable	147.067829	
+Roettger_etal_2014	1	9	klab	voiced	usable	183.868579	NO RELEASE?
+Roettger_etal_2014	1	9	blod	voiced	not_usable	186.781413	hesitation
+Roettger_etal_2014	1	9	schmaub	voiced	usable	164.323547	
+Roettger_etal_2014	1	9	gak	voiceless	usable	220.00557	
+Roettger_etal_2014	1	9	nauk	voiceless	usable	189.197407	
+Roettger_etal_2014	1	9	wiep	voiceless	usable	142.902508	
+Roettger_etal_2014	1	9	gop	voiceless	usable	149.879783	
+Roettger_etal_2014	1	9	griet	voiceless	usable	138.93323	
+Roettger_etal_2014	1	9	frog	voiced	usable	158.711143	
+Roettger_etal_2014	1	9	frat	voiceless	usable	230.986989	
+Roettger_etal_2014	1	9	quop	voiceless	usable	148.672454	
+Roettger_etal_2014	1	9	rok	voiceless	usable	147.310459	
+Roettger_etal_2014	1	9	schuk	voiceless	usable	140.571229	
+Roettger_etal_2014	1	9	quad	voiced	usable	221.273052	
+Roettger_etal_2014	1	9	flap	voiceless	usable	197.334093	NO RELEASE?
+Roettger_etal_2014	1	9	frub	voiced	usable	142.154294	NO RELEASE?
+Roettger_etal_2014	1	9	jiet	voiceless	usable	143.866457	
+Roettger_etal_2014	1	9	staug	voiced	usable	160.207341	
+Roettger_etal_2014	1	9	prieg	voiced	not_usable	177.4707	GET RID OF THIS; CLICKING NOISE + STRANGE GLOTTAL ACTIVITY + HESITATION
+Roettger_etal_2014	1	9	mub	voiced	usable	169.046468	
+Roettger_etal_2014	1	9	pruk	voiceless	usable	130.16249	
+Roettger_etal_2014	1	2	schmaup	voiceless	usable	124.839685	NO AUDIBLE RELEASE
+Roettger_etal_2014	1	2	naug	voiced	usable	176.263344	
+Roettger_etal_2014	1	2	gag	voiced	usable	164.880994	RELEASE IS NOT AUDIBLE
+Roettger_etal_2014	1	2	schriek	voiceless	usable	92.768776	
+Roettger_etal_2014	1	2	drut	voiceless	usable	74.03848	AFFRICATED RELEASE
+Roettger_etal_2014	1	2	blot	voiceless	usable	123.663279	AFFRICATED RELEASE
+Roettger_etal_2014	1	2	gried	voiced	usable	109.378356	
+Roettger_etal_2014	1	2	klap	voiceless	usable	151.180169	NO AUDIBLE RELEASE
+Roettger_etal_2014	1	2	gob	voiced	usable	103.218496	cant identify bo; PFOLLTE
+Roettger_etal_2014	1	2	frok	voiceless	usable	95.322409	NO RELEASE? RELEASE NOT AUDIBLE
+Roettger_etal_2014	1	2	frad	voiced	usable	139.420814	
+Roettger_etal_2014	1	2	wieb	voiced	usable	118.181128	NO RELEASE
+Roettger_etal_2014	1	2	gaut	voiceless	usable	177.936641	CREAKINESS IN VOWEL
+Roettger_etal_2014	1	2	schug	voiced	usable	75.611731	RELEASE NOT AUDIBLE
+Roettger_etal_2014	1	2	flab	voiced	usable	131.750503	NO AUDIBLE RELEASE?
+Roettger_etal_2014	1	2	jied	voiced	not_usable	118.396309	VQ e
+Roettger_etal_2014	1	2	quat	voiceless	usable	141.792665	
+Roettger_etal_2014	1	2	mup	voiceless	usable	104.929052	
+Roettger_etal_2014	1	2	rog	voiced	usable	126.508881	
+Roettger_etal_2014	1	2	quob	voiced	usable	112.837275	NO RELEASE?
+Roettger_etal_2014	1	2	prug	voiced	usable	80.080227	NO RELEASE
+Roettger_etal_2014	1	2	stauk	voiceless	usable	149.412414	
+Roettger_etal_2014	1	2	frup	voiceless	usable	97.609616	AFFRICATED RELEASE
+Roettger_etal_2014	1	2	priek	voiceless	usable	106.919016	
+Roettger_etal_2014	1	2	gop	voiceless	usable	107.679455	NO RELEASE?
+Roettger_etal_2014	1	2	gak	voiceless	usable	180.3399	
+Roettger_etal_2014	1	2	drud	voiced	usable	100.113942	
+Roettger_etal_2014	1	2	nauk	voiceless	usable	165.804523	
+Roettger_etal_2014	1	2	frog	voiced	usable	117.529425	
+Roettger_etal_2014	1	2	schrieg	voiced	usable	137.901473	
+Roettger_etal_2014	1	2	blod	voiced	usable	143.009015	
+Roettger_etal_2014	1	2	klab	voiced	usable	150.151746	NO RELEASE
+Roettger_etal_2014	1	2	schmaub	voiced	usable	133.08196	AFFRICATED RELEASE
+Roettger_etal_2014	1	2	wiep	voiceless	usable	94.217584	NO RELEASE
+Roettger_etal_2014	1	2	griet	voiceless	usable	91.607695	
+Roettger_etal_2014	1	2	frat	voiceless	usable	141.812191	
+Roettger_etal_2014	1	2	pruk	voiceless	usable	87.2368	NOT AUDIBLE
+Roettger_etal_2014	1	2	jiet	voiceless	usable	91.597673	
+Roettger_etal_2014	1	2	prieg	voiced	usable	124.368323	
+Roettger_etal_2014	1	2	mub	voiced	usable	99.967936	AFFRICATED RELEASE
+Roettger_etal_2014	1	2	rok	voiceless	usable	61.091443	
+Roettger_etal_2014	1	2	schuk	voiceless	usable	92.218354	
+Roettger_etal_2014	1	2	quad	voiced	usable	159.671045	
+Roettger_etal_2014	1	2	gaud	voiced	usable	177.459381	
+Roettger_etal_2014	1	2	frub	voiced	usable	111.052964	NO RELEASE?
+Roettger_etal_2014	1	2	flap	voiceless	usable	141.340512	PFOLLTE AFFRICATED RELEASE
+Roettger_etal_2014	1	2	quop	voiceless	usable	125.180945	AFFRICATED RELEASE
+Roettger_etal_2014	1	2	staug	voiced	usable	168.963552	
+Roettger_etal_2014	1	8	blot	voiceless	usable	145.951911	
+Roettger_etal_2014	1	8	frad	voiced	usable	198.500532	
+Roettger_etal_2014	1	8	schmaup	voiceless	usable	173.873183	
+Roettger_etal_2014	1	8	schriek	voiceless	usable	142.330159	
+Roettger_etal_2014	1	8	naug	voiced	usable	205.542661	
+Roettger_etal_2014	1	8	gried	voiced	usable	173.806785	
+Roettger_etal_2014	1	8	frok	voiceless	usable	128.310798	
+Roettger_etal_2014	1	8	drut	voiceless	usable	143.407681	
+Roettger_etal_2014	1	8	klap	voiceless	usable	166.497923	
+Roettger_etal_2014	1	8	wieb	voiced	usable	146.518243	
+Roettger_etal_2014	1	8	gag	voiced	usable	200.734396	
+Roettger_etal_2014	1	8	gob	voiced	usable	154.583054	
+Roettger_etal_2014	1	8	flap	voiceless	usable	167.244918	
+Roettger_etal_2014	1	8	prieg	voiced	usable	158.877731	
+Roettger_etal_2014	1	8	mub	voiced	usable	156.365052	
+Roettger_etal_2014	1	8	schuk	voiceless	usable	129.742623	
+Roettger_etal_2014	1	8	jiet	voiceless	usable	133.927927	
+Roettger_etal_2014	1	8	pruk	voiceless	usable	134.086026	
+Roettger_etal_2014	1	8	quad	voiced	usable	218.592976	
+Roettger_etal_2014	1	8	gaud	voiced	usable	223.111029	
+Roettger_etal_2014	1	8	quop	voiceless	usable	166.904638	
+Roettger_etal_2014	1	8	staug	voiced	usable	185.161586	
+Roettger_etal_2014	1	8	rok	voiceless	usable	166.670159	
+Roettger_etal_2014	1	8	frub	voiced	usable	113.70306	
+Roettger_etal_2014	1	8	frog	voiced	usable	157.743844	
+Roettger_etal_2014	1	8	blod	voiced	usable	178.091011	
+Roettger_etal_2014	1	8	frat	voiceless	usable	201.52923	
+Roettger_etal_2014	1	8	schrieg	voiced	usable	165.628581	
+Roettger_etal_2014	1	8	drud	voiced	usable	178.661818	
+Roettger_etal_2014	1	8	gop	voiceless	usable	145.597456	
+Roettger_etal_2014	1	8	nauk	voiceless	usable	197.366049	
+Roettger_etal_2014	1	8	klab	voiced	usable	179.399663	
+Roettger_etal_2014	1	8	gak	voiceless	usable	210.973516	
+Roettger_etal_2014	1	8	griet	voiceless	usable	126.044139	
+Roettger_etal_2014	1	8	schmaub	voiced	usable	164.336755	
+Roettger_etal_2014	1	8	wiep	voiceless	usable	139.126008	
+Roettger_etal_2014	1	8	flab	voiced	usable	172.898319	
+Roettger_etal_2014	1	8	schug	voiced	usable	143.707102	
+Roettger_etal_2014	1	8	priek	voiceless	usable	150.998554	
+Roettger_etal_2014	1	8	quat	voiceless	usable	196.799231	
+Roettger_etal_2014	1	8	rog	voiced	usable	178.470959	
+Roettger_etal_2014	1	8	frup	voiceless	usable	131.178623	
+Roettger_etal_2014	1	8	prug	voiced	usable	152.33914	
+Roettger_etal_2014	1	8	gaut	voiceless	usable	219.339941	
+Roettger_etal_2014	1	8	jied	voiced	usable	165.983536	
+Roettger_etal_2014	1	8	mup	voiceless	usable	142.032158	
+Roettger_etal_2014	1	8	quob	voiced	usable	201.686808	
+Roettger_etal_2014	1	8	stauk	voiceless	usable	199.680238	
+Roettger_etal_2014	1	1	schmaup	voiceless	usable	206.832658	RELEASE IS NOT AUDIBLE TO ME
+Roettger_etal_2014	1	1	frad	voiced	usable	209.016959	RELEASE IS NOT AUDIBLE TO ME
+Roettger_etal_2014	1	1	gob	voiced	not_usable	174.772392	slimy; AFFRICATED RELEASE
+Roettger_etal_2014	1	1	frok	voiceless	usable	165.616024	RELEASE IS NOT AUDIBLE TO ME
+Roettger_etal_2014	1	1	gag	voiced	not_usable	262.58424	stop? no bo; NO RELEASE; GET RID OF THIS
+Roettger_etal_2014	1	1	naug	voiced	usable	260.731153	
+Roettger_etal_2014	1	1	blot	voiceless	usable	202.188223	
+Roettger_etal_2014	1	1	klap	voiceless	usable	197.459721	NO RELEASE?; DEFINITELY NOT AUDIBLE
+Roettger_etal_2014	1	1	drut	voiceless	usable	165.725944	
+Roettger_etal_2014	1	1	wieb	voiced	usable	159.482129	cant identify bo; NO RELEASE
+Roettger_etal_2014	1	1	schriek	voiceless	usable	170.18337	
+Roettger_etal_2014	1	1	gried	voiced	usable	168.790959	
+Roettger_etal_2014	1	1	quop	voiceless	usable	155.440552	Rauschen; NO BURST/RELEASE
+Roettger_etal_2014	1	1	pruk	voiceless	usable	140.074949	Rauschen
+Roettger_etal_2014	1	1	jiet	voiceless	usable	114.474569	
+Roettger_etal_2014	1	1	frub	voiced	usable	134.496266	NO RELEASE?
+Roettger_etal_2014	1	1	prieg	voiced	not_usable	203.968354	VQ e; RELEASE NOT AUDIBLE
+Roettger_etal_2014	1	1	gaud	voiced	usable	295.400099	COMPLETELY VOICED
+Roettger_etal_2014	1	1	quad	voiced	usable	249.067157	
+Roettger_etal_2014	1	1	mub	voiced	usable	192.626272	burst?; NO RELEASE
+Roettger_etal_2014	1	1	flap	voiceless	usable	214.57366	NO RELEASE?
+Roettger_etal_2014	1	1	rok	voiceless	usable	210.222744	
+Roettger_etal_2014	1	1	staug	voiced	not_usable	246.624782	hesitation; NO AUDIBLE RELEASE
+Roettger_etal_2014	1	1	schuk	voiceless	usable	161.202929	
+Roettger_etal_2014	1	1	gak	voiceless	usable	276.921649	
+Roettger_etal_2014	1	1	griet	voiceless	usable	168.051535	
+Roettger_etal_2014	1	1	frat	voiceless	usable	231.424614	
+Roettger_etal_2014	1	1	gop	voiceless	usable	193.839896	NO RELEASE?
+Roettger_etal_2014	1	1	drud	voiced	usable	259.89777	
+Roettger_etal_2014	1	1	nauk	voiceless	usable	264.772146	
+Roettger_etal_2014	1	1	schmaub	voiced	usable	227.400717	NO RELEASE?
+Roettger_etal_2014	1	1	blod	voiced	usable	247.786075	
+Roettger_etal_2014	1	1	frog	voiced	usable	239.211908	NO RELEASE? NOT AUDIBLE DEFINITELY
+Roettger_etal_2014	1	1	wiep	voiceless	usable	229.656274	
+Roettger_etal_2014	1	1	schrieg	voiced	usable	233.172529	
+Roettger_etal_2014	1	1	quob	voiced	usable	218.536377	NO RELEASE?
+Roettger_etal_2014	1	1	prug	voiced	usable	239.008212	
+Roettger_etal_2014	1	1	mup	voiceless	usable	183.648105	NO RELEASE
+Roettger_etal_2014	1	1	rog	voiced	usable	243.283973	
+Roettger_etal_2014	1	1	priek	voiceless	usable	192.075487	
+Roettger_etal_2014	1	1	quat	voiceless	usable	270.058806	
+Roettger_etal_2014	1	1	jied	voiced	not_usable	208.699389	VQ e
+Roettger_etal_2014	1	1	gaut	voiceless	usable	269.610923	
+Roettger_etal_2014	1	1	frup	voiceless	usable	181.950915	
+Roettger_etal_2014	1	1	stauk	voiceless	usable	251.412302	
+Roettger_etal_2014	1	1	schug	voiced	usable	240.968716	
+Roettger_etal_2014	1	12	jiet	voiceless	usable	105.00414	lengthened
+Roettger_etal_2014	1	12	quop	voiceless	usable	139.934042	
+Roettger_etal_2014	1	12	mub	voiced	usable	155.334955	
+Roettger_etal_2014	1	12	schuk	voiceless	usable	107.906321	
+Roettger_etal_2014	1	12	gaud	voiced	usable	224.698296	
+Roettger_etal_2014	1	12	pruk	voiceless	usable	100.003766	
+Roettger_etal_2014	1	12	staug	voiced	usable	230.705606	
+Roettger_etal_2014	1	12	flap	voiceless	usable	178.250595	
+Roettger_etal_2014	1	12	rok	voiceless	usable	191.054606	
+Roettger_etal_2014	1	12	frub	voiced	usable	114.182741	
+Roettger_etal_2014	1	12	quad	voiced	usable	198.568653	
+Roettger_etal_2014	1	12	drut	voiceless	usable	140.611195	
+Roettger_etal_2014	1	12	wieb	voiced	usable	148.176983	
+Roettger_etal_2014	1	12	schmaup	voiceless	usable	173.410324	
+Roettger_etal_2014	1	12	gob	voiced	usable	136.193091	
+Roettger_etal_2014	1	12	gried	voiced	usable	134.540221	
+Roettger_etal_2014	1	12	gag	voiced	usable	226.896373	
+Roettger_etal_2014	1	12	blot	voiceless	not_usable	177.881876	hesitation after EIN
+Roettger_etal_2014	1	12	naug	voiced	usable	225.84597	
+Roettger_etal_2014	1	12	frok	voiceless	usable	169.798418	
+Roettger_etal_2014	1	12	klap	voiceless	usable	168.011423	
+Roettger_etal_2014	1	12	frad	voiced	usable	186.751984	
+Roettger_etal_2014	1	12	quob	voiced	usable	126.713985	NO RELEASE; PF
+Roettger_etal_2014	1	12	rog	voiced	usable	162.605117	
+Roettger_etal_2014	1	12	schug	voiced	usable	119.265686	
+Roettger_etal_2014	1	12	stauk	voiceless	not_usable	195.937475	hesitation after EIN
+Roettger_etal_2014	1	12	gaut	voiceless	usable	196.022976	
+Roettger_etal_2014	1	12	frup	voiceless	usable	103.204937	
+Roettger_etal_2014	1	12	prug	voiced	usable	114.783305	
+Roettger_etal_2014	1	12	flab	voiced	usable	195.257021	PF
+Roettger_etal_2014	1	12	quat	voiceless	usable	197.815399	
+Roettger_etal_2014	1	12	mup	voiceless	usable	120.948075	
+Roettger_etal_2014	1	12	frat	voiceless	usable	169.487938	
+Roettger_etal_2014	1	12	schmaub	voiced	usable	158.056214	PF
+Roettger_etal_2014	1	12	gak	voiceless	usable	211.345284	
+Roettger_etal_2014	1	12	frog	voiced	usable	150.532383	
+Roettger_etal_2014	1	12	schrieg	voiced	usable	136.934322	
+Roettger_etal_2014	1	12	wiep	voiceless	usable	111.763888	
+Roettger_etal_2014	1	12	blod	voiced	usable	157.412734	
+Roettger_etal_2014	1	12	griet	voiceless	usable	131.461013	
+Roettger_etal_2014	1	12	klab	voiced	usable	162.668276	
+Roettger_etal_2014	1	12	gop	voiceless	usable	150.540424	
+Roettger_etal_2014	1	12	nauk	voiceless	usable	227.186793	
+Roettger_etal_2014	1	12	drud	voiced	usable	118.514937	
+Roettger_etal_2014	1	13	flap	voiceless	usable	242.559307	target lengthened
+Roettger_etal_2014	1	13	quad	voiced	usable	268.448634	target lengthened?
+Roettger_etal_2014	1	13	quop	voiceless	usable	185.438442	
+Roettger_etal_2014	1	13	staug	voiced	usable	186.950301	
+Roettger_etal_2014	1	13	pruk	voiceless	usable	121.160052	
+Roettger_etal_2014	1	13	frub	voiced	usable	173.544234	
+Roettger_etal_2014	1	13	prieg	voiced	not_usable	171.620377	VQ e
+Roettger_etal_2014	1	13	rok	voiceless	usable	173.600144	
+Roettger_etal_2014	1	13	mub	voiced	usable	129.787305	
+Roettger_etal_2014	1	13	schuk	voiceless	usable	120.598427	
+Roettger_etal_2014	1	13	jiet	voiceless	usable	161.721695	
+Roettger_etal_2014	1	13	gaud	voiced	usable	234.944788	
+Roettger_etal_2014	1	13	gak	voiceless	usable	269.465491	
+Roettger_etal_2014	1	13	klab	voiced	usable	240.695579	
+Roettger_etal_2014	1	13	blod	voiced	usable	202.25198	
+Roettger_etal_2014	1	13	wiep	voiceless	usable	106.321743	
+Roettger_etal_2014	1	13	schmaub	voiced	usable	163.698793	
+Roettger_etal_2014	1	13	griet	voiceless	usable	132.661934	
+Roettger_etal_2014	1	13	frat	voiceless	usable	244.706768	target lengthened?
+Roettger_etal_2014	1	13	frog	voiced	usable	177.791769	
+Roettger_etal_2014	1	13	nauk	voiceless	usable	230.392065	
+Roettger_etal_2014	1	13	gop	voiceless	usable	153.54356	sounds english ou
+Roettger_etal_2014	1	13	schrieg	voiced	usable	112.545213	
+Roettger_etal_2014	1	13	drud	voiced	usable	172.233325	
+Roettger_etal_2014	1	13	gaut	voiceless	usable	231.288357	
+Roettger_etal_2014	1	13	frup	voiceless	usable	163.214522	
+Roettger_etal_2014	1	13	flab	voiced	usable	219.455951	
+Roettger_etal_2014	1	13	quob	voiced	usable	192.447976	
+Roettger_etal_2014	1	13	rog	voiced	usable	189.201227	
+Roettger_etal_2014	1	13	stauk	voiceless	usable	210.530907	
+Roettger_etal_2014	1	13	mup	voiceless	usable	144.446558	
+Roettger_etal_2014	1	13	jied	voiced	not_usable	213.514836	VQ e; lenthened target
+Roettger_etal_2014	1	13	prug	voiced	usable	194.043135	
+Roettger_etal_2014	1	13	schug	voiced	usable	142.71442	
+Roettger_etal_2014	1	13	priek	voiceless	not_usable	139.805151	VQ e; [plek]
+Roettger_etal_2014	1	13	quat	voiceless	usable	232.815829	
+Roettger_etal_2014	1	13	schmaup	voiceless	usable	192.409308	
+Roettger_etal_2014	1	13	blot	voiceless	not_usable	184.023194	sounds english ou
+Roettger_etal_2014	1	13	wieb	voiced	usable	113.494857	NO RELEASE
+Roettger_etal_2014	1	13	drut	voiceless	usable	110.395575	
+Roettger_etal_2014	1	13	frad	voiced	usable	210.267881	flapped R
+Roettger_etal_2014	1	13	gag	voiced	usable	254.574444	
+Roettger_etal_2014	1	13	gried	voiced	usable	136.924026	flapped R
+Roettger_etal_2014	1	13	naug	voiced	usable	225.882315	
+Roettger_etal_2014	1	13	schriek	voiceless	usable	146.512138	
+Roettger_etal_2014	1	13	klap	voiceless	usable	228.258654	
+Roettger_etal_2014	1	13	gob	voiced	not_usable	175.189705	sounds english ou

@@ -1,0 +1,512 @@
+---
+title: "Estimates extraction for 'Using meta-analysis for evidence synthesis: The case of incomplete neutralization in German'"
+author: 
+  - name: "Bruno Nicenboim, Timo B. Roettger, and Shravan Vasishth"
+date: 
+output:
+  html_document:
+    toc: true
+    number_sections: true
+    fig_caption: true
+    css: styles.css
+bibliography: edaps.bib
+---
+
+# Estimate extraction
+
+We provide here the code showing how we extracted the estimates that went into our Bayesian meta-analysis from the summaries provided in the publications or from the data obtained from the authors.
+
+```{r setup, cache=FALSE,include=FALSE}
+set.seed(123)
+# global chunk options
+library(knitr)
+library(rstudioapi)
+opts_chunk$set(cache=TRUE, fig.path='fig_rmd/', cache.path='cache_estimates/', fig.align='center', tidy=FALSE) 
+opts_knit$set(self.contained=FALSE)
+
+current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+setwd(current_working_dir)
+
+```
+
+## Setup
+
+The following packages should be loaded:
+
+```{r libraries, message=F}
+library(knitr)
+library(dplyr)
+library(tidyr)
+library(purrr)
+library(magrittr)
+library(rstan)
+library(stringr)
+library(brms)
+library(tibble)
+
+sessionInfo() 
+```
+
+It is recommended to run Stan [@Stan2017] code with 3 cores (or more) and at least 2000 iterations. For our models, we used the wrapper package brms [@brms].
+
+```{r options}
+# Uses the computer cores available
+options(brms.backend = "cmdstanr")
+options(mc.cores = parallel::detectCores())
+# The iterations can be reduced *only* for testing purposes:
+iter <- 2000
+chains <- 4
+# options to increase efficiency of brms models (optional)
+
+```
+
+## Data extraction
+
+We extracted data regarding the preceding vowel duration in ms, and we summarized the posterior of the difference between voiceless (e.g. *t* in *Rat*) and devoiced consonants (e.g., *d* in *Rad*) by storing the mean estimate (`Estimate`), $\hat\beta$, the 95% credible interval (`2.5%ile` and `97.5%ile`), the probability that the difference in vowel duration would be positive (`Pbeta`), and the SD of the posterior distribution (`Est.Error`). We summarize the data extracted at the end of this report.
+
+
+```{r extraction}
+# To extract the relevant measure from the data files:
+PVD <- "preceding vowel duration in ms"
+# Summaries will be saved here:
+results <- list()
+```
+
+We modified the labels of the datasets so that for every study, the following variables have the same meaning:
+
+* `dur` is the *dependent variable* vowel duration.
+* `cvoicing` is the *predictor* that indicates whether the last stop is (de)voiced $.5$ or $-.5$ voiceless.
+* Group-level (random) effects (not all of them appear in every study):
+	- `pair` indicates whether the observation belongs to the same "pair", e.g., *Rad* and *Rat* belong to the same pair, and *Tap* and *Tab* to another pair.
+	- `subject`.
+	- `elicitation_method` depends on the study, and they include read list, repeat, read contrastive, etc. We coded $1$ for reading methods, and $-1$ for non reading methods.
+
+### Data extracted from complete datasets
+
+We used Bayesian linear mixed models with the maximal random effects structure and weakly informative regularizing priors for the complete datasets that were available to us: @Fuchs_2005, @Grawunder_2014}, Experiment~1 and 2 of @Roettger_etal_2014  and Experiment 1 and 2 of @Baer-Henney_unpublished.
+
+We fitted all the models with *brms*, the meaning of the priors of the models can be extracted using  `get_prior`, and the Stan code can be seen using `make_stancode`.
+
+The data is available in our [osf repository](https://osf.io/4c25h/), and needs to be saved in a `Data` folder where this analysis is run.
+
+##### @Fuchs_2005
+
+```{r F05, message=F}
+df_F05 <- read.table("../Original_Data/Fuchs_2005_complete.tsv", sep="\t", header = T)  %>% mutate(cvoicing = if_else(voicing == "voiced", .5, -.5))
+
+head(df_F05)
+
+# Linear mixed model:
+fit_F05 <- brm(dur ~ cvoicing + (cvoicing | pair) +(cvoicing | subject), 
+            data = df_F05,
+            prior = c(prior(normal(0,300), class = Intercept),
+                prior(normal(0,100), class = b, coef = cvoicing),
+                prior(normal(0,100), class = sd),
+                prior(normal(0,100), class = sigma),
+                prior(lkj(2), class = cor)),
+            iter = iter,chains = chains,
+            control = list(adapt_delta = .9999, max_treedepth = 15))
+
+fit_F05
+
+results[["F05"]]  <- fixef(fit_F05)["cvoicing", ]
+results[["F05"]]["intercept"]  <- fixef(fit_F05)["Intercept", 1]
+results[["F05"]]["prop"]  <- fixef(fit_F05)["cvoicing", 1] / fixef(fit_F05)["Intercept", 1] 
+results[["F05"]]["Pbeta"] <- mean(posterior_samples(fit_F05, pars = "b_cvoicing") > 0)
+```
+
+#### @Grawunder_2014
+
+```{r G14, message=F}
+df_G14 <- read.table("../Original_Data/Grawunder_2014.tsv", sep = "\t", header = T) %>%
+         mutate(cvoicing = if_else(voicing == "voiced",.5,-.5))
+
+fit_G14 <- brm(dur ~ cvoicing + (cvoicing|pair) + 
+                (cvoicing|subject), 
+                data = df_G14,
+                prior = c(prior(normal(0,300), class = Intercept),
+                prior(normal(0,100), class = b, coef = cvoicing),
+                prior(normal(0,100), class = sd),
+                prior(normal(0,100), class = sigma),
+                prior(lkj(2), class = cor)),
+            iter = iter, chains = chains,
+            control = list(adapt_delta = .9999, max_treedepth = 15))
+
+fit_G14
+
+results[["G14"]]  <- fixef(fit_G14)["cvoicing",]
+results[["G14"]]["intercept"]  <- fixef(fit_G14)["Intercept", 1]
+results[["G14"]]["prop"]  <- fixef(fit_G14)["cvoicing", 1] / fixef(fit_G14)["Intercept", 1] 
+results[["G14"]]["Pbeta"] <- mean(posterior_samples(fit_G14, 
+                                            pars = "b_cvoicing") > 0)
+```
+
+#### Experiment 1 of @Roettger_etal_2014
+
+```{r Rea14_1, message=F}
+df_Rea14_1 <- read.table("../Original_Data/Roettger_et_al_2014_E1_production.tsv", 
+                sep="\t", header=T,comment.char="",   quote = "" ) %>% 
+                filter(usable == "usable")  %>% 
+                mutate(cvoicing = if_else(voicing == "voiced", .5, -.5)) %>% 
+                mutate(pair = tolower(str_sub(str_trim(item), 1, -2))) %>% 
+                mutate(dur = vowel_dur)
+
+
+head(df_Rea14_1)
+
+# Linear mixed model:
+fit_Rea14_1 <- brm(dur ~ cvoicing + (cvoicing | pair) + 
+                (cvoicing | subject), 
+                    data = df_Rea14_1,
+                prior = c(prior(normal(0,300), class = Intercept),
+                    prior(normal(0,100), class = b, coef = cvoicing),
+                    prior(normal(0,100), class = sd),
+                    prior(normal(0,100), class = sigma),
+                    prior(lkj(2), class = cor)), 
+                iter = iter, chains = chains,
+                control = list(adapt_delta = .999, max_treedepth = 15))
+
+fit_Rea14_1
+
+results[["Rea14_1"]]  <- fixef(fit_Rea14_1)["cvoicing",]
+results[["Rea14_1"]]["intercept"]  <- fixef(fit_Rea14_1)["Intercept", 1]
+results[["Rea14_1"]]["prop"]  <- fixef(fit_Rea14_1)["cvoicing", 1] / fixef(fit_Rea14_1)["Intercept", 1] 
+results[["Rea14_1"]]["Pbeta"] <- mean(posterior_samples(fit_Rea14_1, 
+                                            pars = "b_cvoicing") > 0)
+```
+
+
+#### Experiment 2 of @Roettger_etal_2014
+
+```{r Rea14_2, message=F}
+df_Rea14_2 <- read.table("../Original_Data/Roettger_et_al_2014_E2_production.tsv", 
+                sep= "\t", header = T,comment.char = "", quote = "" ) %>% 
+               filter(usable == "usable", comment == "Normal")  %>% 
+               mutate(cvoicing = if_else(voicing == "voiced", .5, -.5)) %>% 
+               mutate(pair = tolower(str_sub(str_trim(item),1,-2))) %>% 
+               mutate(dur = vowel_dur)
+
+ 
+head(df_Rea14_2)
+
+# Linear mixed model:
+fit_Rea14_2 <- brm(dur ~ cvoicing + (cvoicing|pair) + 
+                (cvoicing|subject), 
+                    data = df_Rea14_2,
+                prior = c(prior(normal(0,300), class = Intercept),
+                    prior(normal(0,100), class = b, coef = cvoicing),
+                    prior(normal(0,100), class = sd),
+                    prior(normal(0,100), class = sigma),
+                    prior(lkj(2), class = cor)),
+                iter = iter, chains = chains,
+                control = list(adapt_delta = .999, max_treedepth = 15))
+
+fit_Rea14_2
+
+results[["Rea14_2"]]  <- fixef(fit_Rea14_2)["cvoicing",]
+results[["Rea14_2"]]["intercept"]  <- fixef(fit_Rea14_2)["Intercept", 1]
+results[["Rea14_2"]]["prop"]  <- fixef(fit_Rea14_2)["cvoicing", 1] / fixef(fit_Rea14_2)["Intercept", 1] 
+results[["Rea14_2"]]["Pbeta"] <- mean(posterior_samples(fit_Rea14_2, 
+                                            pars = "b_cvoicing") > 0)
+```
+
+#### Experiment 1 of @Baer-Henney_unpublished
+
+```{r B_1, message=F}
+df_B_1 <- read.table("../Original_Data/Baer-Henney_unpublished.tsv", sep="\t", header=T) %>%
+             mutate(cvoicing = if_else(voicing == "voiced", .5, -.5))
+
+head(df_B_1)
+
+fit_B_1 <- brm(dur ~ cvoicing + (cvoicing|pair) + 
+                (cvoicing|subject), 
+                data = df_B_1,
+            prior = c(prior(normal(0,300), class = Intercept),
+                    prior(normal(0,100), class = b, coef = cvoicing),
+                    prior(normal(0,100), class = sd),
+                    prior(normal(0,100), class = sigma),
+                    prior(lkj(2), class = cor)),
+            iter = iter, chains = chains,
+            control = list(adapt_delta = .999, max_treedepth = 15))
+
+fit_B_1
+
+results[["B_1"]]  <- fixef(fit_B_1)["cvoicing",]
+results[["B_1"]]["intercept"]  <- fixef(fit_B_1)["Intercept", 1]
+results[["B_1"]]["prop"]  <- fixef(fit_B_1)["cvoicing", 1] / fixef(fit_B_1)["Intercept", 1] 
+results[["B_1"]]["Pbeta"] <- mean(posterior_samples(fit_B_1, 
+                                            pars = "b_cvoicing") > 0)
+```
+
+#### Experiment 2 of @Baer-Henney_unpublished
+
+```{r B2, message = F}
+
+df_B_2 <- read.table('../Original_Data/Baer-Henney_unpublished_II.tsv', sep = "\t", 
+            header = T ) %>%
+           mutate(cvoicing = if_else(voicing == "voiced", .5, -.5),
+            dur = dur*1000)
+
+head(df_B_2)
+
+fit_B_2 <- brm(dur ~ cvoicing + (cvoicing|pair) + 
+                (cvoicing|subject), 
+                data = df_B_2,
+            prior = c(prior(normal(0,300), class = Intercept),
+                prior(normal(0,100), class = b, coef = cvoicing),
+                prior(normal(0,100), class = sd),
+                prior(normal(0,100), class = sigma),
+                prior(lkj(2), class = cor)),
+            iter = iter, chains = chains,
+            control = list(adapt_delta = .999, max_treedepth = 15))
+
+fit_B_2
+
+results[["B_2"]]  <- fixef(fit_B_2)["cvoicing",]
+results[["B_2"]]["intercept"]  <- fixef(fit_B_2)["Intercept", 1]
+results[["B_2"]]["prop"]  <- fixef(fit_B_2)["cvoicing", 1] / fixef(fit_B_1)["Intercept", 1] 
+results[["B_2"]]["Pbeta"] <- mean(posterior_samples(fit_B_2, 
+                                            pars = "b_cvoicing") > 0)
+```
+
+### Data summarized at some level with standard deviations
+
+This was the case when studies presented data that were already summarized at some
+level (some combination of by-items, by-participants and/or by-repetitions) and presented SDs (and the raw data was not available): @Mitleb_1981, @Fourakis_Iverson_1984,  @Port_ODell_1985, @Port_Crawford_1989, @Greisbach_2001, and @Piroth_Janker_2004.
+
+In these cases we fitted measurement error mixed models and we computed the SE of each data cell (i.e., the provided mean of a group of observations) by dividing the SD (`sd` in the datasets) provided in the paper by the square root of the number of observation per cell (`N` in the datasets). 
+
+#### @Mitleb_1981
+
+```{r M81, message=F}
+df_M81 <- read.table("../Original_Data/Mitleb_1981.tsv", sep="\t", header=T) %>%
+          filter(acoustic_cue == PVD)  %>%
+          mutate(cvoicing = if_else(voicing == "voiced", .5, -.5),
+                obs =1:n())
+
+head(df_M81)
+
+## Sigma of the model (non-centered parametrization) is achieved with (1|obs)
+fit_M81_me <- brm(dur | se(sd/sqrt(N)) ~ cvoicing + (1|obs) + (1|pair), 
+                            data=df_M81,
+                            prior= c(prior(normal(0,300), class = Intercept),
+                                     prior(normal(0,100), class = b, coef = cvoicing),
+                                     prior(normal(0,100), class = sd)),
+                            control=list(adapt_delta=.999, max_treedepth=12),
+                            iter=iter)
+
+fit_M81_me
+
+results[["M81"]]  <- fixef(fit_M81_me)["cvoicing",]
+results[["M81"]]["intercept"]  <- fixef(fit_M81_me)["Intercept", 1]
+results[["M81"]]["prop"]  <- fixef(fit_M81_me)["cvoicing", 1] / fixef(fit_M81_me)["Intercept", 1] 
+results[["M81"]]["Pbeta"] <- mean(posterior_samples(fit_M81_me, 
+                                            pars = "b_cvoicing") > 0)
+```
+#### @Fourakis_Iverson_1984
+
+```{r FI84, message=F}
+
+df_FI84 <- read.table("../Original_Data/Fourakis_Iverson_1984.tsv", sep="\t", header=T) %>% 
+            filter(acoustic_cue == PVD)  %>% 
+            mutate(cvoicing=if_else(voicing == "voiced",.5,-.5),
+                    obs= 1:n(),
+                    elic = ifelse(study == 2, 1,-1)) #study 2 was reading
+df_FI84 <- df_FI84[complete.cases(df_FI84),]
+
+
+head(df_FI84)
+
+fit_FI84_me <- brm(dur | se(sd/sqrt(N)) ~ cvoicing * elic + (1|obs) + 
+                    (cvoicing|pair) + (cvoicing|subject), data = df_FI84,
+                    prior = c(prior(normal(0,300), class = Intercept),
+                        prior(normal(0,100), class = b),
+                        prior(normal(0,100), class = sd),
+                        prior(lkj(2), class = cor)),
+                    control=list(adapt_delta=.9999, max_treedepth=16), iter = iter)
+
+fit_FI84_me
+
+results[["FI84"]]  <- fixef(fit_FI84_me)["cvoicing",]
+results[["FI84"]]["intercept"]  <- fixef(fit_FI84_me)["Intercept", 1]
+results[["FI84"]]["prop"]  <- fixef(fit_FI84_me)["cvoicing", 1] / fixef(fit_FI84_me)["Intercept", 1] 
+results[["FI84"]]["Pbeta"] <- mean(posterior_samples(fit_FI84_me, 
+                                            pars = "b_cvoicing") > 0)
+```
+
+#### @Port_ODell_1985
+
+```{r PO85, message=F}
+df_PO85 <- read.table("../Original_Data/Port_ODell_1985.tsv", sep="\t", header=T) %>% 
+           filter(acoustic_cue == PVD)  %>% 
+           mutate(cvoicing = if_else(voicing == "voiced", .5, -.5),
+                  dur = dur*10,
+# Vowel duration was presented in cs rather than ms:
+                  sd = sd*10,
+                  obs = 1:n())
+
+head(df_PO85)
+
+fit_PO85_me <- brm(dur | se(sd/sqrt(N)) ~ cvoicing + (1|obs) + 
+                    (cvoicing|pair), data=df_PO85,
+                prior = c(prior(normal(0,300), class = Intercept),
+                         prior(normal(0,100), class = b, coef = cvoicing),
+                         prior(normal(0,100), class = sd),
+                         prior(lkj(2), class = cor)),
+                control=list(adapt_delta=.999, max_treedepth=15), iter = iter)
+
+fit_PO85_me
+
+results[["PO85"]]  <- fixef(fit_PO85_me)["cvoicing",]
+results[["PO85"]]["intercept"]  <- fixef(fit_PO85_me)["Intercept", 1]
+results[["PO85"]]["prop"]  <- fixef(fit_PO85_me)["cvoicing", 1] / fixef(fit_PO85_me)["Intercept", 1] 
+results[["PO85"]]["Pbeta"] <- mean(posterior_samples(fit_PO85_me, 
+                                            pars = "b_cvoicing") > 0)
+```
+
+#### @Port_Crawford_1989
+
+```{r PC89, message=F}
+df_PC89 <- read.table("../Original_Data/Port_Crawford_1989.tsv", sep="\t", header=T) %>%
+           filter(acoustic_cue == PVD)  %>%
+           mutate(cvoicing=if_else(voicing=="voiced",.5,-.5),
+                  obs = 1:n(),
+                  elic = ifelse(elicitation_method %in% 
+                            c("read contrastive","read list"), 1, -1) )
+df_PC89 <- df_PC89[complete.cases(df_PC89),]
+
+head(df_PC89)
+
+fit_PC89_me <- brm(dur | se(sd/sqrt(N)) ~ cvoicing * elic 
+                    + (1 | obs) + (cvoicing * elic | pair), data = df_PC89,
+                    prior= c(prior(normal(0,300), class = Intercept),
+                             prior(normal(0,100), class = b),
+                             prior(normal(0,100), class = sd),
+                             prior(lkj(2), class = cor)),
+                control=list(adapt_delta=.999, max_treedepth=15), iter=iter)
+
+fit_PC89_me
+
+results[["PC89"]]  <- fixef(fit_PC89_me)["cvoicing",]
+results[["PC89"]]["intercept"]  <- fixef(fit_PC89_me)["Intercept", 1]
+results[["PC89"]]["prop"]  <- fixef(fit_PC89_me)["cvoicing", 1] / fixef(fit_PC89_me)["Intercept", 1] 
+results[["PC89"]]["Pbeta"] <- mean(posterior_samples(fit_PC89_me, 
+                                            pars = "b_cvoicing") > 0)
+
+```
+#### @Greisbach_2001
+
+```{r G01, message=F}
+df_G01 <- read.table("../Original_Data/Greisbach_2001.tsv", sep="\t", header=T) %>%
+          filter(acoustic_cue == PVD)  %>%
+          mutate(cvoicing = if_else(voicing == "voiced", .5, -.5),
+                 obs = 1:n())
+
+
+fit_G01_me <- brm(dur | se(sd/sqrt(N)) ~ cvoicing + (1 | obs) + 
+                                            (cvoicing | pair), data = df_G01,
+                  prior = c(prior(normal(0,300), class = Intercept),
+                           prior(normal(0,100), class = b, coef = cvoicing),
+                           prior(normal(0,100), class = sd),
+                           prior(lkj(2), class = cor)),
+                  control=list(adapt_delta=.999, max_treedepth=15), iter = iter)
+
+fit_G01_me
+
+results[["G01"]]  <- fixef(fit_G01_me)["cvoicing",]
+results[["G01"]]["intercept"]  <- fixef(fit_G01_me)["Intercept", 1]
+results[["G01"]]["prop"]  <- fixef(fit_G01_me)["cvoicing", 1] / fixef(fit_G01_me)["Intercept", 1] 
+results[["G01"]]["Pbeta"] <- mean(posterior_samples(fit_G01_me, 
+                                            pars = "b_cvoicing") > 0)
+```
+
+
+#### @Piroth_Janker_2004
+
+```{r PJ04, message=F}
+
+df_PJ04 <- read.table("../Original_Data/Piroth_Janker_2004.tsv", sep="\t", header=T) %>%
+           filter(acoustic_cue == PVD)  %>%
+           mutate(cvoicing = if_else(voicing == "voiced", .5, -.5),
+                   obs = 1:n())
+df_PJ04 <- df_PJ04[complete.cases(df_PJ04),]
+
+
+head(df_PJ04)
+
+fit_PJ04_me <- brm(dur | se(sd/sqrt(N)) ~ cvoicing + (1|obs) + 
+                    (cvoicing|subject), data = df_PJ04,
+                prior = c(prior(normal(0,300), class = Intercept),
+                         prior(normal(0,100), class = b, coef = cvoicing),
+                         prior(normal(0,100), class = sd),
+                         prior(lkj(2), class = cor)),
+                control=list(adapt_delta=.999, max_treedepth=15), iter = iter)
+
+fit_PJ04_me
+
+results[["PJ04"]]  <- fixef(fit_PJ04_me)["cvoicing",]
+results[["PJ04"]]["intercept"]  <- fixef(fit_PJ04_me)["Intercept", 1]
+results[["PJ04"]]["prop"]  <- fixef(fit_PJ04_me)["cvoicing", 1] / fixef(fit_PJ04_me)["Intercept", 1] 
+results[["PJ04"]]["Pbeta"] <- mean(posterior_samples(fit_PJ04_me, 
+                                            pars = "b_cvoicing") > 0)
+```
+
+
+### Data summarized without standard deviations or any measure of dispersion
+
+This was the case when a study presented data that were already summarized at some
+level but no measure of dispersion was provided: @Charles-Luce_1985
+
+In this case, we fit a linear  model that ignores the measurement error.
+
+#### @Charles-Luce_1985
+
+```{r C85, message=F}
+df_C85 <- read.table("../Original_Data/Charles-Luce_1985.tsv", sep="\t", 
+                        header=T,comment.char="") %>% 
+            filter(acoustic_cue == PVD)  %>% 
+            mutate(cvoicing = if_else(voicing == "voiced", .5, -.5))
+
+head(df_C85)
+
+fit_C85 <- brm(dur ~  cvoicing, data = df_C85,
+                prior= c(prior(normal(0,300), class = Intercept),
+                         prior(normal(0,100), class = b, coef = cvoicing),
+                         prior(normal(0,100), class = sigma)),iter=iter,
+                control=list(adapt_delta=.999, max_treedepth=15))
+
+fit_C85
+
+results[["C85"]]  <- fixef(fit_C85)["cvoicing",]
+results[["C85"]]["intercept"]  <- fixef(fit_C85)["Intercept", 1]
+results[["C85"]]["prop"]  <- fixef(fit_C85)["cvoicing", 1] / fixef(fit_C85)["Intercept", 1] 
+results[["C85"]]["Pbeta"] <- mean(posterior_samples(fit_C85, 
+                                            pars = "b_cvoicing") > 0)
+```
+
+### No summary of the data or data available
+
+In this case only mean, and F-values were provided. We calculated the SE, and we approximated the confidence interval: @Smith_etal_2009 
+
+The absolute avg. vowel duration is visually extracted from figure 2. 159ms for voiced and 146ms for voiceless.
+
+#### @Smith_etal_2009
+
+```{r, message=F}
+Mean <- 13 
+F <- 4.96
+(SE <- Mean/sqrt(F))
+(lowerCI <- Mean - 2 * SE)
+(upperCI <- Mean + 2 * SE)
+results[["Sea09"]]  <- c(Mean, SE, lowerCI, upperCI, 146, 0.0890411, NA)
+```
+
+## Summary of estimates extracted
+
+```{r, message=F, results = 'asis'}
+df_results <- plyr::ldply(results, .id = "short_name") 
+kable(df_results) 
+write.csv(df_results, "Estimates.csv") 
+```
+
+# References

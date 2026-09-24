@@ -1,0 +1,936 @@
+publication	population	subject	target	stimspk	pair	stimtype	stopp	place	voicing	vowel	acoustic_cue	dur
+Grawunder_2014	German	SF01	Schrieke	M1	P1	Standard	k	velar	voiceless	i	preceding vowel duration in ms	118
+Grawunder_2014	German	SF01	Schriege	M1	P1	Standard	g	velar	voiced	i	preceding vowel duration in ms	110
+Grawunder_2014	German	SF02	Schrieke	M1	P1	Standard	k	velar	voiceless	i	preceding vowel duration in ms	98
+Grawunder_2014	German	SF02	Schriege	M1	P1	Standard	g	velar	voiced	i	preceding vowel duration in ms	158
+Grawunder_2014	German	SF03	Schriege	F1	P1	Standard	g	velar	voiced	i	preceding vowel duration in ms	101
+Grawunder_2014	German	SF03	Schrieke	F1	P1	Standard	k	velar	voiceless	i	preceding vowel duration in ms	87
+Grawunder_2014	German	SF06	Schrieke	M1	P1	Standard	k	velar	voiceless	i	preceding vowel duration in ms	38
+Grawunder_2014	German	SF06	Schriege	M1	P1	Standard	g	velar	voiced	i	preceding vowel duration in ms	80
+Grawunder_2014	German	SM01	Schriege	F1	P1	Standard	g	velar	voiced	i	preceding vowel duration in ms	184
+Grawunder_2014	German	SM01	Schrieke	F1	P1	Standard	k	velar	voiceless	i	preceding vowel duration in ms	116
+Grawunder_2014	German	SM02	Schrieke	F1	P1	Standard	k	velar	voiceless	i	preceding vowel duration in ms	85
+Grawunder_2014	German	SM02	Schriege	F1	P1	Standard	g	velar	voiced	i	preceding vowel duration in ms	117
+Grawunder_2014	German	SM03	Schrieke	M1	P1	Standard	k	velar	voiceless	i	preceding vowel duration in ms	130
+Grawunder_2014	German	SM03	Schriege	M1	P1	Standard	g	velar	voiced	i	preceding vowel duration in ms	170
+Grawunder_2014	German	SM04	Schriege	F1	P1	Standard	g	velar	voiced	i	preceding vowel duration in ms	76
+Grawunder_2014	German	SM04	Schrieke	F1	P1	Standard	k	velar	voiceless	i	preceding vowel duration in ms	78
+Grawunder_2014	German	SM10	Schrieke	M1	P1	Standard	k	velar	voiceless	i	preceding vowel duration in ms	95
+Grawunder_2014	German	SM10	Schriege	M1	P1	Standard	g	velar	voiced	i	preceding vowel duration in ms	293
+Grawunder_2014	Austrian German	TF04	Schrieke	F1	P1	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	122
+Grawunder_2014	Austrian German	TF04	Schriege	F1	P1	Tirol	g	velar	voiced	i	preceding vowel duration in ms	114
+Grawunder_2014	Austrian German	TF05	Schrieke	F1	P1	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	121
+Grawunder_2014	Austrian German	TF05	Schriege	F1	P1	Tirol	g	velar	voiced	i	preceding vowel duration in ms	149
+Grawunder_2014	Austrian German	TF08	Schrieke	F1	P1	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	80
+Grawunder_2014	Austrian German	TF08	Schriege	F1	P1	Tirol	g	velar	voiced	i	preceding vowel duration in ms	121
+Grawunder_2014	Austrian German	TF09	Schrieke	M1	P1	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	149
+Grawunder_2014	Austrian German	TF09	Schriege	M1	P1	Tirol	g	velar	voiced	i	preceding vowel duration in ms	180
+Grawunder_2014	Austrian German	TM05	Schrieke	F1	P1	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	116
+Grawunder_2014	Austrian German	TM05	Schriege	F1	P1	Tirol	g	velar	voiced	i	preceding vowel duration in ms	192
+Grawunder_2014	Austrian German	TM06	Schriege	F1	P1	Tirol	g	velar	voiced	i	preceding vowel duration in ms	158
+Grawunder_2014	Austrian German	TM06	Schrieke	F1	P1	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	97
+Grawunder_2014	Austrian German	TM07	Schriege	F1	P1	Tirol	g	velar	voiced	i	preceding vowel duration in ms	182
+Grawunder_2014	Austrian German	TM07	Schrieke	F1	P1	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	143
+Grawunder_2014	Austrian German	TM08	Schriege	M1	P1	Tirol	g	velar	voiced	i	preceding vowel duration in ms	106
+Grawunder_2014	Austrian German	TM08	Schrieke	M1	P1	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	109
+Grawunder_2014	Austrian German	TM09	Schriege	M1	P1	Tirol	g	velar	voiced	i	preceding vowel duration in ms	115
+Grawunder_2014	Austrian German	TM09	Schrieke	M1	P1	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	133
+Grawunder_2014	German	SF01	Drude	F1	P10	Standard	d	alveo	voiced	u	preceding vowel duration in ms	122
+Grawunder_2014	German	SF01	Drute	F1	P10	Standard	t	alveo	voiceless	u	preceding vowel duration in ms	115
+Grawunder_2014	German	SF02	Drute	F1	P10	Standard	t	alveo	voiceless	u	preceding vowel duration in ms	124
+Grawunder_2014	German	SF02	Drude	F1	P10	Standard	d	alveo	voiced	u	preceding vowel duration in ms	167
+Grawunder_2014	German	SF03	Drute	M1	P10	Standard	t	alveo	voiceless	u	preceding vowel duration in ms	113
+Grawunder_2014	German	SF03	Drude	M1	P10	Standard	d	alveo	voiced	u	preceding vowel duration in ms	131
+Grawunder_2014	German	SF06	Drude	F1	P10	Standard	d	alveo	voiced	u	preceding vowel duration in ms	132
+Grawunder_2014	German	SF06	Drute	F1	P10	Standard	t	alveo	voiceless	u	preceding vowel duration in ms	89
+Grawunder_2014	German	SM01	Drute	M1	P10	Standard	t	alveo	voiceless	u	preceding vowel duration in ms	194
+Grawunder_2014	German	SM01	Drude	M1	P10	Standard	d	alveo	voiced	u	preceding vowel duration in ms	175
+Grawunder_2014	German	SM02	Drute	M1	P10	Standard	t	alveo	voiceless	u	preceding vowel duration in ms	165
+Grawunder_2014	German	SM02	Drude	M1	P10	Standard	d	alveo	voiced	u	preceding vowel duration in ms	123
+Grawunder_2014	German	SM03	Drute	F1	P10	Standard	t	alveo	voiceless	u	preceding vowel duration in ms	166
+Grawunder_2014	German	SM03	Drude	F1	P10	Standard	d	alveo	voiced	u	preceding vowel duration in ms	152
+Grawunder_2014	German	SM04	Drute	M1	P10	Standard	t	alveo	voiceless	u	preceding vowel duration in ms	105
+Grawunder_2014	German	SM04	Drude	M1	P10	Standard	d	alveo	voiced	u	preceding vowel duration in ms	126
+Grawunder_2014	German	SM10	Drute	F1	P10	Standard	t	alveo	voiceless	u	preceding vowel duration in ms	156
+Grawunder_2014	German	SM10	Drude	F1	P10	Standard	d	alveo	voiced	u	preceding vowel duration in ms	205
+Grawunder_2014	Austrian German	TF04	Drute	M1	P10	Tirol	t	alveo	voiceless	u	preceding vowel duration in ms	71
+Grawunder_2014	Austrian German	TF04	Drude	M1	P10	Tirol	d	alveo	voiced	u	preceding vowel duration in ms	175
+Grawunder_2014	Austrian German	TF05	Drude	M1	P10	Tirol	d	alveo	voiced	u	preceding vowel duration in ms	146
+Grawunder_2014	Austrian German	TF05	Drute	M1	P10	Tirol	t	alveo	voiceless	u	preceding vowel duration in ms	155
+Grawunder_2014	Austrian German	TF08	Drute	M1	P10	Tirol	t	alveo	voiceless	u	preceding vowel duration in ms	92
+Grawunder_2014	Austrian German	TF08	Drude	M1	P10	Tirol	d	alveo	voiced	u	preceding vowel duration in ms	87
+Grawunder_2014	Austrian German	TF09	Drude	F1	P10	Tirol	d	alveo	voiced	u	preceding vowel duration in ms	146
+Grawunder_2014	Austrian German	TF09	Drute	F1	P10	Tirol	t	alveo	voiceless	u	preceding vowel duration in ms	145
+Grawunder_2014	Austrian German	TM05	Drute	M1	P10	Tirol	t	alveo	voiceless	u	preceding vowel duration in ms	137
+Grawunder_2014	Austrian German	TM05	Drude	M1	P10	Tirol	d	alveo	voiced	u	preceding vowel duration in ms	177
+Grawunder_2014	Austrian German	TM06	Drute	M1	P10	Tirol	t	alveo	voiceless	u	preceding vowel duration in ms	176
+Grawunder_2014	Austrian German	TM06	Drude	M1	P10	Tirol	d	alveo	voiced	u	preceding vowel duration in ms	154
+Grawunder_2014	Austrian German	TM07	Drute	M1	P10	Tirol	t	alveo	voiceless	u	preceding vowel duration in ms	174
+Grawunder_2014	Austrian German	TM07	Drude	M1	P10	Tirol	d	alveo	voiced	u	preceding vowel duration in ms	145
+Grawunder_2014	Austrian German	TM08	Drude	F1	P10	Tirol	d	alveo	voiced	u	preceding vowel duration in ms	112
+Grawunder_2014	Austrian German	TM08	Drute	F1	P10	Tirol	t	alveo	voiceless	u	preceding vowel duration in ms	101
+Grawunder_2014	Austrian German	TM09	Drute	F1	P10	Tirol	t	alveo	voiceless	u	preceding vowel duration in ms	221
+Grawunder_2014	Austrian German	TM09	Drude	F1	P10	Tirol	d	alveo	voiced	u	preceding vowel duration in ms	252
+Grawunder_2014	German	SF01	Gage	F1	P11	Standard	g	velar	voiced	a	preceding vowel duration in ms	183
+Grawunder_2014	German	SF01	Gake	F1	P11	Standard	k	velar	voiceless	a	preceding vowel duration in ms	153
+Grawunder_2014	German	SF02	Gake	F1	P11	Standard	k	velar	voiceless	a	preceding vowel duration in ms	121
+Grawunder_2014	German	SF02	Gage	F1	P11	Standard	g	velar	voiced	a	preceding vowel duration in ms	148
+Grawunder_2014	German	SF03	Gage	M1	P11	Standard	g	velar	voiced	a	preceding vowel duration in ms	169
+Grawunder_2014	German	SF03	Gake	M1	P11	Standard	k	velar	voiceless	a	preceding vowel duration in ms	93
+Grawunder_2014	German	SF06	Gake	F1	P11	Standard	k	velar	voiceless	a	preceding vowel duration in ms	135
+Grawunder_2014	German	SM01	Gage	M1	P11	Standard	g	velar	voiced	a	preceding vowel duration in ms	209
+Grawunder_2014	German	SM01	Gake	M1	P11	Standard	k	velar	voiceless	a	preceding vowel duration in ms	188
+Grawunder_2014	German	SM02	Gake	M1	P11	Standard	k	velar	voiceless	a	preceding vowel duration in ms	159
+Grawunder_2014	German	SM02	Gage	M1	P11	Standard	g	velar	voiced	a	preceding vowel duration in ms	214
+Grawunder_2014	German	SM03	Gake	F1	P11	Standard	k	velar	voiceless	a	preceding vowel duration in ms	181
+Grawunder_2014	German	SM03	Gage	F1	P11	Standard	g	velar	voiced	a	preceding vowel duration in ms	178
+Grawunder_2014	German	SM04	Gake	M1	P11	Standard	NA	bilab	voiced	a	preceding vowel duration in ms	95
+Grawunder_2014	German	SM04	Gage	M1	P11	Standard	g	velar	voiced	a	preceding vowel duration in ms	129
+Grawunder_2014	German	SM10	Gage	F1	P11	Standard	g	velar	voiced	a	preceding vowel duration in ms	239
+Grawunder_2014	German	SM10	Gake	F1	P11	Standard	k	velar	voiceless	a	preceding vowel duration in ms	238
+Grawunder_2014	Austrian German	TF04	Gage	M1	P11	Tirol	g	velar	voiced	a	preceding vowel duration in ms	195
+Grawunder_2014	Austrian German	TF04	Gake	M1	P11	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	178
+Grawunder_2014	Austrian German	TF05	Gage	M1	P11	Tirol	g	velar	voiced	a	preceding vowel duration in ms	218
+Grawunder_2014	Austrian German	TF05	Gake	M1	P11	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	200
+Grawunder_2014	Austrian German	TF08	Gake	M1	P11	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	112
+Grawunder_2014	Austrian German	TF08	Gage	M1	P11	Tirol	g	velar	voiced	a	preceding vowel duration in ms	148
+Grawunder_2014	Austrian German	TF09	Gake	F1	P11	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	175
+Grawunder_2014	Austrian German	TF09	Gage	F1	P11	Tirol	g	velar	voiced	a	preceding vowel duration in ms	236
+Grawunder_2014	Austrian German	TM05	Gake	M1	P11	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	184
+Grawunder_2014	Austrian German	TM05	Gage	M1	P11	Tirol	g	velar	voiced	a	preceding vowel duration in ms	238
+Grawunder_2014	Austrian German	TM06	Gake	M1	P11	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	197
+Grawunder_2014	Austrian German	TM06	Gage	M1	P11	Tirol	g	velar	voiced	a	preceding vowel duration in ms	227
+Grawunder_2014	Austrian German	TM07	Gake	M1	P11	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	92
+Grawunder_2014	Austrian German	TM07	Gage	M1	P11	Tirol	g	velar	voiced	a	preceding vowel duration in ms	188
+Grawunder_2014	Austrian German	TM08	Gake	F1	P11	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	143
+Grawunder_2014	Austrian German	TM08	Gage	F1	P11	Tirol	NA	velar	voiced	a	preceding vowel duration in ms	166
+Grawunder_2014	Austrian German	TM09	Gake	F1	P11	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	162
+Grawunder_2014	Austrian German	TM09	Gage	F1	P11	Tirol	g	velar	voiced	a	preceding vowel duration in ms	215
+Grawunder_2014	German	SF01	Blote	F1	P12	Standard	t	alveo	voiceless	o	preceding vowel duration in ms	119
+Grawunder_2014	German	SF01	Blode	F1	P12	Standard	d	alveo	voiced	o	preceding vowel duration in ms	135
+Grawunder_2014	German	SF02	Blote	F1	P12	Standard	t	alveo	voiceless	o	preceding vowel duration in ms	137
+Grawunder_2014	German	SF02	Blode	F1	P12	Standard	d	alveo	voiced	o	preceding vowel duration in ms	174
+Grawunder_2014	German	SF03	Blode	M1	P12	Standard	d	alveo	voiced	o	preceding vowel duration in ms	148
+Grawunder_2014	German	SF03	Blote	M1	P12	Standard	t	alveo	voiceless	o	preceding vowel duration in ms	144
+Grawunder_2014	German	SF06	Blode	F1	P12	Standard	d	alveo	voiced	o	preceding vowel duration in ms	126
+Grawunder_2014	German	SF06	Blote	F1	P12	Standard	t	alveo	voiceless	o	preceding vowel duration in ms	118
+Grawunder_2014	German	SM01	Blote	M1	P12	Standard	t	alveo	voiceless	o	preceding vowel duration in ms	180
+Grawunder_2014	German	SM01	Blode	M1	P12	Standard	d	alveo	voiced	o	preceding vowel duration in ms	199
+Grawunder_2014	German	SM02	Blode	M1	P12	Standard	d	alveo	voiced	o	preceding vowel duration in ms	152
+Grawunder_2014	German	SM02	Blote	M1	P12	Standard	t	alveo	voiceless	o	preceding vowel duration in ms	136
+Grawunder_2014	German	SM03	Blote	F1	P12	Standard	t	alveo	voiceless	o	preceding vowel duration in ms	165
+Grawunder_2014	German	SM03	Blode	F1	P12	Standard	d	alveo	voiced	o	preceding vowel duration in ms	208
+Grawunder_2014	German	SM04	Blote	M1	P12	Standard	t	alveo	voiceless	o	preceding vowel duration in ms	106
+Grawunder_2014	German	SM04	Blode	M1	P12	Standard	d	alveo	voiced	o	preceding vowel duration in ms	119
+Grawunder_2014	German	SM10	Blote	F1	P12	Standard	t	alveo	voiceless	o	preceding vowel duration in ms	166
+Grawunder_2014	German	SM10	Blode	F1	P12	Standard	d	alveo	voiced	o	preceding vowel duration in ms	173
+Grawunder_2014	Austrian German	TF04	Blote	M1	P12	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	129
+Grawunder_2014	Austrian German	TF04	Blode	M1	P12	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	162
+Grawunder_2014	Austrian German	TF05	Blode	M1	P12	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	214
+Grawunder_2014	Austrian German	TF05	Blote	M1	P12	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	179
+Grawunder_2014	Austrian German	TF08	Blode	M1	P12	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	120
+Grawunder_2014	Austrian German	TF08	Blote	M1	P12	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	131
+Grawunder_2014	Austrian German	TF09	Blote	F1	P12	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	158
+Grawunder_2014	Austrian German	TF09	Blode	F1	P12	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	188
+Grawunder_2014	Austrian German	TM05	Blode	M1	P12	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	184
+Grawunder_2014	Austrian German	TM05	Blote	M1	P12	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	171
+Grawunder_2014	Austrian German	TM06	Blode	M1	P12	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	192
+Grawunder_2014	Austrian German	TM06	Blote	M1	P12	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	144
+Grawunder_2014	Austrian German	TM07	Blote	M1	P12	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	169
+Grawunder_2014	Austrian German	TM07	Blode	M1	P12	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	167
+Grawunder_2014	Austrian German	TM08	Blode	F1	P12	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	136
+Grawunder_2014	Austrian German	TM08	Blote	F1	P12	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	120
+Grawunder_2014	Austrian German	TM09	Blode	F1	P12	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	195
+Grawunder_2014	Austrian German	TM09	Blote	F1	P12	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	188
+Grawunder_2014	German	SF01	Flabe	F1	P13	Standard	b	bilab	voiced	a	preceding vowel duration in ms	138
+Grawunder_2014	German	SF01	Flape	F1	P13	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	132
+Grawunder_2014	German	SF02	Flape	F1	P13	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	110
+Grawunder_2014	German	SF02	Flabe	F1	P13	Standard	b	bilab	voiced	a	preceding vowel duration in ms	135
+Grawunder_2014	German	SF03	Flabe	M1	P13	Standard	b	bilab	voiced	a	preceding vowel duration in ms	177
+Grawunder_2014	German	SF03	Flape	M1	P13	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	129
+Grawunder_2014	German	SF06	Flabe	F1	P13	Standard	b	bilab	voiced	a	preceding vowel duration in ms	135
+Grawunder_2014	German	SF06	Flape	F1	P13	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	113
+Grawunder_2014	German	SM01	Flabe	M1	P13	Standard	b	bilab	voiceless	a	preceding vowel duration in ms	179
+Grawunder_2014	German	SM01	Flape	M1	P13	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	180
+Grawunder_2014	German	SM02	Flabe	M1	P13	Standard	b	bilab	voiced	a	preceding vowel duration in ms	175
+Grawunder_2014	German	SM02	Flape	M1	P13	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	123
+Grawunder_2014	German	SM03	Flape	F1	P13	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	145
+Grawunder_2014	German	SM03	Flabe	F1	P13	Standard	b	bilab	voiced	a	preceding vowel duration in ms	165
+Grawunder_2014	German	SM04	Flabe	M1	P13	Standard	b	bilab	voiced	a	preceding vowel duration in ms	142
+Grawunder_2014	German	SM04	Flape	M1	P13	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	91
+Grawunder_2014	German	SM10	Flabe	F1	P13	Standard	b	bilab	voiced	a	preceding vowel duration in ms	199
+Grawunder_2014	German	SM10	Flape	F1	P13	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	196
+Grawunder_2014	Austrian German	TF04	Flape	M1	P13	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	171
+Grawunder_2014	Austrian German	TF04	Flabe	M1	P13	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	168
+Grawunder_2014	Austrian German	TF05	Flape	M1	P13	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	198
+Grawunder_2014	Austrian German	TF05	Flabe	M1	P13	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	179
+Grawunder_2014	Austrian German	TF08	Flabe	M1	P13	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	135
+Grawunder_2014	Austrian German	TF08	Flape	M1	P13	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	134
+Grawunder_2014	Austrian German	TF09	Flabe	F1	P13	Tirol	NA	velar	voiced	a	preceding vowel duration in ms	166
+Grawunder_2014	Austrian German	TF09	Flape	F1	P13	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	157
+Grawunder_2014	Austrian German	TM05	Flape	M1	P13	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	207
+Grawunder_2014	Austrian German	TM05	Flabe	M1	P13	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	162
+Grawunder_2014	Austrian German	TM06	Flape	M1	P13	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	196
+Grawunder_2014	Austrian German	TM06	Flabe	M1	P13	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	158
+Grawunder_2014	Austrian German	TM07	Flape	M1	P13	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	169
+Grawunder_2014	Austrian German	TM07	Flabe	M1	P13	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	182
+Grawunder_2014	Austrian German	TM08	Flabe	F1	P13	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	122
+Grawunder_2014	Austrian German	TM08	Flape	F1	P13	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	123
+Grawunder_2014	Austrian German	TM09	Flape	F1	P13	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	112
+Grawunder_2014	Austrian German	TM09	Flabe	F1	P13	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	181
+Grawunder_2014	German	SF01	Gaute	M1	P14	Standard	k	velar	voiceless	au	preceding vowel duration in ms	155
+Grawunder_2014	German	SF01	Gaude	F1	P14	Standard	d	alveo	voiced	au	preceding vowel duration in ms	183
+Grawunder_2014	German	SF02	Gaude	F1	P14	Standard	d	alveo	voiced	au	preceding vowel duration in ms	186
+Grawunder_2014	German	SF02	Gaute	F1	P14	Standard	t	alveo	voiceless	au	preceding vowel duration in ms	173
+Grawunder_2014	German	SF03	Gaute	M1	P14	Standard	t	alveo	voiceless	au	preceding vowel duration in ms	180
+Grawunder_2014	German	SF03	Gaude	M1	P14	Standard	d	alveo	voiced	au	preceding vowel duration in ms	167
+Grawunder_2014	German	SF06	Gaude	F1	P14	Standard	d	alveo	voiced	au	preceding vowel duration in ms	166
+Grawunder_2014	German	SF06	Gaute	F1	P14	Standard	t	alveo	voiceless	au	preceding vowel duration in ms	140
+Grawunder_2014	German	SM01	Gaude	M1	P14	Standard	d	alveo	voiced	au	preceding vowel duration in ms	212
+Grawunder_2014	German	SM01	Gaute	M1	P14	Standard	t	alveo	voiceless	au	preceding vowel duration in ms	179
+Grawunder_2014	German	SM02	Gaude	M1	P14	Standard	d	alveo	voiced	au	preceding vowel duration in ms	179
+Grawunder_2014	German	SM02	Gaute	M1	P14	Standard	t	alveo	voiceless	au	preceding vowel duration in ms	158
+Grawunder_2014	German	SM03	Gaute	F1	P14	Standard	t	alveo	voiceless	au	preceding vowel duration in ms	182
+Grawunder_2014	German	SM03	Gaude	F1	P14	Standard	d	alveo	voiced	au	preceding vowel duration in ms	205
+Grawunder_2014	German	SM04	Gaude	M1	P14	Standard	d	alveo	voiced	au	preceding vowel duration in ms	105
+Grawunder_2014	German	SM04	Gaute	M1	P14	Standard	t	alveo	voiceless	au	preceding vowel duration in ms	125
+Grawunder_2014	German	SM10	Gaute	F1	P14	Standard	t	alveo	voiceless	au	preceding vowel duration in ms	239
+Grawunder_2014	German	SM10	Gaude	F1	P14	Standard	d	alveo	voiced	au	preceding vowel duration in ms	227
+Grawunder_2014	Austrian German	TF04	Gaute	M1	P14	Tirol	t	alveo	voiceless	au	preceding vowel duration in ms	210
+Grawunder_2014	Austrian German	TF04	Gaude	M1	P14	Tirol	d	alveo	voiced	au	preceding vowel duration in ms	171
+Grawunder_2014	Austrian German	TF05	Gaute	M1	P14	Tirol	t	alveo	voiceless	au	preceding vowel duration in ms	188
+Grawunder_2014	Austrian German	TF05	Gaude	M1	P14	Tirol	d	alveo	voiced	au	preceding vowel duration in ms	236
+Grawunder_2014	Austrian German	TF08	Gaude	M1	P14	Tirol	d	alveo	voiced	au	preceding vowel duration in ms	167
+Grawunder_2014	Austrian German	TF08	Gaute	M1	P14	Tirol	t	alveo	voiceless	au	preceding vowel duration in ms	176
+Grawunder_2014	Austrian German	TF09	Gaude	F1	P14	Tirol	d	alveo	voiced	au	preceding vowel duration in ms	228
+Grawunder_2014	Austrian German	TF09	Gaute	F1	P14	Tirol	t	alveo	voiceless	au	preceding vowel duration in ms	169
+Grawunder_2014	Austrian German	TM05	Gaude	M1	P14	Tirol	d	alveo	voiced	au	preceding vowel duration in ms	232
+Grawunder_2014	Austrian German	TM05	Gaute	M1	P14	Tirol	t	alveo	voiceless	au	preceding vowel duration in ms	211
+Grawunder_2014	Austrian German	TM06	Gaute	M1	P14	Tirol	t	alveo	voiceless	au	preceding vowel duration in ms	162
+Grawunder_2014	Austrian German	TM06	Gaude	M1	P14	Tirol	d	alveo	voiced	au	preceding vowel duration in ms	159
+Grawunder_2014	Austrian German	TM07	Gaude	M1	P14	Tirol	d	alveo	voiced	au	preceding vowel duration in ms	183
+Grawunder_2014	Austrian German	TM07	Gaute	M1	P14	Tirol	t	alveo	voiceless	au	preceding vowel duration in ms	210
+Grawunder_2014	Austrian German	TM08	Gaude	F1	P14	Tirol	d	alveo	voiced	au	preceding vowel duration in ms	156
+Grawunder_2014	Austrian German	TM08	Gaute	F1	P14	Tirol	t	alveo	voiceless	au	preceding vowel duration in ms	156
+Grawunder_2014	Austrian German	TM09	Gaute	F1	P14	Tirol	t	alveo	voiceless	au	preceding vowel duration in ms	220
+Grawunder_2014	Austrian German	TM09	Gaude	F1	P14	Tirol	d	alveo	voiced	au	preceding vowel duration in ms	193
+Grawunder_2014	German	SF01	Froke	F1	P15	Standard	k	velar	voiceless	o	preceding vowel duration in ms	116
+Grawunder_2014	German	SF01	Froge	F1	P15	Standard	g	velar	voiced	o	preceding vowel duration in ms	121
+Grawunder_2014	German	SF02	Froke	F1	P15	Standard	k	velar	voiceless	o	preceding vowel duration in ms	89
+Grawunder_2014	German	SF02	Froge	F1	P15	Standard	g	velar	voiced	o	preceding vowel duration in ms	97
+Grawunder_2014	German	SF03	Froke	M1	P15	Standard	k	velar	voiceless	o	preceding vowel duration in ms	124
+Grawunder_2014	German	SF03	Froge	M1	P15	Standard	g	velar	voiced	o	preceding vowel duration in ms	129
+Grawunder_2014	German	SF06	Froge	F1	P15	Standard	g	velar	voiced	o	preceding vowel duration in ms	103
+Grawunder_2014	German	SF06	Froke	F1	P15	Standard	k	velar	voiceless	o	preceding vowel duration in ms	105
+Grawunder_2014	German	SM01	Froge	M1	P15	Standard	g	velar	voiced	o	preceding vowel duration in ms	192
+Grawunder_2014	German	SM01	Froke	M1	P15	Standard	k	velar	voiceless	o	preceding vowel duration in ms	176
+Grawunder_2014	German	SM02	Froke	M1	P15	Standard	k	velar	voiceless	o	preceding vowel duration in ms	96
+Grawunder_2014	German	SM02	Froge	M1	P15	Standard	g	velar	voiced	o	preceding vowel duration in ms	133
+Grawunder_2014	German	SM03	Froke	F1	P15	Standard	k	velar	voiceless	o	preceding vowel duration in ms	127
+Grawunder_2014	German	SM03	Froge	F1	P15	Standard	g	velar	voiced	o	preceding vowel duration in ms	106
+Grawunder_2014	German	SM04	Froge	M1	P15	Standard	g	velar	voiced	o	preceding vowel duration in ms	116
+Grawunder_2014	German	SM04	Froke	M1	P15	Standard	k	velar	voiceless	o	preceding vowel duration in ms	79
+Grawunder_2014	German	SM10	Froke	F1	P15	Standard	k	velar	voiceless	o	preceding vowel duration in ms	182
+Grawunder_2014	German	SM10	Froge	F1	P15	Standard	g	velar	voiced	o	preceding vowel duration in ms	234
+Grawunder_2014	Austrian German	TF04	Froge	M1	P15	Tirol	g	velar	voiced	o	preceding vowel duration in ms	129
+Grawunder_2014	Austrian German	TF04	Froke	M1	P15	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	117
+Grawunder_2014	Austrian German	TF05	Froke	M1	P15	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	160
+Grawunder_2014	Austrian German	TF05	Froge	M1	P15	Tirol	g	velar	voiced	o	preceding vowel duration in ms	132
+Grawunder_2014	Austrian German	TF08	Froke	M1	P15	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	125
+Grawunder_2014	Austrian German	TF08	Froge	M1	P15	Tirol	g	velar	voiced	o	preceding vowel duration in ms	156
+Grawunder_2014	Austrian German	TF09	Froke	F1	P15	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	135
+Grawunder_2014	Austrian German	TF09	Froge	F1	P15	Tirol	g	velar	voiced	o	preceding vowel duration in ms	171
+Grawunder_2014	Austrian German	TM05	Froge	M1	P15	Tirol	g	velar	voiced	o	preceding vowel duration in ms	164
+Grawunder_2014	Austrian German	TM05	Froke	M1	P15	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	143
+Grawunder_2014	Austrian German	TM06	Froge	M1	P15	Tirol	g	velar	voiced	o	preceding vowel duration in ms	149
+Grawunder_2014	Austrian German	TM06	Froke	M1	P15	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	212
+Grawunder_2014	Austrian German	TM07	Froge	M1	P15	Tirol	g	velar	voiced	o	preceding vowel duration in ms	133
+Grawunder_2014	Austrian German	TM07	Froke	M1	P15	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	135
+Grawunder_2014	Austrian German	TM08	Froge	F1	P15	Tirol	g	velar	voiced	o	preceding vowel duration in ms	120
+Grawunder_2014	Austrian German	TM08	Froke	F1	P15	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	112
+Grawunder_2014	Austrian German	TM09	Froke	F1	P15	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	169
+Grawunder_2014	Austrian German	TM09	Froge	F1	P15	Tirol	g	velar	voiced	o	preceding vowel duration in ms	170
+Grawunder_2014	German	SF01	Frate	F1	P16	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	137
+Grawunder_2014	German	SF01	Frade	F1	P16	Standard	d	alveo	voiced	a	preceding vowel duration in ms	158
+Grawunder_2014	German	SF02	Frade	F1	P16	Standard	d	alveo	voiced	a	preceding vowel duration in ms	145
+Grawunder_2014	German	SF02	Frate	F1	P16	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	152
+Grawunder_2014	German	SF03	Frate	M1	P16	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	139
+Grawunder_2014	German	SF03	Frade	M1	P16	Standard	d	alveo	voiced	a	preceding vowel duration in ms	166
+Grawunder_2014	German	SF06	Frade	F1	P16	Standard	d	alveo	voiced	a	preceding vowel duration in ms	149
+Grawunder_2014	German	SF06	Frate	F1	P16	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	103
+Grawunder_2014	German	SM01	Frate	M1	P16	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	166
+Grawunder_2014	German	SM01	Frade	M1	P16	Standard	d	alveo	voiced	a	preceding vowel duration in ms	241
+Grawunder_2014	German	SM02	Frate	M1	P16	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	175
+Grawunder_2014	German	SM02	Frade	M1	P16	Standard	d	alveo	voiced	a	preceding vowel duration in ms	191
+Grawunder_2014	German	SM03	Frade	F1	P16	Standard	d	alveo	voiced	a	preceding vowel duration in ms	186
+Grawunder_2014	German	SM03	Frate	F1	P16	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	173
+Grawunder_2014	German	SM04	Frade	M1	P16	Standard	d	alveo	voiced	a	preceding vowel duration in ms	170
+Grawunder_2014	German	SM04	Frate	M1	P16	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	111
+Grawunder_2014	German	SM10	Frade	F1	P16	Standard	d	alveo	voiced	a	preceding vowel duration in ms	269
+Grawunder_2014	German	SM10	Frate	F1	P16	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	214
+Grawunder_2014	Austrian German	TF04	Frate	M1	P16	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	199
+Grawunder_2014	Austrian German	TF04	Frade	M1	P16	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	197
+Grawunder_2014	Austrian German	TF05	Frade	M1	P16	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	206
+Grawunder_2014	Austrian German	TF05	Frate	M1	P16	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	188
+Grawunder_2014	Austrian German	TF08	Frade	M1	P16	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	155
+Grawunder_2014	Austrian German	TF08	Frate	M1	P16	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	143
+Grawunder_2014	Austrian German	TF09	Frate	F1	P16	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	193
+Grawunder_2014	Austrian German	TF09	Frade	F1	P16	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	202
+Grawunder_2014	Austrian German	TM05	Frade	M1	P16	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	188
+Grawunder_2014	Austrian German	TM05	Frate	M1	P16	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	184
+Grawunder_2014	Austrian German	TM06	Frade	M1	P16	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	211
+Grawunder_2014	Austrian German	TM06	Frate	M1	P16	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	205
+Grawunder_2014	Austrian German	TM07	Frate	M1	P16	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	198
+Grawunder_2014	Austrian German	TM07	Frade	M1	P16	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	232
+Grawunder_2014	Austrian German	TM08	Frate	F1	P16	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	158
+Grawunder_2014	Austrian German	TM08	Frade	F1	P16	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	126
+Grawunder_2014	Austrian German	TM09	Frade	F1	P16	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	239
+Grawunder_2014	Austrian German	TM09	Frate	F1	P16	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	214
+Grawunder_2014	German	SF01	Priege	M1	P17	Standard	g	velar	voiced	i	preceding vowel duration in ms	109
+Grawunder_2014	German	SF01	Prieke	M1	P17	Standard	k	velar	voiceless	i	preceding vowel duration in ms	108
+Grawunder_2014	German	SF02	Priege	M1	P17	Standard	g	velar	voiced	i	preceding vowel duration in ms	83
+Grawunder_2014	German	SF02	Prieke	M1	P17	Standard	k	velar	voiceless	i	preceding vowel duration in ms	88
+Grawunder_2014	German	SF03	Prieke	F1	P17	Standard	k	velar	voiceless	i	preceding vowel duration in ms	76
+Grawunder_2014	German	SF03	Priege	F1	P17	Standard	g	velar	voiced	i	preceding vowel duration in ms	112
+Grawunder_2014	German	SF06	Prieke	M1	P17	Standard	k	velar	voiceless	i	preceding vowel duration in ms	88
+Grawunder_2014	German	SF06	Priege	M1	P17	Standard	g	velar	voiced	i	preceding vowel duration in ms	66
+Grawunder_2014	German	SM01	Priege	F1	P17	Standard	g	velar	voiced	i	preceding vowel duration in ms	133
+Grawunder_2014	German	SM01	Prieke	F1	P17	Standard	k	velar	voiceless	i	preceding vowel duration in ms	114
+Grawunder_2014	German	SM02	Prieke	F1	P17	Standard	k	velar	voiceless	i	preceding vowel duration in ms	101
+Grawunder_2014	German	SM02	Priege	F1	P17	Standard	g	velar	voiced	i	preceding vowel duration in ms	121
+Grawunder_2014	German	SM03	Priege	M1	P17	Standard	g	velar	voiced	i	preceding vowel duration in ms	143
+Grawunder_2014	German	SM03	Prieke	M1	P17	Standard	k	velar	voiceless	i	preceding vowel duration in ms	110
+Grawunder_2014	German	SM04	Prieke	F1	P17	Standard	k	velar	voiceless	i	preceding vowel duration in ms	76
+Grawunder_2014	German	SM04	Priege	F1	P17	Standard	NA	alveo	voiced	i	preceding vowel duration in ms	82
+Grawunder_2014	German	SM10	Priege	M1	P17	Standard	g	velar	voiced	i	preceding vowel duration in ms	138
+Grawunder_2014	German	SM10	Prieke	M1	P17	Standard	k	velar	voiceless	i	preceding vowel duration in ms	178
+Grawunder_2014	Austrian German	TF04	Prieke	F1	P17	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	128
+Grawunder_2014	Austrian German	TF04	Priege	F1	P17	Tirol	g	velar	voiced	i	preceding vowel duration in ms	163
+Grawunder_2014	Austrian German	TF05	Priege	F1	P17	Tirol	g	velar	voiced	i	preceding vowel duration in ms	163
+Grawunder_2014	Austrian German	TF05	Prieke	F1	P17	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	131
+Grawunder_2014	Austrian German	TF08	Prieke	F1	P17	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	97
+Grawunder_2014	Austrian German	TF08	Priege	F1	P17	Tirol	g	velar	voiced	i	preceding vowel duration in ms	116
+Grawunder_2014	Austrian German	TF09	Priege	M1	P17	Tirol	g	velar	voiced	i	preceding vowel duration in ms	162
+Grawunder_2014	Austrian German	TF09	Prieke	M1	P17	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	135
+Grawunder_2014	Austrian German	TM05	Prieke	F1	P17	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	106
+Grawunder_2014	Austrian German	TM05	Priege	F1	P17	Tirol	g	velar	voiced	i	preceding vowel duration in ms	192
+Grawunder_2014	Austrian German	TM06	Priege	F1	P17	Tirol	g	velar	voiced	i	preceding vowel duration in ms	111
+Grawunder_2014	Austrian German	TM06	Prieke	F1	P17	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	102
+Grawunder_2014	Austrian German	TM07	Priege	F1	P17	Tirol	g	velar	voiced	i	preceding vowel duration in ms	169
+Grawunder_2014	Austrian German	TM07	Prieke	F1	P17	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	139
+Grawunder_2014	Austrian German	TM08	Priege	M1	P17	Tirol	g	velar	voiced	i	preceding vowel duration in ms	108
+Grawunder_2014	Austrian German	TM08	Prieke	M1	P17	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	107
+Grawunder_2014	Austrian German	TM09	Prieke	M1	P17	Tirol	k	velar	voiceless	i	preceding vowel duration in ms	153
+Grawunder_2014	Austrian German	TM09	Priege	M1	P17	Tirol	g	velar	voiced	i	preceding vowel duration in ms	152
+Grawunder_2014	German	SF01	Schuge	M1	P18	Standard	g	velar	voiced	u	preceding vowel duration in ms	109
+Grawunder_2014	German	SF01	Schuke	M1	P18	Standard	k	velar	voiceless	u	preceding vowel duration in ms	93
+Grawunder_2014	German	SF02	Schuge	M1	P18	Standard	g	velar	voiced	u	preceding vowel duration in ms	91
+Grawunder_2014	German	SF02	Schuke	M1	P18	Standard	k	velar	voiceless	u	preceding vowel duration in ms	83
+Grawunder_2014	German	SF03	Schuge	F1	P18	Standard	g	velar	voiced	u	preceding vowel duration in ms	77
+Grawunder_2014	German	SF03	Schuke	F1	P18	Standard	k	velar	voiceless	u	preceding vowel duration in ms	92
+Grawunder_2014	German	SF06	Schuge	M1	P18	Standard	g	velar	voiced	u	preceding vowel duration in ms	53
+Grawunder_2014	German	SF06	Schuke	M1	P18	Standard	k	velar	voiceless	u	preceding vowel duration in ms	46
+Grawunder_2014	German	SM01	Schuke	F1	P18	Standard	k	velar	voiceless	u	preceding vowel duration in ms	85
+Grawunder_2014	German	SM01	Schuge	F1	P18	Standard	g	velar	voiced	u	preceding vowel duration in ms	144
+Grawunder_2014	German	SM02	Schuke	F1	P18	Standard	k	velar	voiceless	u	preceding vowel duration in ms	69
+Grawunder_2014	German	SM02	Schuge	F1	P18	Standard	g	velar	voiced	u	preceding vowel duration in ms	85
+Grawunder_2014	German	SM03	Schuke	M1	P18	Standard	k	velar	voiceless	u	preceding vowel duration in ms	133
+Grawunder_2014	German	SM03	Schuge	M1	P18	Standard	g	velar	voiced	u	preceding vowel duration in ms	160
+Grawunder_2014	German	SM04	Schuke	F1	P18	Standard	k	velar	voiceless	u	preceding vowel duration in ms	56
+Grawunder_2014	German	SM04	Schuge	F1	P18	Standard	g	velar	voiced	u	preceding vowel duration in ms	52
+Grawunder_2014	German	SM10	Schuge	M1	P18	Standard	g	velar	voiced	u	preceding vowel duration in ms	124
+Grawunder_2014	German	SM10	Schuke	M1	P18	Standard	k	velar	voiceless	u	preceding vowel duration in ms	100
+Grawunder_2014	Austrian German	TF04	Schuge	F1	P18	Tirol	g	velar	voiced	u	preceding vowel duration in ms	97
+Grawunder_2014	Austrian German	TF04	Schuke	F1	P18	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	85
+Grawunder_2014	Austrian German	TF05	Schuge	F1	P18	Tirol	g	velar	voiced	u	preceding vowel duration in ms	138
+Grawunder_2014	Austrian German	TF05	Schuke	F1	P18	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	106
+Grawunder_2014	Austrian German	TF08	Schuge	F1	P18	Tirol	g	velar	voiced	u	preceding vowel duration in ms	96
+Grawunder_2014	Austrian German	TF08	Schuke	F1	P18	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	120
+Grawunder_2014	Austrian German	TF09	Schuge	M1	P18	Tirol	g	velar	voiced	u	preceding vowel duration in ms	135
+Grawunder_2014	Austrian German	TF09	Schuke	M1	P18	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	80
+Grawunder_2014	Austrian German	TM05	Schuge	F1	P18	Tirol	g	velar	voiced	u	preceding vowel duration in ms	133
+Grawunder_2014	Austrian German	TM05	Schuke	F1	P18	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	95
+Grawunder_2014	Austrian German	TM06	Schuge	F1	P18	Tirol	g	velar	voiced	u	preceding vowel duration in ms	149
+Grawunder_2014	Austrian German	TM06	Schuke	F1	P18	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	95
+Grawunder_2014	Austrian German	TM07	Schuge	F1	P18	Tirol	g	velar	voiced	u	preceding vowel duration in ms	144
+Grawunder_2014	Austrian German	TM07	Schuke	F1	P18	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	105
+Grawunder_2014	Austrian German	TM08	Schuke	M1	P18	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	101
+Grawunder_2014	Austrian German	TM08	Schuge	M1	P18	Tirol	g	velar	voiced	u	preceding vowel duration in ms	113
+Grawunder_2014	Austrian German	TM09	Schuge	M1	P18	Tirol	g	velar	voiced	u	preceding vowel duration in ms	137
+Grawunder_2014	Austrian German	TM09	Schuke	M1	P18	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	103
+Grawunder_2014	German	SF01	Frube	F1	P19	Standard	t	alveo	voiceless	u	preceding vowel duration in ms	112
+Grawunder_2014	German	SF01	Frupe	F1	P19	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	99
+Grawunder_2014	German	SF02	Frupe	F1	P19	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	102
+Grawunder_2014	German	SF02	Frube	F1	P19	Standard	b	bilab	voiced	u	preceding vowel duration in ms	130
+Grawunder_2014	German	SF03	Frupe	M1	P19	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	95
+Grawunder_2014	German	SF03	Frube	M1	P19	Standard	b	bilab	voiced	u	preceding vowel duration in ms	125
+Grawunder_2014	German	SF06	Frupe	F1	P19	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	85
+Grawunder_2014	German	SF06	Frube	F1	P19	Standard	b	bilab	voiced	u	preceding vowel duration in ms	72
+Grawunder_2014	German	SM01	Frube	M1	P19	Standard	b	bilab	voiced	u	preceding vowel duration in ms	128
+Grawunder_2014	German	SM01	Frupe	M1	P19	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	138
+Grawunder_2014	German	SM02	Frube	M1	P19	Standard	b	bilab	voiced	u	preceding vowel duration in ms	135
+Grawunder_2014	German	SM02	Frupe	M1	P19	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	138
+Grawunder_2014	German	SM03	Frupe	F1	P19	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	121
+Grawunder_2014	German	SM03	Frube	F1	P19	Standard	b	bilab	voiced	u	preceding vowel duration in ms	106
+Grawunder_2014	German	SM04	Frupe	M1	P19	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	61
+Grawunder_2014	German	SM04	Frube	M1	P19	Standard	b	bilab	voiced	u	preceding vowel duration in ms	85
+Grawunder_2014	German	SM10	Frube	F1	P19	Standard	b	bilab	voiced	u	preceding vowel duration in ms	134
+Grawunder_2014	German	SM10	Frupe	F1	P19	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	196
+Grawunder_2014	Austrian German	TF04	Frupe	M1	P19	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	107
+Grawunder_2014	Austrian German	TF04	Frube	M1	P19	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	140
+Grawunder_2014	Austrian German	TF05	Frube	M1	P19	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	159
+Grawunder_2014	Austrian German	TF05	Frupe	M1	P19	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	129
+Grawunder_2014	Austrian German	TF08	Frupe	M1	P19	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	82
+Grawunder_2014	Austrian German	TF08	Frube	M1	P19	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	116
+Grawunder_2014	Austrian German	TF09	Frupe	F1	P19	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	98
+Grawunder_2014	Austrian German	TF09	Frube	F1	P19	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	162
+Grawunder_2014	Austrian German	TM05	Frupe	M1	P19	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	86
+Grawunder_2014	Austrian German	TM05	Frube	M1	P19	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	152
+Grawunder_2014	Austrian German	TM06	Frube	M1	P19	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	153
+Grawunder_2014	Austrian German	TM06	Frupe	M1	P19	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	66
+Grawunder_2014	Austrian German	TM07	Frupe	M1	P19	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	120
+Grawunder_2014	Austrian German	TM07	Frube	M1	P19	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	135
+Grawunder_2014	Austrian German	TM08	Frupe	F1	P19	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	103
+Grawunder_2014	Austrian German	TM08	Frube	F1	P19	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	114
+Grawunder_2014	Austrian German	TM09	Frupe	F1	P19	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	138
+Grawunder_2014	Austrian German	TM09	Frube	F1	P19	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	158
+Grawunder_2014	German	SF01	Quobe	M1	P2	Standard	b	bilab	voiced	o	preceding vowel duration in ms	114
+Grawunder_2014	German	SF01	Quope	M1	P2	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	117
+Grawunder_2014	German	SF02	Quope	M1	P2	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	110
+Grawunder_2014	German	SF02	Quobe	M1	P2	Standard	b	bilab	voiced	o	preceding vowel duration in ms	111
+Grawunder_2014	German	SF03	Quobe	F1	P2	Standard	b	bilab	voiced	o	preceding vowel duration in ms	102
+Grawunder_2014	German	SF03	Quope	F1	P2	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	106
+Grawunder_2014	German	SF06	Quope	M1	P2	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	97
+Grawunder_2014	German	SF06	Quobe	M1	P2	Standard	b	bilab	voiced	o	preceding vowel duration in ms	98
+Grawunder_2014	German	SM01	Quope	F1	P2	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	135
+Grawunder_2014	German	SM01	Quobe	F1	P2	Standard	b	bilab	voiced	o	preceding vowel duration in ms	204
+Grawunder_2014	German	SM02	Quope	F1	P2	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	134
+Grawunder_2014	German	SM02	Quobe	F1	P2	Standard	b	bilab	voiced	o	preceding vowel duration in ms	149
+Grawunder_2014	German	SM03	Quope	M1	P2	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	157
+Grawunder_2014	German	SM03	Quobe	M1	P2	Standard	b	bilab	voiced	o	preceding vowel duration in ms	154
+Grawunder_2014	German	SM04	Quobe	F1	P2	Standard	b	bilab	voiced	o	preceding vowel duration in ms	105
+Grawunder_2014	German	SM04	Quope	F1	P2	Standard	NA	velar	voiceless	o	preceding vowel duration in ms	121
+Grawunder_2014	German	SM10	Quope	M1	P2	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	141
+Grawunder_2014	German	SM10	Quobe	M1	P2	Standard	b	bilab	voiced	o	preceding vowel duration in ms	154
+Grawunder_2014	Austrian German	TF04	Quobe	F1	P2	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	168
+Grawunder_2014	Austrian German	TF04	Quope	F1	P2	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	151
+Grawunder_2014	Austrian German	TF05	Quobe	F1	P2	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	161
+Grawunder_2014	Austrian German	TF05	Quope	F1	P2	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	156
+Grawunder_2014	Austrian German	TF08	Quobe	F1	P2	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	122
+Grawunder_2014	Austrian German	TF08	Quope	F1	P2	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	141
+Grawunder_2014	Austrian German	TF09	Quope	M1	P2	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	174
+Grawunder_2014	Austrian German	TF09	Quobe	M1	P2	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	171
+Grawunder_2014	Austrian German	TM05	Quobe	F1	P2	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	133
+Grawunder_2014	Austrian German	TM05	Quope	F1	P2	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	160
+Grawunder_2014	Austrian German	TM06	Quope	F1	P2	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	107
+Grawunder_2014	Austrian German	TM06	Quobe	F1	P2	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	165
+Grawunder_2014	Austrian German	TM07	Quope	F1	P2	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	119
+Grawunder_2014	Austrian German	TM07	Quobe	F1	P2	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	147
+Grawunder_2014	Austrian German	TM08	Quope	M1	P2	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	77
+Grawunder_2014	Austrian German	TM08	Quobe	M1	P2	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	124
+Grawunder_2014	Austrian German	TM09	Quope	M1	P2	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	146
+Grawunder_2014	Austrian German	TM09	Quobe	M1	P2	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	177
+Grawunder_2014	German	SF01	Griede	F1	P20	Standard	d	alveo	voiced	i	preceding vowel duration in ms	125
+Grawunder_2014	German	SF01	Griete	F1	P20	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	106
+Grawunder_2014	German	SF02	Griede	F1	P20	Standard	d	alveo	voiced	i	preceding vowel duration in ms	127
+Grawunder_2014	German	SF02	Griete	F1	P20	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	103
+Grawunder_2014	German	SF03	Griete	M1	P20	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	123
+Grawunder_2014	German	SF03	Griede	M1	P20	Standard	d	alveo	voiced	i	preceding vowel duration in ms	136
+Grawunder_2014	German	SF06	Griede	F1	P20	Standard	d	alveo	voiced	i	preceding vowel duration in ms	73
+Grawunder_2014	German	SF06	Griete	F1	P20	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	74
+Grawunder_2014	German	SM01	Griede	M1	P20	Standard	d	alveo	voiced	i	preceding vowel duration in ms	178
+Grawunder_2014	German	SM01	Griete	M1	P20	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	196
+Grawunder_2014	German	SM02	Griete	M1	P20	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	147
+Grawunder_2014	German	SM02	Griede	M1	P20	Standard	d	alveo	voiced	i	preceding vowel duration in ms	197
+Grawunder_2014	German	SM03	Griete	F1	P20	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	141
+Grawunder_2014	German	SM03	Griede	F1	P20	Standard	d	alveo	voiced	i	preceding vowel duration in ms	146
+Grawunder_2014	German	SM04	Griete	M1	P20	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	101
+Grawunder_2014	German	SM04	Griede	M1	P20	Standard	d	alveo	voiced	i	preceding vowel duration in ms	126
+Grawunder_2014	German	SM10	Griete	F1	P20	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	194
+Grawunder_2014	German	SM10	Griede	F1	P20	Standard	d	alveo	voiced	i	preceding vowel duration in ms	174
+Grawunder_2014	Austrian German	TF04	Griete	M1	P20	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	148
+Grawunder_2014	Austrian German	TF04	Griede	M1	P20	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	171
+Grawunder_2014	Austrian German	TF05	Griede	M1	P20	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	176
+Grawunder_2014	Austrian German	TF05	Griete	M1	P20	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	157
+Grawunder_2014	Austrian German	TF08	Griete	M1	P20	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	117
+Grawunder_2014	Austrian German	TF08	Griede	M1	P20	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	147
+Grawunder_2014	Austrian German	TF09	Griete	F1	P20	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	164
+Grawunder_2014	Austrian German	TF09	Griede	F1	P20	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	161
+Grawunder_2014	Austrian German	TM05	Griede	M1	P20	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	192
+Grawunder_2014	Austrian German	TM05	Griete	M1	P20	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	151
+Grawunder_2014	Austrian German	TM06	Griete	M1	P20	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	152
+Grawunder_2014	Austrian German	TM06	Griede	M1	P20	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	146
+Grawunder_2014	Austrian German	TM07	Griede	M1	P20	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	234
+Grawunder_2014	Austrian German	TM07	Griete	M1	P20	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	199
+Grawunder_2014	Austrian German	TM08	Griete	F1	P20	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	97
+Grawunder_2014	Austrian German	TM08	Griede	F1	P20	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	127
+Grawunder_2014	Austrian German	TM09	Griede	F1	P20	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	206
+Grawunder_2014	Austrian German	TM09	Griete	F1	P20	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	183
+Grawunder_2014	German	SF01	Schmaube	M1	P21	Standard	b	bilab	voiced	au	preceding vowel duration in ms	149
+Grawunder_2014	German	SF01	Schmaupe	M1	P21	Standard	p	bilab	voiceless	au	preceding vowel duration in ms	132
+Grawunder_2014	German	SF02	Schmaube	M1	P21	Standard	b	bilab	voiced	au	preceding vowel duration in ms	122
+Grawunder_2014	German	SF02	Schmaupe	M1	P21	Standard	p	bilab	voiceless	au	preceding vowel duration in ms	135
+Grawunder_2014	German	SF03	Schmaube	F1	P21	Standard	b	bilab	voiced	au	preceding vowel duration in ms	185
+Grawunder_2014	German	SF03	Schmaupe	F1	P21	Standard	p	bilab	voiceless	au	preceding vowel duration in ms	138
+Grawunder_2014	German	SF06	Schmaupe	M1	P21	Standard	p	bilab	voiceless	au	preceding vowel duration in ms	122
+Grawunder_2014	German	SF06	Schmaube	M1	P21	Standard	b	bilab	voiced	au	preceding vowel duration in ms	145
+Grawunder_2014	German	SM01	Schmaube	F1	P21	Standard	b	bilab	voiced	au	preceding vowel duration in ms	152
+Grawunder_2014	German	SM01	Schmaupe	F1	P21	Standard	p	bilab	voiceless	au	preceding vowel duration in ms	130
+Grawunder_2014	German	SM02	Schmaupe	F1	P21	Standard	p	bilab	voiceless	au	preceding vowel duration in ms	161
+Grawunder_2014	German	SM02	Schmaube	F1	P21	Standard	b	bilab	voiced	au	preceding vowel duration in ms	182
+Grawunder_2014	German	SM03	Schmaube	M1	P21	Standard	b	bilab	voiced	au	preceding vowel duration in ms	146
+Grawunder_2014	German	SM03	Schmaupe	M1	P21	Standard	p	bilab	voiceless	au	preceding vowel duration in ms	139
+Grawunder_2014	German	SM04	Schmaube	F1	P21	Standard	b	bilab	voiced	au	preceding vowel duration in ms	113
+Grawunder_2014	German	SM04	Schmaupe	F1	P21	Standard	p	bilab	voiceless	au	preceding vowel duration in ms	109
+Grawunder_2014	German	SM10	Schmaube	M1	P21	Standard	b	bilab	voiced	au	preceding vowel duration in ms	155
+Grawunder_2014	German	SM10	Schmaupe	M1	P21	Standard	p	bilab	voiceless	au	preceding vowel duration in ms	108
+Grawunder_2014	Austrian German	TF04	Schmaupe	F1	P21	Tirol	p	bilab	voiceless	au	preceding vowel duration in ms	140
+Grawunder_2014	Austrian German	TF04	Schmaube	F1	P21	Tirol	b	bilab	voiced	au	preceding vowel duration in ms	167
+Grawunder_2014	Austrian German	TF05	Schmaube	F1	P21	Tirol	b	bilab	voiced	au	preceding vowel duration in ms	164
+Grawunder_2014	Austrian German	TF05	Schmaupe	F1	P21	Tirol	p	bilab	voiceless	au	preceding vowel duration in ms	157
+Grawunder_2014	Austrian German	TF08	Schmaube	F1	P21	Tirol	b	bilab	voiced	au	preceding vowel duration in ms	185
+Grawunder_2014	Austrian German	TF08	Schmaupe	F1	P21	Tirol	p	bilab	voiceless	au	preceding vowel duration in ms	148
+Grawunder_2014	Austrian German	TF09	Schmaupe	M1	P21	Tirol	p	bilab	voiceless	au	preceding vowel duration in ms	129
+Grawunder_2014	Austrian German	TF09	Schmaube	M1	P21	Tirol	b	bilab	voiced	au	preceding vowel duration in ms	165
+Grawunder_2014	Austrian German	TM05	Schmaupe	F1	P21	Tirol	p	bilab	voiceless	au	preceding vowel duration in ms	158
+Grawunder_2014	Austrian German	TM05	Schmaube	F1	P21	Tirol	b	bilab	voiced	au	preceding vowel duration in ms	191
+Grawunder_2014	Austrian German	TM06	Schmaupe	F1	P21	Tirol	p	bilab	voiceless	au	preceding vowel duration in ms	173
+Grawunder_2014	Austrian German	TM06	Schmaube	F1	P21	Tirol	b	bilab	voiced	au	preceding vowel duration in ms	89
+Grawunder_2014	Austrian German	TM07	Schmaupe	F1	P21	Tirol	p	bilab	voiceless	au	preceding vowel duration in ms	146
+Grawunder_2014	Austrian German	TM07	Schmaube	F1	P21	Tirol	b	bilab	voiced	au	preceding vowel duration in ms	164
+Grawunder_2014	Austrian German	TM08	Schmaupe	M1	P21	Tirol	p	bilab	voiceless	au	preceding vowel duration in ms	133
+Grawunder_2014	Austrian German	TM08	Schmaube	M1	P21	Tirol	b	bilab	voiced	au	preceding vowel duration in ms	126
+Grawunder_2014	Austrian German	TM09	Schmaupe	M1	P21	Tirol	p	bilab	voiceless	au	preceding vowel duration in ms	188
+Grawunder_2014	Austrian German	TM09	Schmaube	M1	P21	Tirol	b	bilab	voiced	au	preceding vowel duration in ms	202
+Grawunder_2014	German	SF01	Quade	M1	P22	Standard	d	alveo	voiced	a	preceding vowel duration in ms	166
+Grawunder_2014	German	SF01	Quate	M1	P22	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	147
+Grawunder_2014	German	SF02	Quade	M1	P22	Standard	d	alveo	voiced	a	preceding vowel duration in ms	173
+Grawunder_2014	German	SF02	Quate	M1	P22	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	146
+Grawunder_2014	German	SF03	Quade	F1	P22	Standard	d	alveo	voiced	a	preceding vowel duration in ms	155
+Grawunder_2014	German	SF03	Quate	F1	P22	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	144
+Grawunder_2014	German	SF06	Quate	M1	P22	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	110
+Grawunder_2014	German	SF06	Quade	M1	P22	Standard	d	alveo	voiced	a	preceding vowel duration in ms	138
+Grawunder_2014	German	SM01	Quade	F1	P22	Standard	d	alveo	voiced	a	preceding vowel duration in ms	212
+Grawunder_2014	German	SM01	Quate	F1	P22	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	170
+Grawunder_2014	German	SM02	Quate	F1	P22	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	185
+Grawunder_2014	German	SM02	Quade	F1	P22	Standard	d	alveo	voiced	a	preceding vowel duration in ms	191
+Grawunder_2014	German	SM03	Quate	M1	P22	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	208
+Grawunder_2014	German	SM03	Quade	M1	P22	Standard	d	alveo	voiced	a	preceding vowel duration in ms	226
+Grawunder_2014	German	SM04	Quate	F1	P22	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	150
+Grawunder_2014	German	SM04	Quade	F1	P22	Standard	d	alveo	voiced	a	preceding vowel duration in ms	122
+Grawunder_2014	German	SM10	Quate	M1	P22	Standard	t	alveo	voiceless	a	preceding vowel duration in ms	213
+Grawunder_2014	German	SM10	Quade	M1	P22	Standard	d	alveo	voiced	a	preceding vowel duration in ms	202
+Grawunder_2014	Austrian German	TF04	Quade	F1	P22	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	165
+Grawunder_2014	Austrian German	TF04	Quate	F1	P22	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	174
+Grawunder_2014	Austrian German	TF05	Quate	F1	P22	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	196
+Grawunder_2014	Austrian German	TF05	Quade	F1	P22	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	219
+Grawunder_2014	Austrian German	TF08	Quate	F1	P22	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	134
+Grawunder_2014	Austrian German	TF08	Quade	F1	P22	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	127
+Grawunder_2014	Austrian German	TF09	Quade	M1	P22	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	193
+Grawunder_2014	Austrian German	TF09	Quate	M1	P22	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	198
+Grawunder_2014	Austrian German	TM05	Quade	F1	P22	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	252
+Grawunder_2014	Austrian German	TM05	Quate	F1	P22	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	189
+Grawunder_2014	Austrian German	TM06	Quate	F1	P22	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	190
+Grawunder_2014	Austrian German	TM06	Quade	F1	P22	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	204
+Grawunder_2014	Austrian German	TM07	Quade	F1	P22	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	174
+Grawunder_2014	Austrian German	TM07	Quate	F1	P22	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	208
+Grawunder_2014	Austrian German	TM08	Quate	M1	P22	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	144
+Grawunder_2014	Austrian German	TM08	Quade	M1	P22	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	126
+Grawunder_2014	Austrian German	TM09	Quate	M1	P22	Tirol	t	alveo	voiceless	a	preceding vowel duration in ms	175
+Grawunder_2014	Austrian German	TM09	Quade	M1	P22	Tirol	d	alveo	voiced	a	preceding vowel duration in ms	238
+Grawunder_2014	German	SF01	Wiebe	M1	P23	Standard	b	bilab	voiced	i	preceding vowel duration in ms	108
+Grawunder_2014	German	SF01	Wiepe	M1	P23	Standard	p	bilab	voiceless	i	preceding vowel duration in ms	124
+Grawunder_2014	German	SF02	Wiebe	M1	P23	Standard	b	bilab	voiced	i	preceding vowel duration in ms	96
+Grawunder_2014	German	SF02	Wiepe	M1	P23	Standard	p	bilab	voiceless	i	preceding vowel duration in ms	112
+Grawunder_2014	German	SF03	Wiepe	F1	P23	Standard	p	bilab	voiceless	i	preceding vowel duration in ms	98
+Grawunder_2014	German	SF03	Wiebe	F1	P23	Standard	b	bilab	voiced	i	preceding vowel duration in ms	90
+Grawunder_2014	German	SF06	Wiepe	M1	P23	Standard	p	bilab	voiceless	i	preceding vowel duration in ms	57
+Grawunder_2014	German	SF06	Wiebe	M1	P23	Standard	b	bilab	voiced	i	preceding vowel duration in ms	69
+Grawunder_2014	German	SM01	Wiepe	F1	P23	Standard	p	bilab	voiceless	i	preceding vowel duration in ms	123
+Grawunder_2014	German	SM01	Wiebe	F1	P23	Standard	b	bilab	voiced	i	preceding vowel duration in ms	152
+Grawunder_2014	German	SM02	Wiebe	F1	P23	Standard	b	bilab	voiced	i	preceding vowel duration in ms	128
+Grawunder_2014	German	SM02	Wiepe	F1	P23	Standard	p	bilab	voiceless	i	preceding vowel duration in ms	108
+Grawunder_2014	German	SM03	Wiebe	M1	P23	Standard	b	bilab	voiced	i	preceding vowel duration in ms	155
+Grawunder_2014	German	SM03	Wiepe	M1	P23	Standard	p	bilab	voiceless	i	preceding vowel duration in ms	140
+Grawunder_2014	German	SM04	Wiepe	F1	P23	Standard	p	bilab	voiceless	i	preceding vowel duration in ms	77
+Grawunder_2014	German	SM04	Wiebe	F1	P23	Standard	b	bilab	voiced	i	preceding vowel duration in ms	89
+Grawunder_2014	German	SM10	Wiepe	M1	P23	Standard	p	bilab	voiceless	i	preceding vowel duration in ms	203
+Grawunder_2014	German	SM10	Wiebe	M1	P23	Standard	b	bilab	voiced	i	preceding vowel duration in ms	161
+Grawunder_2014	Austrian German	TF04	Wiebe	F1	P23	Tirol	b	bilab	voiced	i	preceding vowel duration in ms	149
+Grawunder_2014	Austrian German	TF04	Wiepe	F1	P23	Tirol	p	bilab	voiceless	i	preceding vowel duration in ms	156
+Grawunder_2014	Austrian German	TF05	Wiepe	F1	P23	Tirol	p	bilab	voiceless	i	preceding vowel duration in ms	92
+Grawunder_2014	Austrian German	TF05	Wiebe	F1	P23	Tirol	b	bilab	voiced	i	preceding vowel duration in ms	156
+Grawunder_2014	Austrian German	TF08	Wiebe	F1	P23	Tirol	b	bilab	voiced	i	preceding vowel duration in ms	116
+Grawunder_2014	Austrian German	TF08	Wiepe	F1	P23	Tirol	p	bilab	voiceless	i	preceding vowel duration in ms	113
+Grawunder_2014	Austrian German	TF09	Wiepe	M1	P23	Tirol	p	bilab	voiceless	i	preceding vowel duration in ms	147
+Grawunder_2014	Austrian German	TF09	Wiebe	M1	P23	Tirol	b	bilab	voiced	i	preceding vowel duration in ms	176
+Grawunder_2014	Austrian German	TM05	Wiepe	F1	P23	Tirol	p	bilab	voiceless	i	preceding vowel duration in ms	158
+Grawunder_2014	Austrian German	TM05	Wiebe	F1	P23	Tirol	b	bilab	voiced	i	preceding vowel duration in ms	191
+Grawunder_2014	Austrian German	TM06	Wiebe	F1	P23	Tirol	b	bilab	voiced	i	preceding vowel duration in ms	124
+Grawunder_2014	Austrian German	TM06	Wiepe	F1	P23	Tirol	p	bilab	voiceless	i	preceding vowel duration in ms	94
+Grawunder_2014	Austrian German	TM07	Wiebe	F1	P23	Tirol	b	bilab	voiced	i	preceding vowel duration in ms	142
+Grawunder_2014	Austrian German	TM07	Wiepe	F1	P23	Tirol	p	bilab	voiceless	i	preceding vowel duration in ms	162
+Grawunder_2014	Austrian German	TM08	Wiebe	M1	P23	Tirol	b	bilab	voiced	i	preceding vowel duration in ms	140
+Grawunder_2014	Austrian German	TM08	Wiepe	M1	P23	Tirol	p	bilab	voiceless	i	preceding vowel duration in ms	100
+Grawunder_2014	Austrian German	TM09	Wiebe	M1	P23	Tirol	b	bilab	voiced	i	preceding vowel duration in ms	150
+Grawunder_2014	Austrian German	TM09	Wiepe	M1	P23	Tirol	p	bilab	voiceless	i	preceding vowel duration in ms	155
+Grawunder_2014	German	SF01	Roge	M1	P24	Standard	g	velar	voiced	o	preceding vowel duration in ms	122
+Grawunder_2014	German	SF01	Roke	M1	P24	Standard	k	velar	voiceless	o	preceding vowel duration in ms	123
+Grawunder_2014	German	SF02	Roge	M1	P24	Standard	g	velar	voiced	o	preceding vowel duration in ms	132
+Grawunder_2014	German	SF02	Roke	M1	P24	Standard	k	velar	voiceless	o	preceding vowel duration in ms	105
+Grawunder_2014	German	SF03	Roge	F1	P24	Standard	g	velar	voiced	o	preceding vowel duration in ms	164
+Grawunder_2014	German	SF03	Roke	F1	P24	Standard	k	velar	voiceless	o	preceding vowel duration in ms	122
+Grawunder_2014	German	SF06	Roke	M1	P24	Standard	k	velar	voiceless	o	preceding vowel duration in ms	85
+Grawunder_2014	German	SF06	Roge	M1	P24	Standard	g	velar	voiced	o	preceding vowel duration in ms	115
+Grawunder_2014	German	SM01	Roke	F1	P24	Standard	k	velar	voiceless	o	preceding vowel duration in ms	142
+Grawunder_2014	German	SM01	Roge	F1	P24	Standard	g	velar	voiced	o	preceding vowel duration in ms	210
+Grawunder_2014	German	SM02	Roge	F1	P24	Standard	g	velar	voiced	o	preceding vowel duration in ms	179
+Grawunder_2014	German	SM02	Roke	F1	P24	Standard	k	velar	voiceless	o	preceding vowel duration in ms	114
+Grawunder_2014	German	SM03	Roge	M1	P24	Standard	g	velar	voiced	o	preceding vowel duration in ms	147
+Grawunder_2014	German	SM03	Roke	M1	P24	Standard	k	velar	voiceless	o	preceding vowel duration in ms	179
+Grawunder_2014	German	SM04	Roge	F1	P24	Standard	g	velar	voiced	o	preceding vowel duration in ms	101
+Grawunder_2014	German	SM04	Roke	F1	P24	Standard	k	velar	voiceless	o	preceding vowel duration in ms	117
+Grawunder_2014	German	SM10	Roke	M1	P24	Standard	k	velar	voiceless	o	preceding vowel duration in ms	200
+Grawunder_2014	German	SM10	Roge	M1	P24	Standard	g	velar	voiced	o	preceding vowel duration in ms	220
+Grawunder_2014	Austrian German	TF04	Roge	F1	P24	Tirol	g	velar	voiced	o	preceding vowel duration in ms	143
+Grawunder_2014	Austrian German	TF04	Roke	F1	P24	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	106
+Grawunder_2014	Austrian German	TF05	Roge	F1	P24	Tirol	g	velar	voiced	o	preceding vowel duration in ms	164
+Grawunder_2014	Austrian German	TF05	Roke	F1	P24	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	122
+Grawunder_2014	Austrian German	TF08	Roke	F1	P24	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	78
+Grawunder_2014	Austrian German	TF08	Roge	F1	P24	Tirol	g	velar	voiced	o	preceding vowel duration in ms	153
+Grawunder_2014	Austrian German	TF09	Roge	M1	P24	Tirol	g	velar	voiced	o	preceding vowel duration in ms	171
+Grawunder_2014	Austrian German	TF09	Roke	M1	P24	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	68
+Grawunder_2014	Austrian German	TM05	Roke	F1	P24	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	106
+Grawunder_2014	Austrian German	TM05	Roge	F1	P24	Tirol	g	velar	voiced	o	preceding vowel duration in ms	210
+Grawunder_2014	Austrian German	TM06	Roge	F1	P24	Tirol	g	velar	voiced	o	preceding vowel duration in ms	175
+Grawunder_2014	Austrian German	TM06	Roke	F1	P24	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	119
+Grawunder_2014	Austrian German	TM07	Roke	F1	P24	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	67
+Grawunder_2014	Austrian German	TM07	Roge	F1	P24	Tirol	g	velar	voiced	o	preceding vowel duration in ms	182
+Grawunder_2014	Austrian German	TM08	Roge	M1	P24	Tirol	g	velar	voiced	o	preceding vowel duration in ms	144
+Grawunder_2014	Austrian German	TM08	Roke	M1	P24	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	83
+Grawunder_2014	Austrian German	TM09	Roge	M1	P24	Tirol	g	velar	voiced	o	preceding vowel duration in ms	218
+Grawunder_2014	Austrian German	TM09	Roke	M1	P24	Tirol	k	velar	voiceless	o	preceding vowel duration in ms	155
+Grawunder_2014	Austrian German	TF04	Rake	F1	P25	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	179
+Grawunder_2014	Austrian German	TF04	Rage	F1	P25	Tirol	g	velar	voiced	a	preceding vowel duration in ms	199
+Grawunder_2014	Austrian German	TF05	Rage	F1	P25	Tirol	g	velar	voiced	a	preceding vowel duration in ms	200
+Grawunder_2014	Austrian German	TF05	Rake	F1	P25	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	196
+Grawunder_2014	Austrian German	TF08	Rake	F1	P25	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	133
+Grawunder_2014	Austrian German	TF08	Rage	F1	P25	Tirol	g	velar	voiced	a	preceding vowel duration in ms	165
+Grawunder_2014	Austrian German	TF09	Rage	M1	P25	Tirol	g	velar	voiced	a	preceding vowel duration in ms	238
+Grawunder_2014	Austrian German	TF09	Rake	M1	P25	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	173
+Grawunder_2014	Austrian German	TM05	Rake	F1	P25	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	207
+Grawunder_2014	Austrian German	TM05	Rage	F1	P25	Tirol	g	velar	voiced	a	preceding vowel duration in ms	272
+Grawunder_2014	Austrian German	TM06	Rake	F1	P25	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	205
+Grawunder_2014	Austrian German	TM06	Rage	F1	P25	Tirol	g	velar	voiced	a	preceding vowel duration in ms	218
+Grawunder_2014	Austrian German	TM07	Rage	F1	P25	Tirol	g	velar	voiced	a	preceding vowel duration in ms	201
+Grawunder_2014	Austrian German	TM07	Rake	F1	P25	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	185
+Grawunder_2014	Austrian German	TM08	Rake	M1	P25	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	160
+Grawunder_2014	Austrian German	TM08	Rage	M1	P25	Tirol	g	velar	voiced	a	preceding vowel duration in ms	137
+Grawunder_2014	Austrian German	TM09	Rage	M1	P25	Tirol	g	velar	voiced	a	preceding vowel duration in ms	232
+Grawunder_2014	Austrian German	TM09	Rake	M1	P25	Tirol	k	velar	voiceless	a	preceding vowel duration in ms	159
+Grawunder_2014	Austrian German	TF04	Gode	M1	P26	Tirol	NA	velar	voiced	o	preceding vowel duration in ms	153
+Grawunder_2014	Austrian German	TF04	Gote	M1	P26	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	148
+Grawunder_2014	Austrian German	TF05	Gode	M1	P26	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	164
+Grawunder_2014	Austrian German	TF05	Gote	M1	P26	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	161
+Grawunder_2014	Austrian German	TF08	Gode	M1	P26	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	125
+Grawunder_2014	Austrian German	TF08	Gote	M1	P26	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	125
+Grawunder_2014	Austrian German	TF09	Gote	F1	P26	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	176
+Grawunder_2014	Austrian German	TF09	Gode	F1	P26	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	229
+Grawunder_2014	Austrian German	TM05	Gote	M1	P26	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	182
+Grawunder_2014	Austrian German	TM05	Gode	M1	P26	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	205
+Grawunder_2014	Austrian German	TM06	Gode	M1	P26	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	197
+Grawunder_2014	Austrian German	TM06	Gote	M1	P26	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	149
+Grawunder_2014	Austrian German	TM07	Gode	M1	P26	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	181
+Grawunder_2014	Austrian German	TM07	Gote	M1	P26	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	158
+Grawunder_2014	Austrian German	TM08	Gode	F1	P26	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	176
+Grawunder_2014	Austrian German	TM08	Gote	F1	P26	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	122
+Grawunder_2014	Austrian German	TM09	Gode	F1	P26	Tirol	d	alveo	voiced	o	preceding vowel duration in ms	179
+Grawunder_2014	Austrian German	TM09	Gote	F1	P26	Tirol	t	alveo	voiceless	o	preceding vowel duration in ms	172
+Grawunder_2014	Austrian German	TF04	K퀌_pe	M1	P27	Tirol	p	bilab	voiceless	퀌_	preceding vowel duration in ms	122
+Grawunder_2014	Austrian German	TF04	K퀌_be	M1	P27	Tirol	b	bilab	voiced	퀌_	preceding vowel duration in ms	152
+Grawunder_2014	Austrian German	TF05	K퀌_pe	M1	P27	Tirol	p	bilab	voiceless	퀌_	preceding vowel duration in ms	132
+Grawunder_2014	Austrian German	TF05	K퀌_be	M1	P27	Tirol	b	bilab	voiced	퀌_	preceding vowel duration in ms	157
+Grawunder_2014	Austrian German	TF08	K퀌_pe	M1	P27	Tirol	p	bilab	voiceless	퀌_	preceding vowel duration in ms	104
+Grawunder_2014	Austrian German	TF08	K퀌_be	M1	P27	Tirol	b	bilab	voiced	퀌_	preceding vowel duration in ms	120
+Grawunder_2014	Austrian German	TF09	K퀌_pe	F1	P27	Tirol	p	bilab	voiceless	퀌_	preceding vowel duration in ms	139
+Grawunder_2014	Austrian German	TF09	K퀌_be	F1	P27	Tirol	b	bilab	voiced	퀌_	preceding vowel duration in ms	151
+Grawunder_2014	Austrian German	TM05	K퀌_be	M1	P27	Tirol	b	bilab	voiced	퀌_	preceding vowel duration in ms	165
+Grawunder_2014	Austrian German	TM05	K퀌_pe	M1	P27	Tirol	p	bilab	voiceless	퀌_	preceding vowel duration in ms	148
+Grawunder_2014	Austrian German	TM06	K퀌_pe	M1	P27	Tirol	p	bilab	voiceless	퀌_	preceding vowel duration in ms	106
+Grawunder_2014	Austrian German	TM06	K퀌_be	M1	P27	Tirol	b	bilab	voiced	퀌_	preceding vowel duration in ms	119
+Grawunder_2014	Austrian German	TM07	K퀌_pe	M1	P27	Tirol	p	bilab	voiceless	퀌_	preceding vowel duration in ms	93
+Grawunder_2014	Austrian German	TM07	K퀌_be	M1	P27	Tirol	b	bilab	voiced	퀌_	preceding vowel duration in ms	132
+Grawunder_2014	Austrian German	TM08	K퀌_be	F1	P27	Tirol	b	bilab	voiced	퀌_	preceding vowel duration in ms	137
+Grawunder_2014	Austrian German	TM08	K퀌_pe	F1	P27	Tirol	p	bilab	voiceless	퀌_	preceding vowel duration in ms	108
+Grawunder_2014	Austrian German	TM09	K퀌_be	F1	P27	Tirol	b	bilab	voiced	퀌_	preceding vowel duration in ms	167
+Grawunder_2014	Austrian German	TM09	K퀌_pe	F1	P27	Tirol	p	bilab	voiceless	퀌_	preceding vowel duration in ms	140
+Grawunder_2014	Austrian German	TF04	Reuge	F1	P28	Tirol	g	velar	voiced	eu	preceding vowel duration in ms	207
+Grawunder_2014	Austrian German	TF04	Reuke	F1	P28	Tirol	k	velar	voiceless	eu	preceding vowel duration in ms	132
+Grawunder_2014	Austrian German	TF05	Reuge	F1	P28	Tirol	g	velar	voiced	eu	preceding vowel duration in ms	212
+Grawunder_2014	Austrian German	TF05	Reuke	F1	P28	Tirol	k	velar	voiceless	eu	preceding vowel duration in ms	163
+Grawunder_2014	Austrian German	TF08	Reuge	F1	P28	Tirol	g	velar	voiced	eu	preceding vowel duration in ms	173
+Grawunder_2014	Austrian German	TF08	Reuke	F1	P28	Tirol	k	velar	voiceless	eu	preceding vowel duration in ms	193
+Grawunder_2014	Austrian German	TF09	Reuge	M1	P28	Tirol	g	velar	voiced	eu	preceding vowel duration in ms	208
+Grawunder_2014	Austrian German	TF09	Reuke	M1	P28	Tirol	k	velar	voiceless	eu	preceding vowel duration in ms	186
+Grawunder_2014	Austrian German	TM05	Reuke	F1	P28	Tirol	k	velar	voiceless	eu	preceding vowel duration in ms	184
+Grawunder_2014	Austrian German	TM05	Reuge	F1	P28	Tirol	g	velar	voiced	eu	preceding vowel duration in ms	218
+Grawunder_2014	Austrian German	TM06	Reuke	F1	P28	Tirol	k	velar	voiceless	eu	preceding vowel duration in ms	168
+Grawunder_2014	Austrian German	TM06	Reuge	F1	P28	Tirol	g	velar	voiced	eu	preceding vowel duration in ms	150
+Grawunder_2014	Austrian German	TM07	Reuke	F1	P28	Tirol	k	velar	voiceless	eu	preceding vowel duration in ms	173
+Grawunder_2014	Austrian German	TM07	Reuge	F1	P28	Tirol	g	velar	voiced	eu	preceding vowel duration in ms	240
+Grawunder_2014	Austrian German	TM08	Reuge	M1	P28	Tirol	g	velar	voiced	eu	preceding vowel duration in ms	146
+Grawunder_2014	Austrian German	TM08	Reuke	M1	P28	Tirol	NA	bilab	voiceless	eu	preceding vowel duration in ms	135
+Grawunder_2014	Austrian German	TM09	Reuke	M1	P28	Tirol	k	velar	voiceless	eu	preceding vowel duration in ms	186
+Grawunder_2014	Austrian German	TM09	Reuge	M1	P28	Tirol	g	velar	voiced	eu	preceding vowel duration in ms	226
+Grawunder_2014	German	SF01	Klabe	F1	P3	Standard	b	bilab	voiced	a	preceding vowel duration in ms	137
+Grawunder_2014	German	SF01	Klape	F1	P3	Standard	p	velar	voiced	a	preceding vowel duration in ms	137
+Grawunder_2014	German	SF02	Klape	F1	P3	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	137
+Grawunder_2014	German	SF02	Klabe	F1	P3	Standard	b	bilab	voiced	a	preceding vowel duration in ms	139
+Grawunder_2014	German	SF03	Klape	M1	P3	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	122
+Grawunder_2014	German	SF03	Klabe	M1	P3	Standard	b	bilab	voiced	a	preceding vowel duration in ms	164
+Grawunder_2014	German	SF06	Klabe	F1	P3	Standard	b	bilab	voiced	a	preceding vowel duration in ms	140
+Grawunder_2014	German	SF06	Klape	F1	P3	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	147
+Grawunder_2014	German	SM01	Klape	M1	P3	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	155
+Grawunder_2014	German	SM01	Klabe	M1	P3	Standard	b	bilab	voiced	a	preceding vowel duration in ms	160
+Grawunder_2014	German	SM02	Klape	M1	P3	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	149
+Grawunder_2014	German	SM02	Klabe	M1	P3	Standard	b	bilab	voiced	a	preceding vowel duration in ms	160
+Grawunder_2014	German	SM03	Klabe	F1	P3	Standard	b	bilab	voiced	a	preceding vowel duration in ms	162
+Grawunder_2014	German	SM03	Klape	F1	P3	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	158
+Grawunder_2014	German	SM04	Klabe	M1	P3	Standard	b	bilab	voiced	a	preceding vowel duration in ms	138
+Grawunder_2014	German	SM04	Klape	M1	P3	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	109
+Grawunder_2014	German	SM10	Klape	F1	P3	Standard	p	bilab	voiceless	a	preceding vowel duration in ms	188
+Grawunder_2014	German	SM10	Klabe	F1	P3	Standard	b	bilab	voiced	a	preceding vowel duration in ms	193
+Grawunder_2014	Austrian German	TF04	Klabe	M1	P3	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	174
+Grawunder_2014	Austrian German	TF04	Klape	M1	P3	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	182
+Grawunder_2014	Austrian German	TF05	Klabe	M1	P3	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	226
+Grawunder_2014	Austrian German	TF05	Klape	M1	P3	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	171
+Grawunder_2014	Austrian German	TF08	Klape	M1	P3	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	123
+Grawunder_2014	Austrian German	TF08	Klabe	M1	P3	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	143
+Grawunder_2014	Austrian German	TF09	Klape	F1	P3	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	152
+Grawunder_2014	Austrian German	TF09	Klabe	F1	P3	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	176
+Grawunder_2014	Austrian German	TM05	Klape	M1	P3	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	203
+Grawunder_2014	Austrian German	TM05	Klabe	M1	P3	Tirol	NA	bilab	voiced	a	preceding vowel duration in ms	219
+Grawunder_2014	Austrian German	TM06	Klape	M1	P3	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	86
+Grawunder_2014	Austrian German	TM06	Klabe	M1	P3	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	159
+Grawunder_2014	Austrian German	TM07	Klabe	M1	P3	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	221
+Grawunder_2014	Austrian German	TM07	Klape	M1	P3	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	128
+Grawunder_2014	Austrian German	TM08	Klabe	F1	P3	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	140
+Grawunder_2014	Austrian German	TM08	Klape	F1	P3	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	122
+Grawunder_2014	Austrian German	TM09	Klabe	F1	P3	Tirol	b	bilab	voiced	a	preceding vowel duration in ms	166
+Grawunder_2014	Austrian German	TM09	Klape	F1	P3	Tirol	p	bilab	voiceless	a	preceding vowel duration in ms	105
+Grawunder_2014	German	SF01	Gope	F1	P4	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	93
+Grawunder_2014	German	SF01	Gobe	F1	P4	Standard	b	bilab	voiced	o	preceding vowel duration in ms	138
+Grawunder_2014	German	SF02	Gope	F1	P4	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	106
+Grawunder_2014	German	SF02	Gobe	F1	P4	Standard	b	bilab	voiced	o	preceding vowel duration in ms	107
+Grawunder_2014	German	SF03	Gobe	M1	P4	Standard	b	bilab	voiced	o	preceding vowel duration in ms	137
+Grawunder_2014	German	SF03	Gope	M1	P4	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	112
+Grawunder_2014	German	SF06	Gope	F1	P4	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	83
+Grawunder_2014	German	SF06	Gobe	F1	P4	Standard	b	bilab	voiced	o	preceding vowel duration in ms	113
+Grawunder_2014	German	SM01	Gope	M1	P4	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	122
+Grawunder_2014	German	SM01	Gobe	M1	P4	Standard	b	bilab	voiced	o	preceding vowel duration in ms	145
+Grawunder_2014	German	SM02	Gobe	M1	P4	Standard	b	bilab	voiced	o	preceding vowel duration in ms	130
+Grawunder_2014	German	SM02	Gope	M1	P4	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	127
+Grawunder_2014	German	SM03	Gope	F1	P4	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	126
+Grawunder_2014	German	SM03	Gobe	F1	P4	Standard	b	bilab	voiced	o	preceding vowel duration in ms	153
+Grawunder_2014	German	SM04	Gobe	M1	P4	Standard	b	bilab	voiced	o	preceding vowel duration in ms	65
+Grawunder_2014	German	SM04	Gope	M1	P4	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	88
+Grawunder_2014	German	SM10	Gope	F1	P4	Standard	p	bilab	voiceless	o	preceding vowel duration in ms	167
+Grawunder_2014	German	SM10	Gobe	F1	P4	Standard	b	bilab	voiced	o	preceding vowel duration in ms	151
+Grawunder_2014	Austrian German	TF04	Gobe	M1	P4	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	147
+Grawunder_2014	Austrian German	TF04	Gope	M1	P4	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	149
+Grawunder_2014	Austrian German	TF05	Gobe	M1	P4	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	210
+Grawunder_2014	Austrian German	TF05	Gope	M1	P4	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	163
+Grawunder_2014	Austrian German	TF08	Gope	M1	P4	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	130
+Grawunder_2014	Austrian German	TF08	Gobe	M1	P4	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	141
+Grawunder_2014	Austrian German	TF09	Gope	F1	P4	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	151
+Grawunder_2014	Austrian German	TF09	Gobe	F1	P4	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	193
+Grawunder_2014	Austrian German	TM05	Gobe	M1	P4	Tirol	NA	velar	voiceless	o	preceding vowel duration in ms	216
+Grawunder_2014	Austrian German	TM05	Gope	M1	P4	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	163
+Grawunder_2014	Austrian German	TM06	Gobe	M1	P4	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	142
+Grawunder_2014	Austrian German	TM06	Gope	M1	P4	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	71
+Grawunder_2014	Austrian German	TM07	Gope	M1	P4	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	149
+Grawunder_2014	Austrian German	TM07	Gobe	M1	P4	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	135
+Grawunder_2014	Austrian German	TM08	Gobe	F1	P4	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	141
+Grawunder_2014	Austrian German	TM08	Gope	F1	P4	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	122
+Grawunder_2014	Austrian German	TM09	Gobe	F1	P4	Tirol	b	bilab	voiced	o	preceding vowel duration in ms	161
+Grawunder_2014	Austrian German	TM09	Gope	F1	P4	Tirol	p	bilab	voiceless	o	preceding vowel duration in ms	170
+Grawunder_2014	German	SF01	Mube	M1	P5	Standard	b	bilab	voiced	u	preceding vowel duration in ms	103
+Grawunder_2014	German	SF01	Mupe	M1	P5	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	103
+Grawunder_2014	German	SF02	Mupe	M1	P5	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	104
+Grawunder_2014	German	SF02	Mube	M1	P5	Standard	b	bilab	voiced	u	preceding vowel duration in ms	95
+Grawunder_2014	German	SF03	Mupe	F1	P5	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	103
+Grawunder_2014	German	SF03	Mube	F1	P5	Standard	b	bilab	voiced	u	preceding vowel duration in ms	96
+Grawunder_2014	German	SF06	Mube	M1	P5	Standard	b	bilab	voiced	u	preceding vowel duration in ms	94
+Grawunder_2014	German	SF06	Mupe	M1	P5	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	94
+Grawunder_2014	German	SM01	Mupe	F1	P5	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	95
+Grawunder_2014	German	SM01	Mube	F1	P5	Standard	b	bilab	voiced	u	preceding vowel duration in ms	123
+Grawunder_2014	German	SM02	Mupe	F1	P5	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	114
+Grawunder_2014	German	SM02	Mube	F1	P5	Standard	b	bilab	voiced	u	preceding vowel duration in ms	93
+Grawunder_2014	German	SM03	Mupe	M1	P5	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	135
+Grawunder_2014	German	SM03	Mube	M1	P5	Standard	b	bilab	voiced	u	preceding vowel duration in ms	127
+Grawunder_2014	German	SM04	Mube	F1	P5	Standard	b	bilab	voiced	u	preceding vowel duration in ms	75
+Grawunder_2014	German	SM04	Mupe	F1	P5	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	84
+Grawunder_2014	German	SM10	Mupe	M1	P5	Standard	p	bilab	voiceless	u	preceding vowel duration in ms	154
+Grawunder_2014	German	SM10	Mube	M1	P5	Standard	b	bilab	voiced	u	preceding vowel duration in ms	149
+Grawunder_2014	Austrian German	TF04	Mube	F1	P5	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	154
+Grawunder_2014	Austrian German	TF04	Mupe	F1	P5	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	65
+Grawunder_2014	Austrian German	TF05	Mube	F1	P5	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	169
+Grawunder_2014	Austrian German	TF05	Mupe	F1	P5	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	131
+Grawunder_2014	Austrian German	TF08	Mube	F1	P5	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	136
+Grawunder_2014	Austrian German	TF08	Mupe	F1	P5	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	88
+Grawunder_2014	Austrian German	TF09	Mube	M1	P5	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	173
+Grawunder_2014	Austrian German	TF09	Mupe	M1	P5	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	173
+Grawunder_2014	Austrian German	TM05	Mupe	F1	P5	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	96
+Grawunder_2014	Austrian German	TM05	Mube	F1	P5	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	181
+Grawunder_2014	Austrian German	TM06	Mube	F1	P5	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	133
+Grawunder_2014	Austrian German	TM06	Mupe	F1	P5	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	91
+Grawunder_2014	Austrian German	TM07	Mupe	F1	P5	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	80
+Grawunder_2014	Austrian German	TM07	Mube	F1	P5	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	130
+Grawunder_2014	Austrian German	TM08	Mupe	M1	P5	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	83
+Grawunder_2014	Austrian German	TM08	Mube	M1	P5	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	113
+Grawunder_2014	Austrian German	TM09	Mube	M1	P5	Tirol	b	bilab	voiced	u	preceding vowel duration in ms	125
+Grawunder_2014	Austrian German	TM09	Mupe	M1	P5	Tirol	p	bilab	voiceless	u	preceding vowel duration in ms	121
+Grawunder_2014	German	SF01	Nauke	M1	P6	Standard	k	velar	voiceless	au	preceding vowel duration in ms	174
+Grawunder_2014	German	SF01	Nauge	M1	P6	Standard	g	velar	voiced	au	preceding vowel duration in ms	180
+Grawunder_2014	German	SF02	Nauke	M1	P6	Standard	k	velar	voiceless	au	preceding vowel duration in ms	185
+Grawunder_2014	German	SF02	Nauge	M1	P6	Standard	g	velar	voiced	au	preceding vowel duration in ms	176
+Grawunder_2014	German	SF03	Nauge	F1	P6	Standard	g	velar	voiced	au	preceding vowel duration in ms	193
+Grawunder_2014	German	SF03	Nauke	F1	P6	Standard	k	velar	voiceless	au	preceding vowel duration in ms	160
+Grawunder_2014	German	SF06	Nauge	M1	P6	Standard	g	velar	voiced	au	preceding vowel duration in ms	132
+Grawunder_2014	German	SF06	Nauke	M1	P6	Standard	k	velar	voiceless	au	preceding vowel duration in ms	137
+Grawunder_2014	German	SM01	Nauke	F1	P6	Standard	k	velar	voiceless	au	preceding vowel duration in ms	170
+Grawunder_2014	German	SM01	Nauge	F1	P6	Standard	g	velar	voiced	au	preceding vowel duration in ms	180
+Grawunder_2014	German	SM02	Nauke	F1	P6	Standard	k	velar	voiceless	au	preceding vowel duration in ms	134
+Grawunder_2014	German	SM02	Nauge	F1	P6	Standard	g	velar	voiced	au	preceding vowel duration in ms	178
+Grawunder_2014	German	SM03	Nauge	M1	P6	Standard	g	velar	voiced	au	preceding vowel duration in ms	184
+Grawunder_2014	German	SM03	Nauke	M1	P6	Standard	k	velar	voiceless	au	preceding vowel duration in ms	178
+Grawunder_2014	German	SM04	Nauge	F1	P6	Standard	g	velar	voiced	au	preceding vowel duration in ms	135
+Grawunder_2014	German	SM04	Nauke	F1	P6	Standard	k	velar	voiceless	au	preceding vowel duration in ms	135
+Grawunder_2014	German	SM10	Nauge	M1	P6	Standard	g	velar	voiced	au	preceding vowel duration in ms	225
+Grawunder_2014	German	SM10	Nauke	M1	P6	Standard	k	velar	voiceless	au	preceding vowel duration in ms	220
+Grawunder_2014	Austrian German	TF04	Nauge	F1	P6	Tirol	g	velar	voiced	au	preceding vowel duration in ms	212
+Grawunder_2014	Austrian German	TF04	Nauke	F1	P6	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	208
+Grawunder_2014	Austrian German	TF05	Nauge	F1	P6	Tirol	g	velar	voiced	au	preceding vowel duration in ms	204
+Grawunder_2014	Austrian German	TF05	Nauke	F1	P6	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	163
+Grawunder_2014	Austrian German	TF08	Nauke	F1	P6	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	172
+Grawunder_2014	Austrian German	TF08	Nauge	F1	P6	Tirol	g	velar	voiced	au	preceding vowel duration in ms	222
+Grawunder_2014	Austrian German	TF09	Nauke	M1	P6	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	160
+Grawunder_2014	Austrian German	TF09	Nauge	M1	P6	Tirol	g	velar	voiced	au	preceding vowel duration in ms	184
+Grawunder_2014	Austrian German	TM05	Nauge	F1	P6	Tirol	g	velar	voiced	au	preceding vowel duration in ms	201
+Grawunder_2014	Austrian German	TM05	Nauke	F1	P6	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	201
+Grawunder_2014	Austrian German	TM06	Nauke	F1	P6	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	134
+Grawunder_2014	Austrian German	TM06	Nauge	F1	P6	Tirol	g	velar	voiced	au	preceding vowel duration in ms	120
+Grawunder_2014	Austrian German	TM07	Nauke	F1	P6	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	163
+Grawunder_2014	Austrian German	TM07	Nauge	F1	P6	Tirol	g	velar	voiced	au	preceding vowel duration in ms	207
+Grawunder_2014	Austrian German	TM08	Nauke	M1	P6	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	170
+Grawunder_2014	Austrian German	TM08	Nauge	M1	P6	Tirol	g	velar	voiced	au	preceding vowel duration in ms	155
+Grawunder_2014	Austrian German	TM09	Nauge	M1	P6	Tirol	g	velar	voiced	au	preceding vowel duration in ms	206
+Grawunder_2014	Austrian German	TM09	Nauke	M1	P6	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	170
+Grawunder_2014	German	SF01	Jiede	F1	P7	Standard	d	alveo	voiced	i	preceding vowel duration in ms	97
+Grawunder_2014	German	SF01	Jiete	F1	P7	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	108
+Grawunder_2014	German	SF02	Jiete	F1	P7	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	97
+Grawunder_2014	German	SF02	Jiede	F1	P7	Standard	d	alveo	voiced	i	preceding vowel duration in ms	116
+Grawunder_2014	German	SF03	Jiede	M1	P7	Standard	d	alveo	voiced	i	preceding vowel duration in ms	131
+Grawunder_2014	German	SF03	Jiete	M1	P7	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	98
+Grawunder_2014	German	SF06	Jiede	F1	P7	Standard	d	alveo	voiced	i	preceding vowel duration in ms	61
+Grawunder_2014	German	SF06	Jiete	F1	P7	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	77
+Grawunder_2014	German	SM01	Jiete	M1	P7	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	161
+Grawunder_2014	German	SM01	Jiede	M1	P7	Standard	d	alveo	voiced	i	preceding vowel duration in ms	181
+Grawunder_2014	German	SM02	Jiete	M1	P7	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	125
+Grawunder_2014	German	SM02	Jiede	M1	P7	Standard	d	alveo	voiced	i	preceding vowel duration in ms	111
+Grawunder_2014	German	SM03	Jiede	F1	P7	Standard	d	alveo	voiced	i	preceding vowel duration in ms	176
+Grawunder_2014	German	SM03	Jiete	F1	P7	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	168
+Grawunder_2014	German	SM04	Jiete	M1	P7	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	131
+Grawunder_2014	German	SM04	Jiede	M1	P7	Standard	d	alveo	voiced	i	preceding vowel duration in ms	75
+Grawunder_2014	German	SM10	Jiete	F1	P7	Standard	t	alveo	voiceless	i	preceding vowel duration in ms	156
+Grawunder_2014	German	SM10	Jiede	F1	P7	Standard	d	alveo	voiced	i	preceding vowel duration in ms	146
+Grawunder_2014	Austrian German	TF04	Jiede	M1	P7	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	134
+Grawunder_2014	Austrian German	TF04	Jiete	M1	P7	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	126
+Grawunder_2014	Austrian German	TF05	Jiete	M1	P7	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	114
+Grawunder_2014	Austrian German	TF05	Jiede	M1	P7	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	134
+Grawunder_2014	Austrian German	TF08	Jiede	M1	P7	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	152
+Grawunder_2014	Austrian German	TF08	Jiete	M1	P7	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	131
+Grawunder_2014	Austrian German	TF09	Jiede	F1	P7	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	154
+Grawunder_2014	Austrian German	TF09	Jiete	F1	P7	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	166
+Grawunder_2014	Austrian German	TM05	Jiede	M1	P7	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	229
+Grawunder_2014	Austrian German	TM05	Jiete	M1	P7	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	157
+Grawunder_2014	Austrian German	TM06	Jiete	M1	P7	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	97
+Grawunder_2014	Austrian German	TM06	Jiede	M1	P7	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	119
+Grawunder_2014	Austrian German	TM07	Jiete	M1	P7	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	129
+Grawunder_2014	Austrian German	TM07	Jiede	M1	P7	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	192
+Grawunder_2014	Austrian German	TM08	Jiede	F1	P7	Tirol	d	alveo	voiced	i	preceding vowel duration in ms	107
+Grawunder_2014	Austrian German	TM08	Jiete	F1	P7	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	123
+Grawunder_2014	Austrian German	TM09	Jiete	F1	P7	Tirol	t	alveo	voiceless	i	preceding vowel duration in ms	230
+Grawunder_2014	Austrian German	TM09	Jiede	F1	P7	Tirol	NA	alveo	voiced	i	preceding vowel duration in ms	199
+Grawunder_2014	German	SF01	Pruge	M1	P8	Standard	g	velar	voiced	u	preceding vowel duration in ms	91
+Grawunder_2014	German	SF01	Pruke	M1	P8	Standard	k	velar	voiceless	u	preceding vowel duration in ms	121
+Grawunder_2014	German	SF02	Pruge	M1	P8	Standard	g	velar	voiced	u	preceding vowel duration in ms	119
+Grawunder_2014	German	SF02	Pruke	M1	P8	Standard	k	velar	voiceless	u	preceding vowel duration in ms	79
+Grawunder_2014	German	SF03	Pruke	F1	P8	Standard	k	velar	voiceless	u	preceding vowel duration in ms	86
+Grawunder_2014	German	SF03	Pruge	F1	P8	Standard	g	velar	voiced	u	preceding vowel duration in ms	91
+Grawunder_2014	German	SF06	Pruke	M1	P8	Standard	k	velar	voiceless	u	preceding vowel duration in ms	69
+Grawunder_2014	German	SF06	Pruge	M1	P8	Standard	g	velar	voiced	u	preceding vowel duration in ms	90
+Grawunder_2014	German	SM01	Pruge	F1	P8	Standard	g	velar	voiced	u	preceding vowel duration in ms	188
+Grawunder_2014	German	SM01	Pruke	F1	P8	Standard	k	velar	voiceless	u	preceding vowel duration in ms	86
+Grawunder_2014	German	SM02	Pruge	F1	P8	Standard	g	velar	voiced	u	preceding vowel duration in ms	110
+Grawunder_2014	German	SM02	Pruke	F1	P8	Standard	k	velar	voiceless	u	preceding vowel duration in ms	88
+Grawunder_2014	German	SM03	Pruke	M1	P8	Standard	k	velar	voiceless	u	preceding vowel duration in ms	143
+Grawunder_2014	German	SM03	Pruge	M1	P8	Standard	g	velar	voiced	u	preceding vowel duration in ms	154
+Grawunder_2014	German	SM04	Pruge	F1	P8	Standard	g	velar	voiced	u	preceding vowel duration in ms	74
+Grawunder_2014	German	SM04	Pruke	F1	P8	Standard	k	velar	voiceless	u	preceding vowel duration in ms	61
+Grawunder_2014	German	SM10	Pruke	M1	P8	Standard	k	velar	voiceless	u	preceding vowel duration in ms	130
+Grawunder_2014	German	SM10	Pruge	M1	P8	Standard	g	velar	voiced	u	preceding vowel duration in ms	151
+Grawunder_2014	Austrian German	TF04	Pruge	F1	P8	Tirol	g	velar	voiced	u	preceding vowel duration in ms	45
+Grawunder_2014	Austrian German	TF04	Pruke	F1	P8	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	82
+Grawunder_2014	Austrian German	TF05	Pruge	F1	P8	Tirol	g	velar	voiced	u	preceding vowel duration in ms	60
+Grawunder_2014	Austrian German	TF05	Pruke	F1	P8	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	71
+Grawunder_2014	Austrian German	TF08	Pruge	F1	P8	Tirol	g	velar	voiced	u	preceding vowel duration in ms	68
+Grawunder_2014	Austrian German	TF08	Pruke	F1	P8	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	84
+Grawunder_2014	Austrian German	TF09	Pruge	M1	P8	Tirol	g	velar	voiced	u	preceding vowel duration in ms	66
+Grawunder_2014	Austrian German	TF09	Pruke	M1	P8	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	96
+Grawunder_2014	Austrian German	TM05	Pruge	F1	P8	Tirol	g	velar	voiced	u	preceding vowel duration in ms	81
+Grawunder_2014	Austrian German	TM05	Pruke	F1	P8	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	78
+Grawunder_2014	Austrian German	TM06	Pruge	F1	P8	Tirol	g	velar	voiced	u	preceding vowel duration in ms	68
+Grawunder_2014	Austrian German	TM06	Pruke	F1	P8	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	65
+Grawunder_2014	Austrian German	TM07	Pruge	F1	P8	Tirol	g	velar	voiced	u	preceding vowel duration in ms	97
+Grawunder_2014	Austrian German	TM07	Pruke	F1	P8	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	72
+Grawunder_2014	Austrian German	TM08	Pruke	M1	P8	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	81
+Grawunder_2014	Austrian German	TM08	Pruge	M1	P8	Tirol	g	velar	voiced	u	preceding vowel duration in ms	61
+Grawunder_2014	Austrian German	TM09	Pruge	M1	P8	Tirol	g	velar	voiced	u	preceding vowel duration in ms	90
+Grawunder_2014	Austrian German	TM09	Pruke	M1	P8	Tirol	k	velar	voiceless	u	preceding vowel duration in ms	80
+Grawunder_2014	German	SF01	Stauge	M1	P9	Standard	g	velar	voiced	au	preceding vowel duration in ms	163
+Grawunder_2014	German	SF01	Stauke	M1	P9	Standard	k	velar	voiceless	au	preceding vowel duration in ms	173
+Grawunder_2014	German	SF02	Stauke	M1	P9	Standard	k	velar	voiceless	au	preceding vowel duration in ms	151
+Grawunder_2014	German	SF02	Stauge	M1	P9	Standard	g	velar	voiced	au	preceding vowel duration in ms	168
+Grawunder_2014	German	SF03	Stauke	F1	P9	Standard	k	velar	voiceless	au	preceding vowel duration in ms	136
+Grawunder_2014	German	SF03	Stauge	F1	P9	Standard	g	velar	voiced	au	preceding vowel duration in ms	169
+Grawunder_2014	German	SF06	Stauge	M1	P9	Standard	g	velar	voiced	au	preceding vowel duration in ms	124
+Grawunder_2014	German	SF06	Stauke	M1	P9	Standard	k	velar	voiceless	au	preceding vowel duration in ms	121
+Grawunder_2014	German	SM01	Stauge	F1	P9	Standard	g	velar	voiced	au	preceding vowel duration in ms	196
+Grawunder_2014	German	SM01	Stauke	F1	P9	Standard	k	velar	voiceless	au	preceding vowel duration in ms	180
+Grawunder_2014	German	SM02	Stauke	F1	P9	Standard	k	velar	voiceless	au	preceding vowel duration in ms	142
+Grawunder_2014	German	SM02	Stauge	F1	P9	Standard	g	velar	voiced	au	preceding vowel duration in ms	161
+Grawunder_2014	German	SM03	Stauge	M1	P9	Standard	g	velar	voiced	au	preceding vowel duration in ms	202
+Grawunder_2014	German	SM03	Stauke	M1	P9	Standard	k	velar	voiceless	au	preceding vowel duration in ms	156
+Grawunder_2014	German	SM04	Stauge	F1	P9	Standard	g	velar	voiced	au	preceding vowel duration in ms	134
+Grawunder_2014	German	SM04	Stauke	F1	P9	Standard	k	velar	voiceless	au	preceding vowel duration in ms	113
+Grawunder_2014	German	SM10	Stauge	M1	P9	Standard	g	velar	voiced	au	preceding vowel duration in ms	186
+Grawunder_2014	German	SM10	Stauke	M1	P9	Standard	k	velar	voiceless	au	preceding vowel duration in ms	190
+Grawunder_2014	Austrian German	TF04	Stauge	F1	P9	Tirol	g	velar	voiced	au	preceding vowel duration in ms	179
+Grawunder_2014	Austrian German	TF04	Stauke	F1	P9	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	178
+Grawunder_2014	Austrian German	TF05	Stauke	F1	P9	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	137
+Grawunder_2014	Austrian German	TF05	Stauge	F1	P9	Tirol	g	velar	voiced	au	preceding vowel duration in ms	159
+Grawunder_2014	Austrian German	TF08	Stauge	F1	P9	Tirol	g	velar	voiced	au	preceding vowel duration in ms	171
+Grawunder_2014	Austrian German	TF08	Stauke	F1	P9	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	148
+Grawunder_2014	Austrian German	TF09	Stauge	M1	P9	Tirol	g	velar	voiced	au	preceding vowel duration in ms	186
+Grawunder_2014	Austrian German	TF09	Stauke	M1	P9	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	135
+Grawunder_2014	Austrian German	TM05	Stauge	F1	P9	Tirol	g	velar	voiced	au	preceding vowel duration in ms	214
+Grawunder_2014	Austrian German	TM05	Stauke	F1	P9	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	161
+Grawunder_2014	Austrian German	TM06	Stauke	F1	P9	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	101
+Grawunder_2014	Austrian German	TM06	Stauge	F1	P9	Tirol	g	velar	voiced	au	preceding vowel duration in ms	128
+Grawunder_2014	Austrian German	TM07	Stauke	F1	P9	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	142
+Grawunder_2014	Austrian German	TM07	Stauge	F1	P9	Tirol	g	velar	voiced	au	preceding vowel duration in ms	184
+Grawunder_2014	Austrian German	TM08	Stauge	M1	P9	Tirol	g	velar	voiced	au	preceding vowel duration in ms	139
+Grawunder_2014	Austrian German	TM08	Stauke	M1	P9	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	163
+Grawunder_2014	Austrian German	TM09	Stauke	M1	P9	Tirol	k	velar	voiceless	au	preceding vowel duration in ms	165
+Grawunder_2014	Austrian German	TM09	Stauge	M1	P9	Tirol	g	velar	voiced	au	preceding vowel duration in ms	109

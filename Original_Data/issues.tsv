@@ -1,0 +1,15 @@
+short_name	IN	PVD	n_comparisons	pseudoreplication	analysis	preceding vowel duration as a cue	why	stats_pitfall
+M81	yes	*	3$\bell$	no	aggregated only by item$\bell$	yes	sign. diff in PVD and ViC (3 DVs measured)	pooling, no correction (DVs)
+FI84	no	*/-	40/40$\bell$	yes$\bell$	each item individually$\bell$	no	4/40 sign. diff in E1 --> no IN 8/40 sign. Diff in E2 --> IN	no pooling, pseudoreplication, no correction (item analyses, DVs)
+PO85	yes	*	4$\bell$	no	aggregated only by item$\bell$	yes	sign. diff in PVD, ViC, ASP, marginally CD (4 DVs analysed)	pooling, no correction (DVs)
+C85	yes	-	2$\bell$	no	aggregated only by speaker$\bell$	no	sign. diff in ViC (2 DVs analysed)	pooling, no correction (DVs)
+PC89	yes	-	5$\bell$	no	?	no	sign. diff in BD (5 DVs analysed), discriminant analysis	pooling, no correction (DVs)
+G01	yes	-	?	yes$\bell$	each item individually$\bell$	no	sign diff. In ASP and ASP intensity (5 DVs analysed)	no pooling, pseudoreplication, no correction (item analyses, DVs)
+PJ04	no	-	120$\bell$	no	each speaker individually$\bell$	no	no sign. diff in 118/120 tests (4 DVs analysed)	no pooling, analysis is not transparent, no correction (speaker analyses, DVs)
+F05	yes	*	13$\bell$	yes$\bell$	each speaker individually$\bell$	NA	sign diff. In RD and CD for one speaker, several sign diff for the articulatory measurements (13 DVs analysed)	no pooling, pseudoreplication, no correction (speaker analyses, DVs)
+Sea09	yes	*	4$\bell$	no	aggregated only by speaker$\bell$	yes	sign. Diff in PVD, ViC, RD (4 DVs analysed)	pooling, no correction (DVs)
+Rea14_1	yes	*	1	no	mixed model	yes	sign. diff in PVD	
+Rea14_2	yes	*	1	no	mixed model	yes	sign. diff in PVD	
+G14	yes	*	5$\bell$	no	mixed model	yes	sign. diff in PVD (5 DVs measured)	no correction (DVs)
+B_1	yes	*	1	no	mixed model	yes	sign. diff in PVD	
+B_2	yes	*	1	no	mixed model	yes	sign. diff in PVD	
