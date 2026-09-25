@@ -2,7 +2,8 @@
 
 An R-based research and meta-analysis repository focusing on Smallest Effect Size of Interest (SESOI) analyses, 
 utilizing empirical data from various experimental phonetics studies, originally published in:
-Nicenboim, B., Roettger, T. B., & Vasishth, S. (2018). Using meta-analysis for evidence synthesis: The case of incomplete neutralization in German. Journal of phonetics, 70, 39-55.
+
+Nicenboim, B., Roettger, T. B., & Vasishth, S. (2018). Using meta-analysis for evidence synthesis: The case of incomplete neutralization in German. Journal of phonetics, 70, 39-55. DOI: [10.1016/j.wocn.2018.06.001](10.1016/j.wocn.2018.06.001)
 
 ## Repository Structure
 
